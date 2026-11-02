@@ -2,7 +2,7 @@
 
 这里只存图片和素材说明。源码、数据库、账号与会话不在这个公开仓库。
 
-**当前35张图片，4套主角外观；不是全部历史素材已找齐。** 图片按用途和动作命名；SHA256只用于校验。图片本身没有重绘、转码或新增副本。
+**当前共1054张图片：首批35张＋1019张按原路径核实的精灵/道具图；另有66张原件待分类与隐私核对，未公开。不是全部历史素材已找齐。** 图片按用途和动作命名；SHA256只用于校验。图片本身没有重绘、转码或新增副本。
 
 ## 怎么找
 - `maps/tiles/`：地图地块（2张）
@@ -12,13 +12,26 @@
 - `characters/emerald/`：Emerald男女主动作图集（14张）
 - `characters/ruby-sapphire-aliases/`：另一上游版本的同外观图集（4张，不是4个新人）
 
+## 新增1019张精灵与道具分类
+
+逐图信息见 [pokemon-assets.json](pokemon-assets.json)，目录内包含逐图中文说明及预览。
+
+- [items/pokeapi-icons](items/pokeapi-icons/README.md)：1张
+- [pokemon/sprites/back/normal/default-static](pokemon/sprites/back/normal/default-static/README.md)：135张
+- [pokemon/sprites/back/normal/gen5-black-white-animated](pokemon/sprites/back/normal/gen5-black-white-animated/README.md)：1张
+- [pokemon/sprites/back/shiny/default-static](pokemon/sprites/back/shiny/default-static/README.md)：135张
+- [pokemon/sprites/front/normal/default-static](pokemon/sprites/front/normal/default-static/README.md)：238张
+- [pokemon/sprites/front/normal/gen5-black-white-animated](pokemon/sprites/front/normal/gen5-black-white-animated/README.md)：140张
+- [pokemon/sprites/front/shiny/default-static](pokemon/sprites/front/shiny/default-static/README.md)：234张
+- [pokemon/sprites/front/shiny/gen5-black-white-animated](pokemon/sprites/front/shiny/gen5-black-white-animated/README.md)：135张
+
 ## 使用约定
 - 接入用固定commit链接，不用会漂移的main地址。旧版本图片链接仍可追溯。
 - 图集须裁格，`normal.png`包含多种动作，不将其误称单独行走图。冲浪图只有人物层，水面/坐骑组合另需规则。
 - 来源、原版本、尺寸、帧格信息、哈希与接入状态详见[机器可读清单](assets.json)。
 - 来源标注不等于开放许可。第三方作品权利归相应权利人所有，未宣称原创、官方合作或开放再分发授权。
 
-## 全部图片：名称、用途与预览
+## 首批35张：名称、用途与预览
 
 ### 普通草地块
 
