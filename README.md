@@ -1,9 +1,7 @@
-# Pokemon World runtime assets
+# Pokemon World assets
 
-This repository is reserved for individually reviewed game images and provenance notices.
+User-maintained runtime image mirror. See [assets.json](assets.json) for per-file source, fixed upstream revision where known, size and SHA-256.
 
-Application source, databases, player data, conversations, credentials, and private recovery archives do not belong here.
+Original artwork rights remain with their respective holders, including Pokemon/game artwork rights holders. No affiliation or endorsement is claimed. No blanket open-source license is granted to artwork; attribution and intended non-commercial use do not establish redistribution rights. Missing source license evidence is recorded as NOASSERTION.
 
-Assets will be referenced by immutable commit and SHA-256. Source availability alone is not a redistribution license. No blanket license is granted for third-party artwork.
-
-Initial state: asset publication review pending; no game images published yet.
+This repository contains images and provenance only, not application source, databases, chats, credentials or private recovery archives.
