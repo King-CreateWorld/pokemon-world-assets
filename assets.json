@@ -1,426 +1,872 @@
 {
+  "schemaVersion": 2,
+  "图片数量": 35,
+  "说明": "来源、用途和状态逐项列明；不包含原项目账号/会话/本地路径",
   "assets": [
     {
-      "path": "images/062c8d7700176008b9eae17bf2709c2d04ed893a3d5e2e4ca4e3db16214e170b.png",
-      "name": "普通草",
-      "group": "two-grass",
+      "path": "maps/tiles/grass.png",
+      "中文名称": "普通草地块",
+      "用途": "地图普通地面及编辑器绘制",
+      "状态": "已接入自有应用静态路径；尚未切为本库新直链",
+      "尺寸": [
+        16,
+        16
+      ],
       "bytes": 1678,
       "sha256": "062c8d7700176008b9eae17bf2709c2d04ed893a3d5e2e4ca4e3db16214e170b",
-      "source": "Original project supplied image; source host miaoda-conversation-file.cdn.bcebos.com; filename file-7oue52qn241s.png",
+      "图集": null,
+      "来源": {
+        "渠道": "原项目提供的图片",
+        "host": "miaoda-conversation-file.cdn.bcebos.com",
+        "文件名": "file-7oue52qn241s.png"
+      },
       "upstreamRepo": null,
       "upstreamCommit": null,
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/062c8d7700176008b9eae17bf2709c2d04ed893a3d5e2e4ca4e3db16214e170b.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/524bad8022d383681f58bb1fc2ff3fd9a30ef588f6484f114c4bc07cdf617f14.png",
-      "name": "高草",
-      "group": "two-grass",
+      "path": "maps/tiles/tall-grass.png",
+      "中文名称": "高草地块",
+      "用途": "地图高草外观；不以图片本身推断遇敌规则",
+      "状态": "已接入自有应用静态路径；尚未切为本库新直链",
+      "尺寸": [
+        16,
+        16
+      ],
       "bytes": 1896,
       "sha256": "524bad8022d383681f58bb1fc2ff3fd9a30ef588f6484f114c4bc07cdf617f14",
-      "source": "Original project supplied image; source host miaoda-conversation-file.cdn.bcebos.com; filename file-7oujz3l2ps00.png",
+      "图集": null,
+      "来源": {
+        "渠道": "原项目提供的图片",
+        "host": "miaoda-conversation-file.cdn.bcebos.com",
+        "文件名": "file-7oujz3l2ps00.png"
+      },
       "upstreamRepo": null,
       "upstreamCommit": null,
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/524bad8022d383681f58bb1fc2ff3fd9a30ef588f6484f114c4bc07cdf617f14.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/36be7c6b21b1525d05acc60b1359da91e6ce8769d4783f6e92dcce95930c38fe.jpg",
-      "name": "登录/找回密码背景",
-      "group": "three-jpeg",
+      "path": "ui/backgrounds/login-and-password-recovery.jpg",
+      "中文名称": "登录与找回密码背景",
+      "用途": "登录页和找回密码页共用",
+      "状态": "待接入",
+      "尺寸": [
+        1344,
+        768
+      ],
       "bytes": 961784,
       "sha256": "36be7c6b21b1525d05acc60b1359da91e6ce8769d4783f6e92dcce95930c38fe",
-      "source": "Original project supplied image; source host miaoda-conversation-file.cdn.bcebos.com; filename file-7zhb0r12iubk.jpg",
+      "图集": null,
+      "来源": {
+        "渠道": "原项目提供的图片",
+        "host": "miaoda-conversation-file.cdn.bcebos.com",
+        "文件名": "file-7zhb0r12iubk.jpg"
+      },
       "upstreamRepo": null,
       "upstreamCommit": null,
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/36be7c6b21b1525d05acc60b1359da91e6ce8769d4783f6e92dcce95930c38fe.jpg",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/663feb1594714a082dd3d3d7016f0cd956725ee1e2b0d2ca7610ee199bfa7e94.jpg",
-      "name": "商店fallback图",
-      "group": "three-jpeg",
+      "path": "ui/fallbacks/shop-item.jpg",
+      "中文名称": "商店商品缺图兜底",
+      "用途": "商品图缺失或加载失败时的既有兜底，不是商店背景",
+      "状态": "待接入",
+      "尺寸": [
+        3840,
+        3104
+      ],
       "bytes": 4887508,
       "sha256": "663feb1594714a082dd3d3d7016f0cd956725ee1e2b0d2ca7610ee199bfa7e94",
-      "source": "Original project supplied image; source host miaoda-site-img.cdn.bcebos.com; filename baidu_image_search_7a231caa-2ceb-410c-9ac3-2fc526ee0b54.jpg",
+      "图集": null,
+      "来源": {
+        "渠道": "原项目提供的图片",
+        "host": "miaoda-site-img.cdn.bcebos.com",
+        "文件名": "baidu_image_search_7a231caa-2ceb-410c-9ac3-2fc526ee0b54.jpg"
+      },
       "upstreamRepo": null,
       "upstreamCommit": null,
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/663feb1594714a082dd3d3d7016f0cd956725ee1e2b0d2ca7610ee199bfa7e94.jpg",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/c7f29dec225629775ab76d18569ffe12ce906f6b0e0767a8c79af2af69dc2903.jpg",
-      "name": "游戏世界背景",
-      "group": "three-jpeg",
+      "path": "ui/backgrounds/game-world.jpg",
+      "中文名称": "游戏世界背景",
+      "用途": "GameWorld既有背景用途；不是地块布局或战斗场景",
+      "状态": "待接入",
+      "尺寸": [
+        2688,
+        1536
+      ],
       "bytes": 3074356,
       "sha256": "c7f29dec225629775ab76d18569ffe12ce906f6b0e0767a8c79af2af69dc2903",
-      "source": "Original project supplied image; source host miaoda-conversation-file.cdn.bcebos.com; filename file-7zjrlorc3dog.jpg",
+      "图集": null,
+      "来源": {
+        "渠道": "原项目提供的图片",
+        "host": "miaoda-conversation-file.cdn.bcebos.com",
+        "文件名": "file-7zjrlorc3dog.jpg"
+      },
       "upstreamRepo": null,
       "upstreamCommit": null,
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/c7f29dec225629775ab76d18569ffe12ce906f6b0e0767a8c79af2af69dc2903.jpg",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/f33ec07a5fd17f4422455f8bc55cd3d3522fa65c3bf740ecbdc00da705eaa0d1.png",
-      "name": "brendan/walking.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/brendan/walking.png",
+      "中文名称": "Emerald 男主布兰登 · 行走",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        144,
+        32
+      ],
       "bytes": 796,
       "sha256": "f33ec07a5fd17f4422455f8bc55cd3d3522fa65c3bf740ecbdc00da705eaa0d1",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/walking.png",
+      "图集": {
+        "cellWidth": 16,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/walking.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/f33ec07a5fd17f4422455f8bc55cd3d3522fa65c3bf740ecbdc00da705eaa0d1.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/231bf06e0c45cd1eb14e2039bd63cbbfc735ff646c7e3b8986c22b423a7a6896.png",
-      "name": "brendan/running.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/brendan/running.png",
+      "中文名称": "Emerald 男主布兰登 · 跑步",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        144,
+        32
+      ],
       "bytes": 793,
       "sha256": "231bf06e0c45cd1eb14e2039bd63cbbfc735ff646c7e3b8986c22b423a7a6896",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/running.png",
+      "图集": {
+        "cellWidth": 16,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/running.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/231bf06e0c45cd1eb14e2039bd63cbbfc735ff646c7e3b8986c22b423a7a6896.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/8eec0becaea834b8fc82f28613b770baefda40e2db69661876fe0e0c7a65409d.png",
-      "name": "brendan/mach_bike.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/brendan/mach_bike.png",
+      "中文名称": "Emerald 男主布兰登 · 高速自行车",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        288,
+        32
+      ],
       "bytes": 1049,
       "sha256": "8eec0becaea834b8fc82f28613b770baefda40e2db69661876fe0e0c7a65409d",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/mach_bike.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/mach_bike.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/8eec0becaea834b8fc82f28613b770baefda40e2db69661876fe0e0c7a65409d.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/a98ec5dbcc21fbcae1fbcb83420de67028eabe8f85717bd146fab6ca4169a245.png",
-      "name": "brendan/acro_bike.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/brendan/acro_bike.png",
+      "中文名称": "Emerald 男主布兰登 · 技巧自行车",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏；当前仅原格展示，业务动作待核",
+      "尺寸": [
+        864,
+        32
+      ],
       "bytes": 2465,
       "sha256": "a98ec5dbcc21fbcae1fbcb83420de67028eabe8f85717bd146fab6ca4169a245",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/acro_bike.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 27,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/acro_bike.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/a98ec5dbcc21fbcae1fbcb83420de67028eabe8f85717bd146fab6ca4169a245.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/96816922552b6ea5479abbf6dba0a44a255e7c3a4a3fa563c9f573a8dfa827a6.png",
-      "name": "brendan/surfing.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/brendan/surfing.png",
+      "中文名称": "Emerald 男主布兰登 · 冲浪人物层",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        192,
+        32
+      ],
       "bytes": 768,
       "sha256": "96816922552b6ea5479abbf6dba0a44a255e7c3a4a3fa563c9f573a8dfa827a6",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/surfing.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 6,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/surfing.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/96816922552b6ea5479abbf6dba0a44a255e7c3a4a3fa563c9f573a8dfa827a6.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/8483ae7fdfe62c7ddc7c166f926d8cc5a07cf167d10cc65584be35ed68b0f191.png",
-      "name": "brendan/fishing.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/brendan/fishing.png",
+      "中文名称": "Emerald 男主布兰登 · 钓鱼",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        384,
+        32
+      ],
       "bytes": 1470,
       "sha256": "8483ae7fdfe62c7ddc7c166f926d8cc5a07cf167d10cc65584be35ed68b0f191",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/fishing.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 12,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/fishing.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/8483ae7fdfe62c7ddc7c166f926d8cc5a07cf167d10cc65584be35ed68b0f191.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/2d1a7ed94b86a2ce291e1df2dfc0ae00cb3b3a76e0a4c7e9d98053e1369f9955.png",
-      "name": "brendan/watering.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/brendan/watering.png",
+      "中文名称": "Emerald 男主布兰登 · 浇水",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏；当前仅原格展示，业务动作待核",
+      "尺寸": [
+        192,
+        32
+      ],
       "bytes": 641,
       "sha256": "2d1a7ed94b86a2ce291e1df2dfc0ae00cb3b3a76e0a4c7e9d98053e1369f9955",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/watering.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 6,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/brendan/watering.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/2d1a7ed94b86a2ce291e1df2dfc0ae00cb3b3a76e0a4c7e9d98053e1369f9955.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/9792a6ed4b83f8aa286d1042e9faf0614c759fb5c7d2548ab8fc13e46511a57d.png",
-      "name": "ruby_sapphire_brendan/walking.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby-sapphire-aliases/brendan/walking.png",
+      "中文名称": "Ruby/Sapphire来源别名 男主布兰登 · 行走",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示；同外观来源别名，不计作新增角色",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        144,
+        32
+      ],
       "bytes": 783,
       "sha256": "9792a6ed4b83f8aa286d1042e9faf0614c759fb5c7d2548ab8fc13e46511a57d",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/ruby_sapphire_brendan/walking.png",
+      "图集": {
+        "cellWidth": 16,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/ruby_sapphire_brendan/walking.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/9792a6ed4b83f8aa286d1042e9faf0614c759fb5c7d2548ab8fc13e46511a57d.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/ad6d6eeaaca509cb00c8b051b2a3f82d4bf1da341b145f938c1f2c57d73e9e27.png",
-      "name": "ruby_sapphire_brendan/running.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby-sapphire-aliases/brendan/running.png",
+      "中文名称": "Ruby/Sapphire来源别名 男主布兰登 · 跑步",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示；同外观来源别名，不计作新增角色",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        144,
+        32
+      ],
       "bytes": 783,
       "sha256": "ad6d6eeaaca509cb00c8b051b2a3f82d4bf1da341b145f938c1f2c57d73e9e27",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/ruby_sapphire_brendan/running.png",
+      "图集": {
+        "cellWidth": 16,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/ruby_sapphire_brendan/running.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/ad6d6eeaaca509cb00c8b051b2a3f82d4bf1da341b145f938c1f2c57d73e9e27.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/7f185cda9854f7812545c306795b454dc750be440e582974518ba8a63c9b7e87.png",
-      "name": "may/walking.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/may/walking.png",
+      "中文名称": "Emerald 女主小遥 · 行走",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        144,
+        32
+      ],
       "bytes": 771,
       "sha256": "7f185cda9854f7812545c306795b454dc750be440e582974518ba8a63c9b7e87",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/walking.png",
+      "图集": {
+        "cellWidth": 16,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/walking.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/7f185cda9854f7812545c306795b454dc750be440e582974518ba8a63c9b7e87.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/502d64cc79413b113761cb78e56ae8d9a08a093a5fc4599f46986dd44016a987.png",
-      "name": "may/running.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/may/running.png",
+      "中文名称": "Emerald 女主小遥 · 跑步",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        144,
+        32
+      ],
       "bytes": 848,
       "sha256": "502d64cc79413b113761cb78e56ae8d9a08a093a5fc4599f46986dd44016a987",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/running.png",
+      "图集": {
+        "cellWidth": 16,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/running.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/502d64cc79413b113761cb78e56ae8d9a08a093a5fc4599f46986dd44016a987.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/0b99cdfd6514e3ffa980d1a3d4606ba33ff6c4835090d1be588a293a0674a737.png",
-      "name": "may/mach_bike.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/may/mach_bike.png",
+      "中文名称": "Emerald 女主小遥 · 高速自行车",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        288,
+        32
+      ],
       "bytes": 1106,
       "sha256": "0b99cdfd6514e3ffa980d1a3d4606ba33ff6c4835090d1be588a293a0674a737",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/mach_bike.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/mach_bike.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/0b99cdfd6514e3ffa980d1a3d4606ba33ff6c4835090d1be588a293a0674a737.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/f95ca561a02592c32f0f1ee6044db1f25fb8f32052c87bbdcf715f728a549624.png",
-      "name": "may/acro_bike.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/may/acro_bike.png",
+      "中文名称": "Emerald 女主小遥 · 技巧自行车",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏；当前仅原格展示，业务动作待核",
+      "尺寸": [
+        864,
+        32
+      ],
       "bytes": 2513,
       "sha256": "f95ca561a02592c32f0f1ee6044db1f25fb8f32052c87bbdcf715f728a549624",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/acro_bike.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 27,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/acro_bike.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/f95ca561a02592c32f0f1ee6044db1f25fb8f32052c87bbdcf715f728a549624.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/29be49cebc9fb5f0e94a1b9ec9a92b136ee44b97dfa085952a92a9dec90d6e7b.png",
-      "name": "may/surfing.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/may/surfing.png",
+      "中文名称": "Emerald 女主小遥 · 冲浪人物层",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        192,
+        32
+      ],
       "bytes": 758,
       "sha256": "29be49cebc9fb5f0e94a1b9ec9a92b136ee44b97dfa085952a92a9dec90d6e7b",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/surfing.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 6,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/surfing.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/29be49cebc9fb5f0e94a1b9ec9a92b136ee44b97dfa085952a92a9dec90d6e7b.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/cd55247ba4472e9138d33b5ee4cc19754faec142540285af15a91ca0355977f5.png",
-      "name": "may/fishing.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/may/fishing.png",
+      "中文名称": "Emerald 女主小遥 · 钓鱼",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        384,
+        32
+      ],
       "bytes": 1524,
       "sha256": "cd55247ba4472e9138d33b5ee4cc19754faec142540285af15a91ca0355977f5",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/fishing.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 12,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/fishing.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/cd55247ba4472e9138d33b5ee4cc19754faec142540285af15a91ca0355977f5.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/126c11549328e77174109178043f6fdc1e1debb8b83c3863c97497655ebe08a8.png",
-      "name": "may/watering.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/emerald/may/watering.png",
+      "中文名称": "Emerald 女主小遥 · 浇水",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏；当前仅原格展示，业务动作待核",
+      "尺寸": [
+        192,
+        32
+      ],
       "bytes": 659,
       "sha256": "126c11549328e77174109178043f6fdc1e1debb8b83c3863c97497655ebe08a8",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/watering.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 6,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/may/watering.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/126c11549328e77174109178043f6fdc1e1debb8b83c3863c97497655ebe08a8.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/ee189388b766de8327777da7962a4ffcdc8204cbd184d761e0c1b0a2017c2334.png",
-      "name": "ruby_sapphire_may/walking.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby-sapphire-aliases/may/walking.png",
+      "中文名称": "Ruby/Sapphire来源别名 女主小遥 · 行走",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示；同外观来源别名，不计作新增角色",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        144,
+        32
+      ],
       "bytes": 745,
       "sha256": "ee189388b766de8327777da7962a4ffcdc8204cbd184d761e0c1b0a2017c2334",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/ruby_sapphire_may/walking.png",
+      "图集": {
+        "cellWidth": 16,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/ruby_sapphire_may/walking.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/ee189388b766de8327777da7962a4ffcdc8204cbd184d761e0c1b0a2017c2334.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/1a07051b2ad5aa110d16f513311188e154ff39ac31a0619c07048fc21a94b200.png",
-      "name": "ruby_sapphire_may/running.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby-sapphire-aliases/may/running.png",
+      "中文名称": "Ruby/Sapphire来源别名 女主小遥 · 跑步",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示；同外观来源别名，不计作新增角色",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        144,
+        32
+      ],
       "bytes": 846,
       "sha256": "1a07051b2ad5aa110d16f513311188e154ff39ac31a0619c07048fc21a94b200",
-      "source": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/ruby_sapphire_may/running.png",
+      "图集": {
+        "cellWidth": 16,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeemerald/blob/731ad5bfd6e6f265508d0efcca0ba42f9dcf5881/graphics/object_events/pics/people/ruby_sapphire_may/running.png",
       "upstreamRepo": "pret/pokeemerald",
       "upstreamCommit": "731ad5bfd6e6f265508d0efcca0ba42f9dcf5881",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/1a07051b2ad5aa110d16f513311188e154ff39ac31a0619c07048fc21a94b200.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/a6bd25b78904f02ea725c2b267dd673eb8c3559a1b238aeb76801de2c4f060e8.png",
-      "name": "brendan/normal.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/brendan/normal.png",
+      "中文名称": "Ruby 男主布兰登 · 站立、行走与跑步混合图集",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        288,
+        32
+      ],
       "bytes": 1235,
       "sha256": "a6bd25b78904f02ea725c2b267dd673eb8c3559a1b238aeb76801de2c4f060e8",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/normal.png",
+      "图集": {
+        "cellWidth": 16,
+        "cellHeight": 32,
+        "cells": 18,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/normal.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/a6bd25b78904f02ea725c2b267dd673eb8c3559a1b238aeb76801de2c4f060e8.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/0dd9fd1643cd4329eaf2521ecfae52f8ae24c7d8166f1c8af96093bb21a76794.png",
-      "name": "brendan/mach_bike.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/brendan/mach_bike.png",
+      "中文名称": "Ruby 男主布兰登 · 高速自行车",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        288,
+        32
+      ],
       "bytes": 1036,
       "sha256": "0dd9fd1643cd4329eaf2521ecfae52f8ae24c7d8166f1c8af96093bb21a76794",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/mach_bike.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/mach_bike.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/0dd9fd1643cd4329eaf2521ecfae52f8ae24c7d8166f1c8af96093bb21a76794.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/1b5a96ef3d4a0bcf550be46105a14ec72dc31835b2b5591819d8263c1dbbe958.png",
-      "name": "brendan/acro_bike.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/brendan/acro_bike.png",
+      "中文名称": "Ruby 男主布兰登 · 技巧自行车",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏；当前仅原格展示，业务动作待核",
+      "尺寸": [
+        864,
+        32
+      ],
       "bytes": 2403,
       "sha256": "1b5a96ef3d4a0bcf550be46105a14ec72dc31835b2b5591819d8263c1dbbe958",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/acro_bike.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 27,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/acro_bike.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/1b5a96ef3d4a0bcf550be46105a14ec72dc31835b2b5591819d8263c1dbbe958.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/f82f5d1f388e7bb83481baecf8ae9e817258bcde884ae598330c5f72bcef336a.png",
-      "name": "brendan/surfing.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/brendan/surfing.png",
+      "中文名称": "Ruby 男主布兰登 · 冲浪人物层",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        192,
+        32
+      ],
       "bytes": 750,
       "sha256": "f82f5d1f388e7bb83481baecf8ae9e817258bcde884ae598330c5f72bcef336a",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/surfing.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 6,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/surfing.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/f82f5d1f388e7bb83481baecf8ae9e817258bcde884ae598330c5f72bcef336a.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/2910eb7446ad5097984c0acd2ae261df0aea502a3f6645366ed427cfbbf5ae85.png",
-      "name": "brendan/fishing.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/brendan/fishing.png",
+      "中文名称": "Ruby 男主布兰登 · 钓鱼",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        384,
+        32
+      ],
       "bytes": 1476,
       "sha256": "2910eb7446ad5097984c0acd2ae261df0aea502a3f6645366ed427cfbbf5ae85",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/fishing.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 12,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/fishing.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/2910eb7446ad5097984c0acd2ae261df0aea502a3f6645366ed427cfbbf5ae85.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/f6d2cdd4cdd93cf82711287c22f745d7f2d17775b7a5ed25a1fe454c4c3e18fb.png",
-      "name": "brendan/watering.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/brendan/watering.png",
+      "中文名称": "Ruby 男主布兰登 · 浇水",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏；当前仅原格展示，业务动作待核",
+      "尺寸": [
+        192,
+        32
+      ],
       "bytes": 630,
       "sha256": "f6d2cdd4cdd93cf82711287c22f745d7f2d17775b7a5ed25a1fe454c4c3e18fb",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/watering.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 6,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/brendan/watering.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/f6d2cdd4cdd93cf82711287c22f745d7f2d17775b7a5ed25a1fe454c4c3e18fb.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/9fc1e463f8d581459da84aa33722a6fbc5005987c9259f16aee08623cfcb0556.png",
-      "name": "may/normal.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/may/normal.png",
+      "中文名称": "Ruby 女主小遥 · 站立、行走与跑步混合图集",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        288,
+        32
+      ],
       "bytes": 1244,
       "sha256": "9fc1e463f8d581459da84aa33722a6fbc5005987c9259f16aee08623cfcb0556",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/normal.png",
+      "图集": {
+        "cellWidth": 16,
+        "cellHeight": 32,
+        "cells": 18,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/normal.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/9fc1e463f8d581459da84aa33722a6fbc5005987c9259f16aee08623cfcb0556.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/92c22f15264345e3809b6974e4781cd93eb0151155aaf3eeea10582ce2c0471f.png",
-      "name": "may/mach_bike.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/may/mach_bike.png",
+      "中文名称": "Ruby 女主小遥 · 高速自行车",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        288,
+        32
+      ],
       "bytes": 1089,
       "sha256": "92c22f15264345e3809b6974e4781cd93eb0151155aaf3eeea10582ce2c0471f",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/mach_bike.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 9,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/mach_bike.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/92c22f15264345e3809b6974e4781cd93eb0151155aaf3eeea10582ce2c0471f.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/66a932b22032bbac333deb5fa7119ad5c172ce71b25034d2463b616583ae1ff8.png",
-      "name": "may/acro_bike.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/may/acro_bike.png",
+      "中文名称": "Ruby 女主小遥 · 技巧自行车",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏；当前仅原格展示，业务动作待核",
+      "尺寸": [
+        864,
+        32
+      ],
       "bytes": 2433,
       "sha256": "66a932b22032bbac333deb5fa7119ad5c172ce71b25034d2463b616583ae1ff8",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/acro_bike.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 27,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/acro_bike.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/66a932b22032bbac333deb5fa7119ad5c172ce71b25034d2463b616583ae1ff8.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/3c6d08f17ccf69ca8eea9594f8837aed27bcc22d17e8d259a0eea30e07fd1f81.png",
-      "name": "may/surfing.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/may/surfing.png",
+      "中文名称": "Ruby 女主小遥 · 冲浪人物层",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        192,
+        32
+      ],
       "bytes": 749,
       "sha256": "3c6d08f17ccf69ca8eea9594f8837aed27bcc22d17e8d259a0eea30e07fd1f81",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/surfing.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 6,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/surfing.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/3c6d08f17ccf69ca8eea9594f8837aed27bcc22d17e8d259a0eea30e07fd1f81.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/c965ad7d3693cc19190de608c3a3bbf51a8553d4eab060b1cd3f28f360d6f4bb.png",
-      "name": "may/fishing.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/may/fishing.png",
+      "中文名称": "Ruby 女主小遥 · 钓鱼",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏",
+      "尺寸": [
+        384,
+        32
+      ],
       "bytes": 1497,
       "sha256": "c965ad7d3693cc19190de608c3a3bbf51a8553d4eab060b1cd3f28f360d6f4bb",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/fishing.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 12,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/fishing.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/c965ad7d3693cc19190de608c3a3bbf51a8553d4eab060b1cd3f28f360d6f4bb.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     },
     {
-      "path": "images/6f8440f2ca2f3cb561fd3815b06cc3850f9cdace77d278f6c0a666a912f8f3f7.png",
-      "name": "may/watering.png",
-      "group": "thirty-character-atlases",
+      "path": "characters/ruby/may/watering.png",
+      "中文名称": "Ruby 女主小遥 · 浇水",
+      "用途": "人物原始动作图集，须按源格裁切后播放，不可当整张人物直接显示",
+      "状态": "候选；仅本地预览，未接入游戏；当前仅原格展示，业务动作待核",
+      "尺寸": [
+        192,
+        32
+      ],
       "bytes": 647,
       "sha256": "6f8440f2ca2f3cb561fd3815b06cc3850f9cdace77d278f6c0a666a912f8f3f7",
-      "source": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/watering.png",
+      "图集": {
+        "cellWidth": 32,
+        "cellHeight": 32,
+        "cells": 6,
+        "nativeTransparencyMetadata": false,
+        "note": "仅物理格信息；顺序/镜像/时序按对应上游程序，非一律从左至右。索引0透明需按原调色板规则处理。"
+      },
+      "来源": "https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/watering.png",
       "upstreamRepo": "pret/pokeruby",
       "upstreamCommit": "5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f",
-      "license": "NOASSERTION",
-      "rightsNote": "Original rights remain with respective holders; attribution is not a license grant."
+      "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
+      "旧路径": "images/6f8440f2ca2f3cb561fd3815b06cc3850f9cdace77d278f6c0a666a912f8f3f7.png",
+      "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
     }
-  ],
-  "rights": "No blanket license for third-party artwork",
-  "scope": "35 images only; no application or user data"
+  ]
 }
