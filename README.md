@@ -2,9 +2,14 @@
 
 这里只存图片和素材说明。源码、数据库、账号与会话不在这个公开仓库。
 
-**当前共1083张图片：首批35张＋1019张按原路径核实的精灵/道具图＋26张历史人物/场景＋3张历史上传参考；另37张保持隔离，未公开。不是全部历史素材已找齐。** 图片按用途和动作命名；SHA256只用于校验。图片本身没有重绘、转码或新增副本。
+**当前索引覆盖 1,581 张图片：1,053 张已索引原件 + 30 张人物图集候选 + 498 张静态背图候选。** 另有 37 张隔离原件未公开。索引覆盖当前公库图片，不代表全部历史素材已找齐。 图片按用途与动作命名，SHA-256 用于校验，归档未改动图片字节。
 
 ## 怎么找
+
+- **人物图集候选（30 张）**：[Ruby](characters/ruby/)、[Emerald](characters/emerald/)、[Ruby／Sapphire 同外观别名](characters/ruby-sapphire-aliases/)；逐件上游仓库、固定提交和原路径见 [首批来源索引](assets.json)。
+- **静态背图候选（498 张）**：[普通](pokemon/candidates/back/normal/default-static/)、[闪光](pokemon/candidates/back/shiny/default-static/)；来源和哈希见 [#1 两张](pokemon/candidates/back/README-dex-00001.md) 与 [其余 496 张](pokemon/candidates/back/static-back-historical-249-sources.json)。
+- **已索引原件（1,053 张）**：见 [首批索引中的 5 张原件](assets.json)、[精灵／道具](pokemon-assets.json)、[历史人物／场景](historical-assets.json)、[历史上传参考](reference-assets.json)。
+
 - `maps/tiles/`：地图地块（2张）
 - `ui/backgrounds/`：登录、游戏世界背景（2张）
 - `ui/fallbacks/`：商店商品缺图兜底（1张）
