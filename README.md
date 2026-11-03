@@ -2,7 +2,7 @@
 
 这里只存图片和素材说明。源码、数据库、账号与会话不在这个公开仓库。
 
-**当前共1054张图片：首批35张＋1019张按原路径核实的精灵/道具图；另有66张原件待分类与隐私核对，未公开。不是全部历史素材已找齐。** 图片按用途和动作命名；SHA256只用于校验。图片本身没有重绘、转码或新增副本。
+**当前共1080张图片：首批35张＋1019张按原路径核实的精灵/道具图＋26张历史人物/树片/建筑/战斗与场景参考；另40张保持隔离，未公开。不是全部历史素材已找齐。** 图片按用途和动作命名；SHA256只用于校验。图片本身没有重绘、转码或新增副本。
 
 ## 怎么找
 - `maps/tiles/`：地图地块（2张）
@@ -24,6 +24,21 @@
 - [pokemon/sprites/front/normal/gen5-black-white-animated](pokemon/sprites/front/normal/gen5-black-white-animated/README.md)：140张
 - [pokemon/sprites/front/shiny/default-static](pokemon/sprites/front/shiny/default-static/README.md)：234张
 - [pokemon/sprites/front/shiny/gen5-black-white-animated](pokemon/sprites/front/shiny/gen5-black-white-animated/README.md)：135张
+
+## 新增26张历史人物与场景素材
+
+- [battle/backgrounds/cave](battle/backgrounds/cave/README.md)：2张
+- [battle/backgrounds/tall-grass](battle/backgrounds/tall-grass/README.md)：2张
+- [battle/backgrounds/water](battle/backgrounds/water/README.md)：2张
+- [characters/historical-male/walk/down](characters/historical-male/walk/down/README.md)：3张
+- [characters/historical-male/walk/left](characters/historical-male/walk/left/README.md)：3张
+- [characters/historical-male/walk/right](characters/historical-male/walk/right/README.md)：3张
+- [characters/historical-male/walk/up](characters/historical-male/walk/up/README.md)：3张
+- [maps/atlases](maps/atlases/README.md)：1张
+- [maps/tree-parts](maps/tree-parts/README.md)：4张
+- [references/game-scenes](references/game-scenes/README.md)：3张
+
+源路径引用不等于当前运行正确；其中3张是场景/拼图参考，不冒充已验收战斗底图。见[逐图记录](historical-assets.json)。
 
 ## 使用约定
 - 接入用固定commit链接，不用会漂移的main地址。旧版本图片链接仍可追溯。
@@ -418,3 +433,6 @@
 - SHA256：`6f8440f2ca2f3cb561fd3815b06cc3850f9cdace77d278f6c0a666a912f8f3f7`
 - 来源：[pret/pokeruby](https://github.com/pret/pokeruby/blob/5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f/graphics/object_events/pics/people/may/watering.png)（固定版本 `5784633ce4ef7ade1a7f2d2d0c288e3d5e6cdd7f`）
 
+
+### 编号与原图含义
+“原图”仅表示源文件字节未重绘，不代表原项目历史实际使用已确认。PokeAPI编号0仅是来源路径编号，物种未确认。

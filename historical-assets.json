@@ -1,0 +1,741 @@
+{
+  "count": 26,
+  "license": "NOASSERTION",
+  "runtimeIntegrationVerified": false,
+  "assets": [
+    {
+      "sha256": "8d98e2ac2f4ec94091882cf2846be573d0d33cff9bbf82fea2abe5ae498b991e",
+      "bytes": 170109,
+      "format": "png",
+      "width": 970,
+      "height": 733,
+      "frames": 1,
+      "destination_path": "battle/backgrounds/cave/cave-day-gradient-plane--8d98e2ac2f4e.png",
+      "category": "historical-battle-plane",
+      "purpose_zh": "历史洞穴白天战斗回退底图；画面为带双椭圆站位的渐变背景，未验证当前接入",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "historical_fallback_source": "src/components/game/BattleOverlay.tsx",
+        "slots": [
+          {
+            "terrain": "cave",
+            "time": "day",
+            "line": 11683
+          }
+        ],
+        "runtime_integration_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "97261fd6642d57e76ebdbed9e464ab48e21b80aab137b0a8c547aba4fc7036c5",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "3d25eed6b1d338d327d5abe90ae646f98dc83490c45775ee7d4c1f9797789d22",
+      "bytes": 156002,
+      "format": "png",
+      "width": 970,
+      "height": 733,
+      "frames": 1,
+      "destination_path": "battle/backgrounds/cave/cave-night-gradient-plane--3d25eed6b1d3.png",
+      "category": "historical-battle-plane",
+      "purpose_zh": "历史洞穴夜晚战斗回退底图；画面为带双椭圆站位的渐变背景，未验证当前接入",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "historical_fallback_source": "src/components/game/BattleOverlay.tsx",
+        "slots": [
+          {
+            "terrain": "cave",
+            "time": "night",
+            "line": 11682
+          }
+        ],
+        "runtime_integration_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "7bea4a0f2208bc9f9efa86e1fb225c5afdff96559bbe57c3859d14967e02766b",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "9bde497c2399a38671fec1e821870873d4d5426de22fb97bcf7c1cdecb244f1c",
+      "bytes": 270995,
+      "format": "png",
+      "width": 970,
+      "height": 733,
+      "frames": 1,
+      "destination_path": "battle/backgrounds/tall-grass/tall-grass-day-gradient-plane--9bde497c2399.png",
+      "category": "historical-battle-plane",
+      "purpose_zh": "历史高草丛白天战斗回退底图；画面为带双椭圆站位的渐变背景，未验证当前接入",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "historical_fallback_source": "src/components/game/BattleOverlay.tsx",
+        "slots": [
+          {
+            "terrain": "tall-grass",
+            "time": "day",
+            "line": 11697
+          }
+        ],
+        "runtime_integration_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "97355d7b565def320d3a399d4438b973427eb838a9daa87d73dac496d0aee907",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "5268f28954860bf4b65624e47da75546ba0437a40cd431076b4ee5c227d443c5",
+      "bytes": 237760,
+      "format": "png",
+      "width": 970,
+      "height": 733,
+      "frames": 1,
+      "destination_path": "battle/backgrounds/tall-grass/tall-grass-night-gradient-plane--5268f2895486.png",
+      "category": "historical-battle-plane",
+      "purpose_zh": "历史高草丛夜晚战斗回退底图；画面为带双椭圆站位的渐变背景，未验证当前接入",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "historical_fallback_source": "src/components/game/BattleOverlay.tsx",
+        "slots": [
+          {
+            "terrain": "tall-grass",
+            "time": "night",
+            "line": 11696
+          }
+        ],
+        "runtime_integration_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "354584852d58eb8c7f5ea2f85516d9faa1c1dec81e45f43b7e6676b6c00e44fb",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "388a4a179040babcde31497725cfd1bc0bb11900311b81ec3a51ac6b900767e2",
+      "bytes": 250839,
+      "format": "png",
+      "width": 970,
+      "height": 733,
+      "frames": 1,
+      "destination_path": "battle/backgrounds/water/water-day-gradient-plane--388a4a179040.png",
+      "category": "historical-battle-plane",
+      "purpose_zh": "历史水域白天战斗回退底图；画面为带双椭圆站位的渐变背景，未验证当前接入",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "historical_fallback_source": "src/components/game/BattleOverlay.tsx",
+        "slots": [
+          {
+            "terrain": "water",
+            "time": "day",
+            "line": 11711
+          }
+        ],
+        "runtime_integration_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "0ca05419de9c7487ec1d6cbba5ae41cdcc74584faec66d09010fdd2606c6a73e",
+          "kind": "历史附件CDN"
+        },
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "29c2f3f1e7b35e4e60d2ad88f44c23cf14a32230d6b42182c1b8a78bfa328882",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "d6e652cac39feb7a1404c63dcec67071150d6103aa67ae73d31be4205cbdf681",
+      "bytes": 228697,
+      "format": "png",
+      "width": 970,
+      "height": 733,
+      "frames": 1,
+      "destination_path": "battle/backgrounds/water/water-night-gradient-plane--d6e652cac39f.png",
+      "category": "historical-battle-plane",
+      "purpose_zh": "历史水域夜晚战斗回退底图；画面为带双椭圆站位的渐变背景，未验证当前接入",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "historical_fallback_source": "src/components/game/BattleOverlay.tsx",
+        "slots": [
+          {
+            "terrain": "water",
+            "time": "night",
+            "line": 11710
+          }
+        ],
+        "runtime_integration_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "8ddb2f938723c21946c0f908927c1167f44cb7226090cd38a737c02618ffe2dd",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "fd0d90bcf58e37e45dee398860dff59141a439238227aa9814a6017e4469ba35",
+      "bytes": 440,
+      "format": "png",
+      "width": 13,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/down/walk-down-left-foot-f02--fd0d90bcf58e.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向下左脚步帧（原帧2）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "down",
+        "animation_frame": "left_foot",
+        "original_frame_index": 2
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "86cf207744826760e04b99949a27871e2f7acab2a84127cc3fd5f4fb7c0acc07",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "b9bd849ed54d017aa26bb6713026dbbe0c279d3be1c965ed91cb8985a452200c",
+      "bytes": 454,
+      "format": "png",
+      "width": 14,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/down/walk-down-right-foot-f01--b9bd849ed54d.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向下右脚步帧（原帧1）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "down",
+        "animation_frame": "right_foot",
+        "original_frame_index": 1
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "911daf1cea230154ede533a917f75b1fedbcd133cd01048d46cbdc15fc131ea7",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "6ebbfea12e99363ce90df70ee3cb9d82ec9c7314a00f838fc031ac821bf90932",
+      "bytes": 443,
+      "format": "png",
+      "width": 14,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/down/walk-down-standing-f00--6ebbfea12e99.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向下站立帧（原帧0）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "down",
+        "animation_frame": "standing",
+        "original_frame_index": 0
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "83515c99c9c5f76e24286350e8164442ec43ecb580df52786bbf94ed3100a5f7",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "2d80589cf2524f16df05f6878de032077aafb54763a2a6f22f5bbe458b38bd80",
+      "bytes": 452,
+      "format": "png",
+      "width": 14,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/left/walk-left-left-foot-f11--2d80589cf252.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向左左脚步帧（原帧11）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "left",
+        "animation_frame": "left_foot",
+        "original_frame_index": 11
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "de9249a2fa2d62f7564f5f654809bdd7aefbd482435e5bd27d35c0b1fb441928",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "42cb7e0727d342d27ea082cde40759c12938f3efefe864db42c742afd0b53074",
+      "bytes": 462,
+      "format": "png",
+      "width": 14,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/left/walk-left-right-foot-f10--42cb7e0727d3.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向左右脚步帧（原帧10）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "left",
+        "animation_frame": "right_foot",
+        "original_frame_index": 10
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "65e97caee50c3b574d7945991ec6ae3a7a8f74cc6dc3d981ae31bccecc5ecfe4",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "56f43c10c3d51656d03667d3d61e30e212999223ae4ddb777b16917cb92923cf",
+      "bytes": 435,
+      "format": "png",
+      "width": 13,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/left/walk-left-standing-f09--56f43c10c3d5.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向左站立帧（原帧9）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "left",
+        "animation_frame": "standing",
+        "original_frame_index": 9
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "70e428bf1fe097abd890bbc22b160a0f7f527b59d9b64575515dd6bf56ac56fd",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "1df036ee521af17c064a1231b6a0ef7680096da4443be89397021e5989aa06d8",
+      "bytes": 475,
+      "format": "png",
+      "width": 14,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/right/walk-right-left-foot-f07--1df036ee521a.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向右左脚步帧（原帧7）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "right",
+        "animation_frame": "left_foot",
+        "original_frame_index": 7
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "20d1570a9215e5a76b470b2f07df1a3ae17d5ce4d3d00a392bdb0143418bd2d8",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "a59e9350ef82949cc9525e19bf3c52b4f5c74b0b76bad63b1b7294356eab9b26",
+      "bytes": 468,
+      "format": "png",
+      "width": 14,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/right/walk-right-right-foot-f08--a59e9350ef82.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向右右脚步帧（原帧8）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "right",
+        "animation_frame": "right_foot",
+        "original_frame_index": 8
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "c87ca92979155650014640571a18599b5bef2e1645726b1b28a5ff292941eaa5",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "005a9eba7a90bef417b4f65acbf789bfffc11878d79d44f23e36cf11a91c5885",
+      "bytes": 459,
+      "format": "png",
+      "width": 14,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/right/walk-right-standing-f06--005a9eba7a90.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向右站立帧（原帧6）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "right",
+        "animation_frame": "standing",
+        "original_frame_index": 6
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "53af023346ec14cffa723b33856ad4ff3f07b840592aefcd84473ec8445e15cc",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "2ebd0f121a2176bf98fa26ceeacdd7365e9dcfe52025d52495ba0af11eaa50cb",
+      "bytes": 409,
+      "format": "png",
+      "width": 14,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/up/walk-up-left-foot-f04--2ebd0f121a21.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向上左脚步帧（原帧4）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "up",
+        "animation_frame": "left_foot",
+        "original_frame_index": 4
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "60dea7c832aa33cc05e205ff0e325c40c330dde3de34e3779aa309209cd9fe64",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "e3dd08b607f6a4c268dbfc8c56a25b38e747fc67c1e24dc3a9c3470d7b6f6e04",
+      "bytes": 413,
+      "format": "png",
+      "width": 14,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/up/walk-up-right-foot-f05--e3dd08b607f6.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向上右脚步帧（原帧5）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "up",
+        "animation_frame": "right_foot",
+        "original_frame_index": 5
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "f94d383c8c9ae7918850287fb5690c4ce1060ff7829d5e31d44fb2cb72dbbf63",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "2ea4d60e0421f843d88db0aea9e52e8ec3529e25ea354dc3b54d0fad7fd88958",
+      "bytes": 433,
+      "format": "png",
+      "width": 14,
+      "height": 21,
+      "frames": 1,
+      "destination_path": "characters/historical-male/walk/up/walk-up-standing-f03--2ea4d60e0421.png",
+      "category": "historical-character-walk",
+      "purpose_zh": "历史男主向上站立帧（原帧3）；后期默认角色等价未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "direction": "up",
+        "animation_frame": "standing",
+        "original_frame_index": 3
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "980962dfc12e50f730e379176e28ce7f4923e00a4519e90c2cbacebb364a6ecb",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "b48c189b76d32f524ec2366cb6392ead5cfbd32fca5ca8999bda8829f4dd39bd",
+      "bytes": 16551,
+      "format": "png",
+      "width": 439,
+      "height": 250,
+      "frames": 1,
+      "destination_path": "maps/atlases/buildings-original-439x250--b48c189b76d3.png",
+      "category": "historical-buildings-atlas",
+      "purpose_zh": "439×250历史建筑裁剪源图；裁剪矩形、瓦片覆盖与地图布局未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "crop_coordinates": null,
+        "layout_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "41eb4d8fa79c5bac3b1b659f45bc9ef41a3a054477b481ae12b0ce668a03f53a",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "4eea1c78e6a8427d903555cac535c532eddcb55df350416fe13975f014a917a0",
+      "bytes": 1958,
+      "format": "png",
+      "width": 16,
+      "height": 16,
+      "frames": 1,
+      "destination_path": "maps/tree-parts/tree-label-left-1-1--4eea1c78e6a8.png",
+      "category": "historical-tree-part",
+      "purpose_zh": "16×16历史树片，沿用原附件标签「左1-1.png」；拼装坐标未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "original_label": "左1-1.png",
+        "assembly_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "a3e990b3f8ac34f7fe869b7b6b0b6ea1935ba0a4d0699028b3e61732d72d44d7",
+          "kind": "历史附件CDN"
+        },
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "220246bafde7b45ce00986e5b93ca2488329d74c8cc9bd4681f3e34bf1aaf14a",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "fc4db7f18707cca294309f2576fcecfa16993c17c82b2f11a5a37f4b8bd04bdf",
+      "bytes": 1901,
+      "format": "png",
+      "width": 16,
+      "height": 16,
+      "frames": 1,
+      "destination_path": "maps/tree-parts/tree-label-left-1-2--fc4db7f18707.png",
+      "category": "historical-tree-part",
+      "purpose_zh": "16×16历史树片，沿用原附件标签「左1-2.png」；拼装坐标未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "original_label": "左1-2.png",
+        "assembly_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "e8cc90139b347db0117f27180b4dbadc2e29932115d6d5f06e23286960bf7c86",
+          "kind": "历史附件CDN"
+        },
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "7b005ec7c681886f259a186816f5820ef0a6ead0f001850dac36f9ebbcd284ad",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "81ffd7d442f84a2febb165da49b6d28980075300f920f4818cabdd948845ccd6",
+      "bytes": 1944,
+      "format": "png",
+      "width": 16,
+      "height": 16,
+      "frames": 1,
+      "destination_path": "maps/tree-parts/tree-label-right-1-1--81ffd7d442f8.png",
+      "category": "historical-tree-part",
+      "purpose_zh": "16×16历史树片，沿用原附件标签「右1-1.png」；拼装坐标未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "original_label": "右1-1.png",
+        "assembly_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "274e5219c5a38335ef8faab4b973154f1683242000633dad36184a0551ff542a",
+          "kind": "历史附件CDN"
+        },
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "2e380ac97c0bacf372a4de5283bcf3640d78f4c1de9ba97cec80de079ca5f816",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "8e47f42e736a2963c2a3188f9a3f10bed1254a0004ce63466b4c6b85d3358233",
+      "bytes": 1904,
+      "format": "png",
+      "width": 16,
+      "height": 16,
+      "frames": 1,
+      "destination_path": "maps/tree-parts/tree-label-right-1-2--8e47f42e736a.png",
+      "category": "historical-tree-part",
+      "purpose_zh": "16×16历史树片，沿用原附件标签「右1-2.png」；拼装坐标未核",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "original_label": "右1-2.png",
+        "assembly_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "2a5897183dcb4b0ada2bf4cba0551de17d88a68d4a2415cc85615fb50c92fbfb",
+          "kind": "历史附件CDN"
+        },
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "de8d24e8f8f91c93dff5d394ba9afde1eaec54681aa6810f18e627deaed8d31a",
+          "kind": "历史附件CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "bd39dbd3161138d321a9622ecce232e4ead794ddcfb6e95f40e6ba10798d487f",
+      "bytes": 103225,
+      "format": "jpeg",
+      "width": 964,
+      "height": 602,
+      "frames": 1,
+      "destination_path": "references/game-scenes/grass-day-four-panel-terrain-collage--bd39dbd31611.jpg",
+      "category": "historical-scene-reference",
+      "purpose_zh": "四格地形拼贴；原源码作草地白天回退引用，保留作地形参考图，不列为战斗底图",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "historical_fallback_source": "src/components/game/BattleOverlay.tsx",
+        "slots": [
+          {
+            "terrain": "grass",
+            "time": "day",
+            "line": 11740
+          }
+        ],
+        "runtime_integration_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-site-img.cdn.bcebos.com",
+          "url_sha256": "fa6bba577804d99710cb74412463832f73b4c073934d0deb3af02c6b8e9ccc54",
+          "kind": "历史站点图片CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "0171b69ef05d7595e07b5228d5f97411ce8f03d8bee084ae725990036735ed6b",
+      "bytes": 3142518,
+      "format": "png",
+      "width": 1382,
+      "height": 1382,
+      "frames": 1,
+      "destination_path": "references/game-scenes/grass-night-six-panel-collage--0171b69ef05d.png",
+      "category": "historical-scene-reference",
+      "purpose_zh": "六格游戏场景拼贴；原源码作草地夜晚回退引用，保留作参考图，不列为战斗底图",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "historical_fallback_source": "src/components/game/BattleOverlay.tsx",
+        "slots": [
+          {
+            "terrain": "grass",
+            "time": "night",
+            "line": 11739
+          }
+        ],
+        "runtime_integration_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-site-img.cdn.bcebos.com",
+          "url_sha256": "7216f011c8b351ff43eef31c45976e9ea3f6f2ca907203b63aae0b17f6edc56e",
+          "kind": "历史站点图片CDN"
+        }
+      ]
+    },
+    {
+      "sha256": "ec8eebaeb485d17475db2d325037ddac47490579302eea99186ef0f53f160604",
+      "bytes": 1224003,
+      "format": "jpeg",
+      "width": 2145,
+      "height": 1280,
+      "frames": 1,
+      "destination_path": "references/game-scenes/road-day-night-shared-pixel-scene--ec8eebaeb485.jpg",
+      "category": "historical-scene-reference",
+      "purpose_zh": "含角色与特效的像素场景；道路昼夜两条回退引用同一SHA，合并归档为一张参考图",
+      "status": "HISTORICAL_ORIGINAL_CONTENT_PRIVACY_PASS_PUBLIC_CANDIDATE",
+      "license": "NOASSERTION",
+      "usage_evidence": {
+        "historical_fallback_source": "src/components/game/BattleOverlay.tsx",
+        "slots": [
+          {
+            "terrain": "road",
+            "time": "day",
+            "line": 11725
+          },
+          {
+            "terrain": "road",
+            "time": "night",
+            "line": 11724
+          }
+        ],
+        "runtime_integration_verified": false
+      },
+      "sources": [
+        {
+          "host": "miaoda-site-img.cdn.bcebos.com",
+          "url_sha256": "c5f82484442475d00093f23a6dfab89f1f229fbc43dc87f8be8c96baf65c4828",
+          "kind": "历史站点图片CDN"
+        },
+        {
+          "host": "miaoda-site-img.cdn.bcebos.com",
+          "url_sha256": "eaa8cf49d58054f2e511a00becb98f9760d66119257c453eab55d47e88baf5b7",
+          "kind": "历史站点图片CDN"
+        }
+      ]
+    }
+  ]
+}
