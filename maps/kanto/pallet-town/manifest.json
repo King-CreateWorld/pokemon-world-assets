@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "map": "MAP_PALLET_TOWN",
+  "assets": [
+    {
+      "path": "maps/kanto/pallet-town/metatile-atlas.png",
+      "bytes": 8880,
+      "sha256": "4fa318fddc5328e31224735f654cc6993fc25a237790310dad0ce22f9fe11e46"
+    },
+    {
+      "path": "maps/kanto/pallet-town/README.md",
+      "bytes": 479,
+      "sha256": "b64f1ff11328deff35fcbae99fd494d4fdd179a810b7f103f8e0f9a1ce17f6b2"
+    },
+    {
+      "path": "maps/kanto/pallet-town/layout.json",
+      "bytes": 19602,
+      "sha256": "f8084b34c15db38be18dc69613e3d19e804e5b594a073b5cd6fd0fa2a7229b0d"
+    },
+    {
+      "path": "maps/kanto/pallet-town/roof-eave-atlas.png",
+      "bytes": 845,
+      "sha256": "aa19b68ab2ecee3701357e7945b1a8a3e74c72a133dfc4c19102df1189df6fb7"
+    }
+  ],
+  "status": "test-foundation-assets-not-complete-region"
+}
