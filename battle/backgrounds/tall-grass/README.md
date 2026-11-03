@@ -22,3 +22,13 @@
 - 来源：历史项目素材；去敏来源记录见根目录 historical-assets.json。
 - 状态：历史文件已核，运行接入未验证；参考拼图不冒充可直接运行战斗底图。
 
+
+## 会话明确要求替换高草丛战斗背景；历史上传渐变底图，未证最终接入。与已发布水域白天图像素不同。
+
+![历史上传参考](tall-grass-upload-gradient--50acc7ecf934.png)
+
+- 文件：[tall-grass-upload-gradient--50acc7ecf934.png](tall-grass-upload-gradient--50acc7ecf934.png)
+- 尺寸：970×733；单帧PNG。
+- SHA256：`50acc7ecf93448506bd1c8de0a972e6ecde28652601c24a89dea28f2d455c351`
+- 状态：源文件已归档，运行接入未验证。
+- 来源：原项目会话上传；去敏来源见 reference-assets.json；许可记录NOASSERTION。

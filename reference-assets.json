@@ -1,0 +1,73 @@
+{
+  "count": 3,
+  "assets": [
+    {
+      "index": 15,
+      "sha256": "50acc7ecf93448506bd1c8de0a972e6ecde28652601c24a89dea28f2d455c351",
+      "bytes": 250834,
+      "format": "PNG",
+      "size": [
+        970,
+        733
+      ],
+      "frames": 1,
+      "path": "battle/backgrounds/tall-grass/tall-grass-upload-gradient--50acc7ecf934.png",
+      "purpose_zh": "会话明确要求替换高草丛战斗背景；历史上传渐变底图，未证最终接入。与已发布水域白天图像素不同。",
+      "status": "ARCHIVED_SOURCE_REFERENCE_NOT_RUNTIME_VERIFIED",
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "39c2fc5fa906fab6b0607fe1106f3c21f1b5bda24f1b41ab80bd16b2aaa1cabc"
+        }
+      ],
+      "license": "NOASSERTION"
+    },
+    {
+      "index": 17,
+      "sha256": "66473c0e25d025eb13802daf2b59dbd5eb4fa9d01dc2e21f114e4a95491978a1",
+      "bytes": 234,
+      "format": "PNG",
+      "size": [
+        32,
+        32
+      ],
+      "frames": 1,
+      "path": "references/pokemon-icons/bulbasaur-static-icon-example--66473c0e25d0.png",
+      "purpose_zh": "会话用于说明32×32小图标规格；实体为单帧妙蛙种子PNG，非GIF、非已接入图标。",
+      "status": "ARCHIVED_SOURCE_REFERENCE_NOT_RUNTIME_VERIFIED",
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "3e9aaddf5cd8e7c6b0633e2e9205a142d3dc5ddcd4c577e10028604a09af57e0"
+        }
+      ],
+      "license": "NOASSERTION"
+    },
+    {
+      "index": 21,
+      "sha256": "85357e0eac0beeaf5410c3bce1a7224201893c91fcda638d1c6ed173cb9cb26f",
+      "bytes": 23492,
+      "format": "PNG",
+      "size": [
+        734,
+        687
+      ],
+      "frames": 1,
+      "path": "references/battle-ground/battle-white-ellipse-reference--85357e0eac0b.png",
+      "purpose_zh": "会话用于说明纯白椭圆地面；仅设计参考，非已验证贴图或遮罩。",
+      "status": "ARCHIVED_SOURCE_REFERENCE_NOT_RUNTIME_VERIFIED",
+      "sources": [
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "94e8167ba9b194c53a469e8606242595d59f9ddf67655c8e6612adb360a41fd3"
+        },
+        {
+          "host": "miaoda-conversation-file.cdn.bcebos.com",
+          "url_sha256": "fe9c4e94a30edd9c15e7c2c56ab365473f8a56406740760a1cb2100fbd55b2b5"
+        }
+      ],
+      "license": "NOASSERTION"
+    }
+  ],
+  "license": "NOASSERTION"
+}
