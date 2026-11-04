@@ -1,0 +1,239 @@
+{
+  "source_project": "app-dnm1qpi45af5",
+  "source_commit": "496ccc0e765e0e24e3a26850afa6eab6a5c8f895",
+  "purpose": "UI reference assets; not deployed or official PokeMMO theme",
+  "files": [
+    {
+      "path": "ui/login/historical-v1/backgrounds/bg_00.png",
+      "original_path": "app-dnm1qpi45af5/public/login/backgrounds/bg_00.png",
+      "bytes": 112405,
+      "sha256": "0b96b87a074bf43a1c4bd6b41ebba8004d8b7a09d212d77b2915338ee8a93a34",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/generated/inner-frame.png",
+      "original_path": "app-dnm1qpi45af5/public/login/generated/inner-frame.png",
+      "bytes": 259,
+      "sha256": "b8c2c7e13c635ca02375eb9aae5348f1f2b596baec8c9730258dc2a81bd7e50b",
+      "provenance": "historical-generated",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/generated/scroll-thumb-v.png",
+      "original_path": "app-dnm1qpi45af5/public/login/generated/scroll-thumb-v.png",
+      "bytes": 93,
+      "sha256": "8ced1dd7f56e6f9a0c0ba8b2be499c5021f93ad8f153a9e398b4193b0cdb15e9",
+      "provenance": "historical-generated",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/generated/select-arrow.png",
+      "original_path": "app-dnm1qpi45af5/public/login/generated/select-arrow.png",
+      "bytes": 120,
+      "sha256": "2e0a0978968c2d7a3e2f493eb32d8083f3de506886bd20fa8cd48896eb9c9276",
+      "provenance": "historical-generated",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/generated/slider-fill.png",
+      "original_path": "app-dnm1qpi45af5/public/login/generated/slider-fill.png",
+      "bytes": 108,
+      "sha256": "822827547288b0d557717f12bcbe409385234a92656a04a1a70dfebe17d0cd60",
+      "provenance": "historical-generated",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/generated/slider-thumb.png",
+      "original_path": "app-dnm1qpi45af5/public/login/generated/slider-thumb.png",
+      "bytes": 115,
+      "sha256": "d6321a8eb5b14b68298dd038d85aec31a90c4e5edb51f7fe0e4a8e99c65553e5",
+      "provenance": "historical-generated",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/generated/slider-track.png",
+      "original_path": "app-dnm1qpi45af5/public/login/generated/slider-track.png",
+      "bytes": 151,
+      "sha256": "4c95d8b373d0ad6d88c3438293813363647c1181d734cf1c734b35f2348f3d3d",
+      "provenance": "historical-generated",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/generated/tab-active.png",
+      "original_path": "app-dnm1qpi45af5/public/login/generated/tab-active.png",
+      "bytes": 230,
+      "sha256": "9cf61049b2715be057fbf2276f6fc15f03d3cf6fa709ca7f8799ee9acc9cdbd1",
+      "provenance": "historical-generated",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/generated/tab-default.png",
+      "original_path": "app-dnm1qpi45af5/public/login/generated/tab-default.png",
+      "bytes": 245,
+      "sha256": "bdfaa31723d832d6ee5a91275aa97e29e8944f176f6b40c3bce177dc936009c6",
+      "provenance": "historical-generated",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/generated/tab-hover.png",
+      "original_path": "app-dnm1qpi45af5/public/login/generated/tab-hover.png",
+      "bytes": 267,
+      "sha256": "4dd306a7ef4243bf5a8386f4b5afdd044be759cb3303b1debc483929d9db13b5",
+      "provenance": "historical-generated",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/close-handle.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/close-handle.png",
+      "bytes": 232,
+      "sha256": "62d18a15367f0c029379796d6ab82f5af1095f139585b92d15372eaf5c2800f2",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/label-area-background.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/label-area-background.png",
+      "bytes": 153,
+      "sha256": "eea262f441d0e19b0d25ecda854a585947b47a00eec0b2c453691e7a13e8529e",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/label1-background.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/label1-background.png",
+      "bytes": 77,
+      "sha256": "6d9fa0f67875cb61654c3beae1e6775250de11e957f0ac0c59b2598d084142e2",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/mobile-button-default.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/mobile-button-default.png",
+      "bytes": 1502,
+      "sha256": "2be75f415ad0eabe507b12870fb3e582afea4d73d878396f7412ed8769b7d31f",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/mobile-editfield-background.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/mobile-editfield-background.png",
+      "bytes": 502,
+      "sha256": "2f2bf41c6242dfb3e704c5f2eaf07760c3b133857fd6a05b21fb4908b14b4741",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/mobile-frame-background.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/mobile-frame-background.png",
+      "bytes": 610,
+      "sha256": "52036c1db52dc9c3ccefa232ecd1c1ce588b3187a17c8af1900e35a86f4e4a32",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/mobile-icons-close.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/mobile-icons-close.png",
+      "bytes": 709,
+      "sha256": "eadd00cfa46c52324728511328c81a24c3e84550c580c54cd7c9a3ab20a65881",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-button-default.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-button-default.png",
+      "bytes": 428,
+      "sha256": "154e964c49d0697713e1eb0d33189e62ff455365682d58b72bc386bcd49286b7",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-button-disabled.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-button-disabled.png",
+      "bytes": 454,
+      "sha256": "a5a01aaca202d3f9cb7e558b343e0e6acdc9879f01162c3ab69c2b09ed0fa2f7",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-button-hover.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-button-hover.png",
+      "bytes": 225,
+      "sha256": "3f42f14646e058f12cb56ccb1391c67697595376b375b3c30369cc57080149a5",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-button-pressed.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-button-pressed.png",
+      "bytes": 650,
+      "sha256": "7bac2328a897cdf55fb4d7d450c18a8af4a6d5c5574b96bf9d5157382af55d1c",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-button-selected.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-button-selected.png",
+      "bytes": 137,
+      "sha256": "bc16271a506fe5c41d7f9b481044aadbb41c06675c40f4367e624f65475e3b3e",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-checkbox-checked.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-checkbox-checked.png",
+      "bytes": 164,
+      "sha256": "e8b40b3e0e01d49e194ae4b8d1d330a77fe0387502c94087d58c2083231f2d66",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-checkbox-unchecked.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-checkbox-unchecked.png",
+      "bytes": 257,
+      "sha256": "1287ce23c56cc00e7df57165dd7b137740c8a7df65d26c26fe5caed4f20b8927",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-inner-frame-tab-background.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-inner-frame-tab-background.png",
+      "bytes": 667,
+      "sha256": "e0a8d92043516678a60bb2416aebb629a9ab6b86821be7cdc9481c40cd209f21",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-inputbox-default.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-inputbox-default.png",
+      "bytes": 259,
+      "sha256": "ebe2d3034336d75c6d6e0525772fe6b7ba1cc872875ea5b8b17aa13bc5f5a937",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-inputbox-selected.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-inputbox-selected.png",
+      "bytes": 183,
+      "sha256": "24b403d665435b7d42d1f34f9ff79418373069fc43f2c4657394bfb917d98407",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin-slices/ui-popup-background.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin-slices/ui-popup-background.png",
+      "bytes": 714,
+      "sha256": "ee078b29343fd95bed06913dd310c45d98b8381046654e6ae7d6d5b5ec9ed135",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    },
+    {
+      "path": "ui/login/historical-v1/origin/longxing-spirit-logo.png",
+      "original_path": "app-dnm1qpi45af5/public/login/origin/longxing-spirit-logo.png",
+      "bytes": 345698,
+      "sha256": "7d738f796875ee9ed9e118f0cc87ac655ff62e3edf0399a5a71850aae4674c16",
+      "provenance": "historical-project-asset",
+      "license": "NOASSERTION"
+    }
+  ]
+}
