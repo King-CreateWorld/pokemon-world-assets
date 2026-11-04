@@ -1,0 +1,27 @@
+{
+  "description": "Retained client out-of-game panorama texture family; source defaults and runtime version still under audit",
+  "source": "PokeMMO client retained local resources; https://pokemmo.com/",
+  "copyright": "Original artwork rights remain with respective rights holders. Attribution is not a license grant.",
+  "license": "NOASSERTION",
+  "usage": "Horizontal panorama segments; not battle terrain. Mobile bg_00 approved project-specific exception.",
+  "files": [
+    {
+      "path": "ui/login/historical-v1/backgrounds/bg_00.png",
+      "sha256": "0b96b87a074bf43a1c4bd6b41ebba8004d8b7a09d212d77b2915338ee8a93a34",
+      "bytes": 112405,
+      "sourceMember": "data/sprites/textures/bg_00.png"
+    },
+    {
+      "path": "ui/login/historical-v1/backgrounds/bg_01.png",
+      "sha256": "988d11c2d523c5f0f9ccd87a45eddea781888cfb468ede0515639aa6d18c8668",
+      "bytes": 103962,
+      "sourceMember": "data/sprites/textures/bg_01.png"
+    },
+    {
+      "path": "ui/login/historical-v1/backgrounds/bg_02.png",
+      "sha256": "f4c783714c3b29aeb6bf3c243a93d03cb1a575d641bf0db984f47f5d5847cc9f",
+      "bytes": 216250,
+      "sourceMember": "data/sprites/textures/bg_02.png"
+    }
+  ]
+}
