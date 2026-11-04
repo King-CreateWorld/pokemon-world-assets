@@ -1,0 +1,161 @@
+{
+  "scope": "Source-derived mobile login menu icons; exact client visual comparison pending. No ROM included.",
+  "source": "Local retained Pokemon White ROM /a/0/2/5 and PokeMMO menu resource bindings; artwork belongs to original rights holders, attribution is not a license grant.",
+  "stateRule": "C0374HU.NZ1: default gray, hover or keyboard focus color",
+  "files": [
+    {
+      "resourceId": 5502,
+      "action": "client-manager",
+      "state": "color",
+      "path": "ui/mobile-login/menu-icons-v1/client-manager/color.png",
+      "sha256": "429ec2e6371a11826e40f1b609cddc37f009bc631dbf61a594aced02ace7ef57",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5428,
+      "action": "mod-manager",
+      "state": "color",
+      "path": "ui/mobile-login/menu-icons-v1/mod-manager/color.png",
+      "sha256": "be6d120a807f47a31c232073eef64cdacfa46901383bce43da0881bfdc0bc78d",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5465,
+      "action": "register",
+      "state": "color",
+      "path": "ui/mobile-login/menu-icons-v1/register/color.png",
+      "sha256": "619e55bc194d034e1ac5b1734e97338946a33c155767e29776c2162b37a031b6",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5475,
+      "action": "recover-username",
+      "state": "color",
+      "path": "ui/mobile-login/menu-icons-v1/recover-username/color.png",
+      "sha256": "f175de696156ccee7970fd0b1cd26f1350ddeecc45bf48cabc17db092942d41d",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5467,
+      "action": "recover-password",
+      "state": "color",
+      "path": "ui/mobile-login/menu-icons-v1/recover-password/color.png",
+      "sha256": "02494aa360afadd62a7e66781ea5a6e6867c06d7ea32c0dfbd8df954df775c48",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5621,
+      "action": "help",
+      "state": "color",
+      "path": "ui/mobile-login/menu-icons-v1/help/color.png",
+      "sha256": "2114bc8b2eb8198e96653877cce9250ca73b833e1becc6cdd39514e0e31579d1",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5547,
+      "action": "close",
+      "state": "color",
+      "path": "ui/mobile-login/menu-icons-v1/close/color.png",
+      "sha256": "31d8c94969d8b8775eee8665615a6c9d8c8112e719d1bb96c3ea09982393d71e",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5502,
+      "action": "client-manager",
+      "state": "gray",
+      "path": "ui/mobile-login/menu-icons-v1/client-manager/gray.png",
+      "sha256": "dd0e37444f52496bb3fe8ff5e317bd6db96097f13d349160e58dc8dbbedf5420",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5428,
+      "action": "mod-manager",
+      "state": "gray",
+      "path": "ui/mobile-login/menu-icons-v1/mod-manager/gray.png",
+      "sha256": "55be14f673b5bf9b8906bcd8445617694701e73c1b91c68bd05541ec29e9c448",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5465,
+      "action": "register",
+      "state": "gray",
+      "path": "ui/mobile-login/menu-icons-v1/register/gray.png",
+      "sha256": "ab0aaed9bcf479ce8d1469aac0a295388809c22570370bf09b170271f3adab1a",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5475,
+      "action": "recover-username",
+      "state": "gray",
+      "path": "ui/mobile-login/menu-icons-v1/recover-username/gray.png",
+      "sha256": "5735ee3e12e9c402832574baf6e57212ab7986227f4b41812afd5fdb9853348a",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5467,
+      "action": "recover-password",
+      "state": "gray",
+      "path": "ui/mobile-login/menu-icons-v1/recover-password/gray.png",
+      "sha256": "6ffbb8581174e6e4f2ec5faeb5c2118f45136d3d3efdfe89fde5c12b31667811",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5621,
+      "action": "help",
+      "state": "gray",
+      "path": "ui/mobile-login/menu-icons-v1/help/gray.png",
+      "sha256": "8fc956e536adbfab77b90cb78d4ee7622abe59d8052a2ba39a4984b786b82144",
+      "size": [
+        24,
+        24
+      ]
+    },
+    {
+      "resourceId": 5547,
+      "action": "close",
+      "state": "gray",
+      "path": "ui/mobile-login/menu-icons-v1/close/gray.png",
+      "sha256": "c2962de32c2eed5087d03e539868c0f902d613025d99d4dc47d0783a8e1e0161",
+      "size": [
+        24,
+        24
+      ]
+    }
+  ]
+}
