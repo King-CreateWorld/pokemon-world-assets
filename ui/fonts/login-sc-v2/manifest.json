@@ -1,0 +1,10 @@
+{
+  "source_sha256": "c1ce3874e109fb4ce6cd6947e76a71674ea2ae653e9de311cd570cffad350471",
+  "source_bytes": 17324688,
+  "face": 0,
+  "subset_bytes": 92644,
+  "sha256": "59ad945c3592d6cb8a6a7b522d29db543c9c8ecdaee5e185a5523cbd51e645df",
+  "compared_outlines_and_advances": 378,
+  "excluded_missing_codepoints": [],
+  "coverage": "current preview HTML characters only, not whole game"
+}
