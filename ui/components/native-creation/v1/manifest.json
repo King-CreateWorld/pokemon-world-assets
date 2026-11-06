@@ -1,0 +1,21 @@
+{
+  "scope": "Controlled UI components; no auth or persistence; local tests passed, not full visual parity",
+  "files": [
+    {
+      "path": "NativeCreationLayout.js",
+      "sha256": "bff333d6804618177de26c273bf2a64d758db2c39222321374569fe90cdb1e76"
+    },
+    {
+      "path": "NativeCreationPreview.js",
+      "sha256": "e2569c0249d98f3d6c8a1d81ff220f832487b3123b779c9e7910fc8e20a4558e"
+    },
+    {
+      "path": "NativeColorPalette.js",
+      "sha256": "ef8f4bcba367416aa8b6cb137034a8e022012ea404622c118b2d3fbeecd16737"
+    },
+    {
+      "path": "native-creation-layout.css",
+      "sha256": "a7be5b76f9e60ec0288030188077932fa059153b0a8d82409424f9b0407c65a1"
+    }
+  ]
+}
