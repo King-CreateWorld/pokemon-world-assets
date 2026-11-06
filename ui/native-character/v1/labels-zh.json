@@ -1,0 +1,293 @@
+{
+  "source": "/Users/king/Desktop/无相/pokemmo/官方客户端版本归档/新版-v62-安装器/独立运行/data/strings/strings_zh.xml",
+  "sourceSha256": "ecab096dd4564cb3c15553772ca7cde31163c23a8499cfacda89d3d3c04b4acc",
+  "rows": [
+    {
+      "slot": "HAIR",
+      "id": 4,
+      "stringId": "22004",
+      "label": "丸子头",
+      "english": "Bun"
+    },
+    {
+      "slot": "HAIR",
+      "id": 6,
+      "stringId": "22006",
+      "label": "寸头",
+      "english": "Crew Cut"
+    },
+    {
+      "slot": "HAIR",
+      "id": 7,
+      "stringId": "22007",
+      "label": "分头",
+      "english": "Curtains"
+    },
+    {
+      "slot": "HAIR",
+      "id": 11,
+      "stringId": "22011",
+      "label": "羽毛剪",
+      "english": "Feathered"
+    },
+    {
+      "slot": "HAIR",
+      "id": 12,
+      "stringId": "22012",
+      "label": "平头",
+      "english": "Flat Top"
+    },
+    {
+      "slot": "HAIR",
+      "id": 13,
+      "stringId": "22013",
+      "label": "男士平头",
+      "english": "Butch"
+    },
+    {
+      "slot": "HAIR",
+      "id": 15,
+      "stringId": "22015",
+      "label": "波浪头",
+      "english": "Wavy"
+    },
+    {
+      "slot": "HAIR",
+      "id": 17,
+      "stringId": "22017",
+      "label": "鸡冠头",
+      "english": "Mohawk"
+    },
+    {
+      "slot": "HAIR",
+      "id": 19,
+      "stringId": "22019",
+      "label": "丸子头&辫子",
+      "english": "Odango & Pigtails"
+    },
+    {
+      "slot": "HAIR",
+      "id": 20,
+      "stringId": "22020",
+      "label": "辫子",
+      "english": "Pigtails"
+    },
+    {
+      "slot": "HAIR",
+      "id": 21,
+      "stringId": "22021",
+      "label": "马尾",
+      "english": "Ponytail"
+    },
+    {
+      "slot": "HAIR",
+      "id": 22,
+      "stringId": "22022",
+      "label": "低双辫子",
+      "english": "Low Pigtails"
+    },
+    {
+      "slot": "HAIR",
+      "id": 24,
+      "stringId": "22024",
+      "label": "蓬乱",
+      "english": "Shaggy"
+    },
+    {
+      "slot": "HAIR",
+      "id": 26,
+      "stringId": "22026",
+      "label": "刷形头",
+      "english": "Brush Cut"
+    },
+    {
+      "slot": "HAIR",
+      "id": 27,
+      "stringId": "22027",
+      "label": "中长烫发",
+      "english": "Medium Perm"
+    },
+    {
+      "slot": "HAIR",
+      "id": 28,
+      "stringId": "22028",
+      "label": "短发",
+      "english": "Bobbed"
+    },
+    {
+      "slot": "HAIR",
+      "id": 30,
+      "stringId": "22030",
+      "label": "刺头",
+      "english": "Spiky"
+    },
+    {
+      "slot": "HAIR",
+      "id": 32,
+      "stringId": "22032",
+      "label": "低双马尾",
+      "english": "Twintails"
+    },
+    {
+      "slot": "HAIR",
+      "id": 34,
+      "stringId": "22034",
+      "label": "大学生",
+      "english": "Graduation Cut"
+    },
+    {
+      "slot": "HAIR",
+      "id": 35,
+      "stringId": "22035",
+      "label": "风吹",
+      "english": "Windswept"
+    },
+    {
+      "slot": "HAIR",
+      "id": 38,
+      "stringId": "22038",
+      "label": "光头",
+      "english": "Bald"
+    },
+    {
+      "slot": "HAIR",
+      "id": 39,
+      "stringId": "22039",
+      "label": "满头刺",
+      "english": "Very Spiky"
+    },
+    {
+      "slot": "EYES",
+      "id": 2,
+      "stringId": "23002",
+      "label": "灰眼睛",
+      "english": "Grey"
+    },
+    {
+      "slot": "FACIAL_HAIR",
+      "id": 1,
+      "stringId": "24001",
+      "label": "胡须",
+      "english": "Beard"
+    },
+    {
+      "slot": "FACIAL_HAIR",
+      "id": 3,
+      "stringId": "24003",
+      "label": "眉毛&胡子",
+      "english": "Eyebrows & Beard"
+    },
+    {
+      "slot": "FACIAL_HAIR",
+      "id": 4,
+      "stringId": "24004",
+      "label": "眉毛",
+      "english": "Eyebrows"
+    },
+    {
+      "slot": "FACIAL_HAIR",
+      "id": 12,
+      "stringId": "24012",
+      "label": "八字胡",
+      "english": "Pencil Moustache"
+    },
+    {
+      "slot": "FACIAL_HAIR",
+      "id": 15,
+      "stringId": "24015",
+      "label": "眉毛&小八字胡",
+      "english": "Eyebrows & Pencil Moustache"
+    },
+    {
+      "slot": "TOP",
+      "id": 2,
+      "stringId": "26002",
+      "label": "无袖上衣",
+      "english": "Sleeveless Shirt"
+    },
+    {
+      "slot": "TOP",
+      "id": 3,
+      "stringId": "26003",
+      "label": "T恤",
+      "english": "T-Shirt"
+    },
+    {
+      "slot": "TOP",
+      "id": 5,
+      "stringId": "26005",
+      "label": "长袖上衣",
+      "english": "Long Sleeve Top"
+    },
+    {
+      "slot": "FOOTWEAR",
+      "id": 0,
+      "stringId": "28000",
+      "label": "靴子",
+      "english": "Boots"
+    },
+    {
+      "slot": "FOOTWEAR",
+      "id": 1,
+      "stringId": "28001",
+      "label": "鞋子",
+      "english": "Shoes"
+    },
+    {
+      "slot": "LEGGINGS",
+      "id": 0,
+      "stringId": "29000",
+      "label": "裤子",
+      "english": "Pants"
+    },
+    {
+      "slot": "LEGGINGS",
+      "id": 2,
+      "stringId": "29002",
+      "label": "裙子",
+      "english": "Skirt"
+    },
+    {
+      "slot": "BIKE",
+      "id": 0,
+      "stringId": "31000",
+      "label": "红色自行车",
+      "english": "Red Bicycle"
+    },
+    {
+      "slot": "EYES",
+      "id": 10,
+      "stringId": "23010",
+      "label": "蓝色眼睛",
+      "english": "Blue"
+    },
+    {
+      "slot": "EYES",
+      "id": 11,
+      "stringId": "23011",
+      "label": "琥珀色眼睛",
+      "english": "Amber"
+    },
+    {
+      "slot": "EYES",
+      "id": 13,
+      "stringId": "23013",
+      "label": "棕色眼睛",
+      "english": "Brown"
+    },
+    {
+      "slot": "EYES",
+      "id": 14,
+      "stringId": "23014",
+      "label": "绿色眼睛",
+      "english": "Green"
+    },
+    {
+      "slot": "EYES",
+      "id": 15,
+      "stringId": "23015",
+      "label": "榛色眼睛",
+      "english": "Hazel"
+    }
+  ]
+}

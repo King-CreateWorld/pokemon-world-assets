@@ -1,0 +1,728 @@
+{
+  "sourceSha256": "4aab844d367c946e40b83a307958ce2e709cf8b5dabf471936866c14e5e95bf1",
+  "constantSource": "/Users/king/Desktop/龙兴pk/com.pokeemu.macos/pokemmo-client-live/PokeMMO.exe",
+  "formula": "Java float32: int((amount/255f)*component + (1f-amount/255f)*255f)",
+  "colors": [
+    {
+      "id": 0,
+      "sourceRGBA": [
+        0,
+        0,
+        0,
+        255
+      ],
+      "blendAmount": 0,
+      "tintRGB": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "id": 1,
+      "sourceRGBA": [
+        32,
+        32,
+        42,
+        255
+      ],
+      "blendAmount": 30,
+      "tintRGB": [
+        228,
+        228,
+        229
+      ]
+    },
+    {
+      "id": 2,
+      "sourceRGBA": [
+        162,
+        190,
+        180,
+        255
+      ],
+      "blendAmount": 160,
+      "tintRGB": [
+        196,
+        214,
+        207
+      ]
+    },
+    {
+      "id": 3,
+      "sourceRGBA": [
+        32,
+        32,
+        42,
+        255
+      ],
+      "blendAmount": 74,
+      "tintRGB": [
+        190,
+        190,
+        193
+      ]
+    },
+    {
+      "id": 4,
+      "sourceRGBA": [
+        32,
+        32,
+        52,
+        255
+      ],
+      "blendAmount": 110,
+      "tintRGB": [
+        158,
+        158,
+        167
+      ]
+    },
+    {
+      "id": 5,
+      "sourceRGBA": [
+        32,
+        32,
+        42,
+        255
+      ],
+      "blendAmount": 180,
+      "tintRGB": [
+        97,
+        97,
+        104
+      ]
+    },
+    {
+      "id": 6,
+      "sourceRGBA": [
+        100,
+        170,
+        254,
+        255
+      ],
+      "blendAmount": 188,
+      "tintRGB": [
+        140,
+        192,
+        254
+      ]
+    },
+    {
+      "id": 7,
+      "sourceRGBA": [
+        92,
+        152,
+        204,
+        255
+      ],
+      "blendAmount": 196,
+      "tintRGB": [
+        129,
+        175,
+        215
+      ]
+    },
+    {
+      "id": 8,
+      "sourceRGBA": [
+        44,
+        80,
+        194,
+        255
+      ],
+      "blendAmount": 162,
+      "tintRGB": [
+        120,
+        143,
+        216
+      ]
+    },
+    {
+      "id": 9,
+      "sourceRGBA": [
+        2,
+        180,
+        208,
+        255
+      ],
+      "blendAmount": 108,
+      "tintRGB": [
+        147,
+        223,
+        235
+      ]
+    },
+    {
+      "id": 10,
+      "sourceRGBA": [
+        40,
+        190,
+        200,
+        255
+      ],
+      "blendAmount": 160,
+      "tintRGB": [
+        120,
+        214,
+        220
+      ]
+    },
+    {
+      "id": 11,
+      "sourceRGBA": [
+        48,
+        172,
+        166,
+        255
+      ],
+      "blendAmount": 172,
+      "tintRGB": [
+        115,
+        199,
+        194
+      ]
+    },
+    {
+      "id": 12,
+      "sourceRGBA": [
+        50,
+        232,
+        134,
+        255
+      ],
+      "blendAmount": 146,
+      "tintRGB": [
+        137,
+        241,
+        185
+      ]
+    },
+    {
+      "id": 13,
+      "sourceRGBA": [
+        62,
+        200,
+        118,
+        255
+      ],
+      "blendAmount": 180,
+      "tintRGB": [
+        118,
+        216,
+        158
+      ]
+    },
+    {
+      "id": 14,
+      "sourceRGBA": [
+        30,
+        162,
+        108,
+        255
+      ],
+      "blendAmount": 180,
+      "tintRGB": [
+        96,
+        189,
+        151
+      ]
+    },
+    {
+      "id": 15,
+      "sourceRGBA": [
+        76,
+        240,
+        46,
+        255
+      ],
+      "blendAmount": 138,
+      "tintRGB": [
+        158,
+        246,
+        141
+      ]
+    },
+    {
+      "id": 16,
+      "sourceRGBA": [
+        86,
+        212,
+        52,
+        255
+      ],
+      "blendAmount": 174,
+      "tintRGB": [
+        139,
+        225,
+        116
+      ]
+    },
+    {
+      "id": 17,
+      "sourceRGBA": [
+        20,
+        172,
+        42,
+        255
+      ],
+      "blendAmount": 180,
+      "tintRGB": [
+        89,
+        196,
+        104
+      ]
+    },
+    {
+      "id": 18,
+      "sourceRGBA": [
+        146,
+        212,
+        46,
+        255
+      ],
+      "blendAmount": 152,
+      "tintRGB": [
+        190,
+        229,
+        130
+      ]
+    },
+    {
+      "id": 19,
+      "sourceRGBA": [
+        126,
+        196,
+        56,
+        255
+      ],
+      "blendAmount": 180,
+      "tintRGB": [
+        163,
+        213,
+        114
+      ]
+    },
+    {
+      "id": 20,
+      "sourceRGBA": [
+        92,
+        152,
+        34,
+        255
+      ],
+      "blendAmount": 188,
+      "tintRGB": [
+        134,
+        179,
+        92
+      ]
+    },
+    {
+      "id": 21,
+      "sourceRGBA": [
+        194,
+        220,
+        76,
+        255
+      ],
+      "blendAmount": 188,
+      "tintRGB": [
+        210,
+        229,
+        123
+      ]
+    },
+    {
+      "id": 22,
+      "sourceRGBA": [
+        180,
+        214,
+        74,
+        255
+      ],
+      "blendAmount": 220,
+      "tintRGB": [
+        190,
+        219,
+        98
+      ]
+    },
+    {
+      "id": 23,
+      "sourceRGBA": [
+        184,
+        200,
+        56,
+        255
+      ],
+      "blendAmount": 222,
+      "tintRGB": [
+        193,
+        207,
+        81
+      ]
+    },
+    {
+      "id": 24,
+      "sourceRGBA": [
+        254,
+        190,
+        24,
+        255
+      ],
+      "blendAmount": 150,
+      "tintRGB": [
+        254,
+        216,
+        119
+      ]
+    },
+    {
+      "id": 25,
+      "sourceRGBA": [
+        254,
+        186,
+        0,
+        255
+      ],
+      "blendAmount": 164,
+      "tintRGB": [
+        254,
+        210,
+        90
+      ]
+    },
+    {
+      "id": 26,
+      "sourceRGBA": [
+        254,
+        150,
+        4,
+        255
+      ],
+      "blendAmount": 160,
+      "tintRGB": [
+        254,
+        189,
+        97
+      ]
+    },
+    {
+      "id": 27,
+      "sourceRGBA": [
+        250,
+        110,
+        4,
+        255
+      ],
+      "blendAmount": 160,
+      "tintRGB": [
+        251,
+        164,
+        97
+      ]
+    },
+    {
+      "id": 28,
+      "sourceRGBA": [
+        254,
+        114,
+        0,
+        255
+      ],
+      "blendAmount": 180,
+      "tintRGB": [
+        254,
+        155,
+        74
+      ]
+    },
+    {
+      "id": 29,
+      "sourceRGBA": [
+        242,
+        72,
+        10,
+        255
+      ],
+      "blendAmount": 182,
+      "tintRGB": [
+        245,
+        124,
+        80
+      ]
+    },
+    {
+      "id": 30,
+      "sourceRGBA": [
+        186,
+        124,
+        4,
+        255
+      ],
+      "blendAmount": 124,
+      "tintRGB": [
+        221,
+        191,
+        132
+      ]
+    },
+    {
+      "id": 31,
+      "sourceRGBA": [
+        164,
+        102,
+        14,
+        255
+      ],
+      "blendAmount": 180,
+      "tintRGB": [
+        190,
+        147,
+        84
+      ]
+    },
+    {
+      "id": 32,
+      "sourceRGBA": [
+        154,
+        74,
+        28,
+        255
+      ],
+      "blendAmount": 210,
+      "tintRGB": [
+        171,
+        105,
+        68
+      ]
+    },
+    {
+      "id": 33,
+      "sourceRGBA": [
+        254,
+        48,
+        4,
+        255
+      ],
+      "blendAmount": 160,
+      "tintRGB": [
+        254,
+        125,
+        97
+      ]
+    },
+    {
+      "id": 34,
+      "sourceRGBA": [
+        254,
+        48,
+        20,
+        255
+      ],
+      "blendAmount": 190,
+      "tintRGB": [
+        254,
+        100,
+        79
+      ]
+    },
+    {
+      "id": 35,
+      "sourceRGBA": [
+        254,
+        54,
+        56,
+        255
+      ],
+      "blendAmount": 214,
+      "tintRGB": [
+        254,
+        86,
+        87
+      ]
+    },
+    {
+      "id": 36,
+      "sourceRGBA": [
+        254,
+        8,
+        38,
+        255
+      ],
+      "blendAmount": 94,
+      "tintRGB": [
+        254,
+        163,
+        175
+      ]
+    },
+    {
+      "id": 37,
+      "sourceRGBA": [
+        250,
+        124,
+        144,
+        255
+      ],
+      "blendAmount": 210,
+      "tintRGB": [
+        250,
+        147,
+        163
+      ]
+    },
+    {
+      "id": 38,
+      "sourceRGBA": [
+        248,
+        60,
+        106,
+        255
+      ],
+      "blendAmount": 172,
+      "tintRGB": [
+        250,
+        123,
+        154
+      ]
+    },
+    {
+      "id": 39,
+      "sourceRGBA": [
+        254,
+        76,
+        146,
+        255
+      ],
+      "blendAmount": 126,
+      "tintRGB": [
+        254,
+        166,
+        201
+      ]
+    },
+    {
+      "id": 40,
+      "sourceRGBA": [
+        250,
+        60,
+        136,
+        255
+      ],
+      "blendAmount": 146,
+      "tintRGB": [
+        252,
+        143,
+        186
+      ]
+    },
+    {
+      "id": 41,
+      "sourceRGBA": [
+        218,
+        34,
+        134,
+        255
+      ],
+      "blendAmount": 134,
+      "tintRGB": [
+        235,
+        138,
+        191
+      ]
+    },
+    {
+      "id": 42,
+      "sourceRGBA": [
+        210,
+        4,
+        238,
+        255
+      ],
+      "blendAmount": 86,
+      "tintRGB": [
+        239,
+        170,
+        249
+      ]
+    },
+    {
+      "id": 43,
+      "sourceRGBA": [
+        160,
+        80,
+        220,
+        255
+      ],
+      "blendAmount": 170,
+      "tintRGB": [
+        191,
+        138,
+        231
+      ]
+    },
+    {
+      "id": 44,
+      "sourceRGBA": [
+        158,
+        40,
+        174,
+        255
+      ],
+      "blendAmount": 160,
+      "tintRGB": [
+        194,
+        120,
+        204
+      ]
+    },
+    {
+      "id": 45,
+      "sourceRGBA": [
+        86,
+        4,
+        222,
+        255
+      ],
+      "blendAmount": 82,
+      "tintRGB": [
+        200,
+        174,
+        244
+      ]
+    },
+    {
+      "id": 46,
+      "sourceRGBA": [
+        84,
+        32,
+        196,
+        255
+      ],
+      "blendAmount": 110,
+      "tintRGB": [
+        181,
+        158,
+        229
+      ]
+    },
+    {
+      "id": 47,
+      "sourceRGBA": [
+        54,
+        4,
+        200,
+        255
+      ],
+      "blendAmount": 116,
+      "tintRGB": [
+        163,
+        140,
+        229
+      ]
+    }
+  ],
+  "renderParityVerified": false
+}

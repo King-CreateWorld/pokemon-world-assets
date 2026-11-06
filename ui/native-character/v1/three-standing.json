@@ -1,0 +1,3441 @@
+{
+  "items": [
+    {
+      "id": 4,
+      "slot": "HAIR",
+      "name": "Bun",
+      "flags": 18,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 6,
+      "slot": "HAIR",
+      "name": "Crew Cut",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 7,
+      "slot": "HAIR",
+      "name": "Curtains",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 11,
+      "slot": "HAIR",
+      "name": "Feathered",
+      "flags": 26,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 12,
+      "slot": "HAIR",
+      "name": "Flat Top",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 13,
+      "slot": "HAIR",
+      "name": "Butch",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 15,
+      "slot": "HAIR",
+      "name": "Wavy",
+      "flags": 18,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 17,
+      "slot": "HAIR",
+      "name": "Mohawk",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 19,
+      "slot": "HAIR",
+      "name": "Odango & Pigtails",
+      "flags": 26,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 20,
+      "slot": "HAIR",
+      "name": "Pigtails",
+      "flags": 26,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 21,
+      "slot": "HAIR",
+      "name": "Ponytail",
+      "flags": 26,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 22,
+      "slot": "HAIR",
+      "name": "Low Pigtails",
+      "flags": 26,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 24,
+      "slot": "HAIR",
+      "name": "Shaggy",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 26,
+      "slot": "HAIR",
+      "name": "Brush Cut",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 27,
+      "slot": "HAIR",
+      "name": "Medium Perm",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 28,
+      "slot": "HAIR",
+      "name": "Bobbed",
+      "flags": 18,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 30,
+      "slot": "HAIR",
+      "name": "Spiky",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 32,
+      "slot": "HAIR",
+      "name": "Twintails",
+      "flags": 26,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 34,
+      "slot": "HAIR",
+      "name": "Graduation Cut",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 35,
+      "slot": "HAIR",
+      "name": "Windswept",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 38,
+      "slot": "HAIR",
+      "name": "Bald",
+      "flags": 1,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 39,
+      "slot": "HAIR",
+      "name": "Very Spiky",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 2,
+      "slot": "EYES",
+      "name": "Grey",
+      "flags": 0,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 1,
+      "slot": "FACIAL_HAIR",
+      "name": "Beard",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 3,
+      "slot": "FACIAL_HAIR",
+      "name": "Eyebrows & Beard",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 4,
+      "slot": "FACIAL_HAIR",
+      "name": "Eyebrows",
+      "flags": 16,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 12,
+      "slot": "FACIAL_HAIR",
+      "name": "Pencil Moustache",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 15,
+      "slot": "FACIAL_HAIR",
+      "name": "Eyebrows & Pencil Moustache",
+      "flags": 17,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 2,
+      "slot": "TOP",
+      "name": "Sleeveless Shirt",
+      "flags": 16,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 3,
+      "slot": "TOP",
+      "name": "T-Shirt",
+      "flags": 16,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 5,
+      "slot": "TOP",
+      "name": "Long Sleeve Top",
+      "flags": 16,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 0,
+      "slot": "FOOTWEAR",
+      "name": "Boots",
+      "flags": 16,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 1,
+      "slot": "FOOTWEAR",
+      "name": "Shoes",
+      "flags": 16,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 0,
+      "slot": "LEGGINGS",
+      "name": "Pants",
+      "flags": 16,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 2,
+      "slot": "LEGGINGS",
+      "name": "Skirt",
+      "flags": 18,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 0,
+      "slot": "BIKE",
+      "name": "Red Bicycle",
+      "flags": 0,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 10,
+      "slot": "EYES",
+      "name": "Blue",
+      "flags": 0,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 11,
+      "slot": "EYES",
+      "name": "Amber",
+      "flags": 0,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 13,
+      "slot": "EYES",
+      "name": "Brown",
+      "flags": 0,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 14,
+      "slot": "EYES",
+      "name": "Green",
+      "flags": 0,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    },
+    {
+      "id": 15,
+      "slot": "EYES",
+      "name": "Hazel",
+      "flags": 0,
+      "colors": [],
+      "variants": 1,
+      "animations": []
+    }
+  ],
+  "genders": {
+    "0": {
+      "FOREHEAD": [
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "HAT": [
+        -1
+      ],
+      "HAIR": [
+        6,
+        7,
+        12,
+        13,
+        17,
+        24,
+        26,
+        27,
+        30,
+        34,
+        35,
+        38,
+        39
+      ],
+      "EYES": [
+        2,
+        10,
+        11,
+        13,
+        14,
+        15
+      ],
+      "FACIAL_HAIR": [
+        -1,
+        1,
+        3,
+        4,
+        12,
+        15
+      ],
+      "BACK": [
+        -1
+      ],
+      "TOP": [
+        2,
+        3,
+        5
+      ],
+      "GLOVES": [
+        -1
+      ],
+      "FOOTWEAR": [
+        0,
+        1
+      ],
+      "LEGGINGS": [
+        0
+      ],
+      "FISHING_ROD": [
+        0
+      ],
+      "BIKE": [
+        0
+      ]
+    },
+    "1": {
+      "FOREHEAD": [
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "HAT": [
+        -1
+      ],
+      "HAIR": [
+        4,
+        11,
+        15,
+        19,
+        20,
+        21,
+        22,
+        28,
+        32
+      ],
+      "EYES": [
+        2,
+        10,
+        11,
+        13,
+        14,
+        15
+      ],
+      "FACIAL_HAIR": [
+        -1,
+        4
+      ],
+      "BACK": [
+        -1
+      ],
+      "TOP": [
+        2,
+        3,
+        5
+      ],
+      "GLOVES": [
+        -1
+      ],
+      "FOOTWEAR": [
+        0,
+        1
+      ],
+      "LEGGINGS": [
+        0,
+        2
+      ],
+      "FISHING_ROD": [
+        0
+      ],
+      "BIKE": [
+        0
+      ]
+    }
+  },
+  "visibleSlots": [
+    "HAT",
+    "HAIR",
+    "EYES",
+    "FACIAL_HAIR",
+    "BACK",
+    "TOP",
+    "GLOVES",
+    "FOOTWEAR",
+    "LEGGINGS",
+    "BIKE"
+  ],
+  "sourceSha256": "65402461a8a161bbb96dc72819078eae71de138b99d8bfcb9a6f2f8c08e6e161",
+  "rows": [
+    {
+      "base": 0,
+      "view": 0,
+      "frame": 0,
+      "offset": 16,
+      "length": 301,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/f4557a129ad55e8414543e2e324bbecd0d7fa069ad351c05604551219070bd7a.png",
+      "sha256": "f4557a129ad55e8414543e2e324bbecd0d7fa069ad351c05604551219070bd7a",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 0,
+      "view": 0,
+      "frame": 1,
+      "offset": 321,
+      "length": 308,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/2ad6d54adc7ba94fb2f0e4348d9e98ab712a3d83ff0e55ca08a6546d33302cff.png",
+      "sha256": "2ad6d54adc7ba94fb2f0e4348d9e98ab712a3d83ff0e55ca08a6546d33302cff",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 0,
+      "view": 0,
+      "frame": 2,
+      "offset": 633,
+      "length": 271,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/af3e48b26527fd335a4edabe0c2ec5fd4af4b5d59d882c8d047e5b2c2aef48f9.png",
+      "sha256": "af3e48b26527fd335a4edabe0c2ec5fd4af4b5d59d882c8d047e5b2c2aef48f9",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 1,
+      "view": 0,
+      "frame": 0,
+      "offset": 20523,
+      "length": 304,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/6f46e3cf5538a0af0075b5eba1fba6b46073e244f101173794b16e21a257b06a.png",
+      "sha256": "6f46e3cf5538a0af0075b5eba1fba6b46073e244f101173794b16e21a257b06a",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 1,
+      "view": 0,
+      "frame": 1,
+      "offset": 20831,
+      "length": 311,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/db768e1c174698b07306e239e56e9aee96823e7cd71579b34dd1c27f34166376.png",
+      "sha256": "db768e1c174698b07306e239e56e9aee96823e7cd71579b34dd1c27f34166376",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 1,
+      "view": 0,
+      "frame": 2,
+      "offset": 21146,
+      "length": 276,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/d85338244567435781513a4133d6f111a30d259ed8785a4945d6d3188beb5e27.png",
+      "sha256": "d85338244567435781513a4133d6f111a30d259ed8785a4945d6d3188beb5e27",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 2,
+      "view": 0,
+      "frame": 0,
+      "offset": 41260,
+      "length": 306,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/c7b52a8672b0ea948a443520edcb34ad28de92eacb7e3a0c3c50599de8a59150.png",
+      "sha256": "c7b52a8672b0ea948a443520edcb34ad28de92eacb7e3a0c3c50599de8a59150",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 2,
+      "view": 0,
+      "frame": 1,
+      "offset": 41570,
+      "length": 313,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/c83bfb76fc96eb85bcfacf63ec594354ae352415a86193a8837e282a2d91ee1f.png",
+      "sha256": "c83bfb76fc96eb85bcfacf63ec594354ae352415a86193a8837e282a2d91ee1f",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 2,
+      "view": 0,
+      "frame": 2,
+      "offset": 41887,
+      "length": 276,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/1cd8e9f35f03018ed5b62ce55fec90539d4d77b1bc85730335dd0da255531f78.png",
+      "sha256": "1cd8e9f35f03018ed5b62ce55fec90539d4d77b1bc85730335dd0da255531f78",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 3,
+      "view": 0,
+      "frame": 0,
+      "offset": 62152,
+      "length": 307,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/a5e242a83c2b487e26f7fd7ba25b791bc591576fda4d0b89329fd7f2e9304025.png",
+      "sha256": "a5e242a83c2b487e26f7fd7ba25b791bc591576fda4d0b89329fd7f2e9304025",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 3,
+      "view": 0,
+      "frame": 1,
+      "offset": 62463,
+      "length": 314,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/fd2824695acea18468884da59a44b34602c747b3cd3986d7416f4b5870f098c4.png",
+      "sha256": "fd2824695acea18468884da59a44b34602c747b3cd3986d7416f4b5870f098c4",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 3,
+      "view": 0,
+      "frame": 2,
+      "offset": 62781,
+      "length": 277,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/3af22e6ec71d09aa2917d7a9be26e49f16fec1d55de3e9ff38fffd1eb8098b12.png",
+      "sha256": "3af22e6ec71d09aa2917d7a9be26e49f16fec1d55de3e9ff38fffd1eb8098b12",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 4,
+      "view": 0,
+      "frame": 0,
+      "offset": 82990,
+      "length": 305,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/efd750b3d75b611129c93cdd477ead95aca6c94f635233a8c24e0467aca467e3.png",
+      "sha256": "efd750b3d75b611129c93cdd477ead95aca6c94f635233a8c24e0467aca467e3",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 4,
+      "view": 0,
+      "frame": 1,
+      "offset": 83299,
+      "length": 313,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/6b6dfa2bcc505a73d316f116e0a1154238011b7412e39d8ed98195ba656d39d8.png",
+      "sha256": "6b6dfa2bcc505a73d316f116e0a1154238011b7412e39d8ed98195ba656d39d8",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "base": 4,
+      "view": 0,
+      "frame": 2,
+      "offset": 83616,
+      "length": 275,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/cff9817be69273343d7b250126467f7debbe84e55a5432763edcf79c9c9b2179.png",
+      "sha256": "cff9817be69273343d7b250126467f7debbe84e55a5432763edcf79c9c9b2179",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 0,
+      "slot": "BIKE",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1208232,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 0,
+      "slot": "BIKE",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1208239,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 0,
+      "slot": "BIKE",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1208246,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 904684,
+      "length": 131,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/4dfe627c2cc0370f8cd94dd6a52764881d1c70f93fe24b302630c3f0c41dbf67.png",
+      "sha256": "4dfe627c2cc0370f8cd94dd6a52764881d1c70f93fe24b302630c3f0c41dbf67",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 2,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 904822,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 904829,
+      "length": 118,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/0a11be75a45ad72d6eb96c252ca42db48b785771f99a1389aca1b861073c0226.png",
+      "sha256": "0a11be75a45ad72d6eb96c252ca42db48b785771f99a1389aca1b861073c0226",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 10,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1222856,
+      "length": 129,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/176a0906aab51e4d1dbd9a579ab7988c17b1391a4020b470dc37bb575785fa64.png",
+      "sha256": "176a0906aab51e4d1dbd9a579ab7988c17b1391a4020b470dc37bb575785fa64",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 10,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1222992,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 10,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1222999,
+      "length": 116,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/a8c7d836a063b8e1a198fb090402a64133cedf1f8b6135725f65c85b1773a0cd.png",
+      "sha256": "a8c7d836a063b8e1a198fb090402a64133cedf1f8b6135725f65c85b1773a0cd",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 11,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1224842,
+      "length": 128,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/6eebfd978220e5901f116b557ca694203e08ce44cfe95006e3631c963a609202.png",
+      "sha256": "6eebfd978220e5901f116b557ca694203e08ce44cfe95006e3631c963a609202",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 11,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1224977,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 11,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1224984,
+      "length": 116,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/dd1210aaf987a6296a9e4c1eb93a2a649e0a7131dc0167abffc5168119b46aba.png",
+      "sha256": "dd1210aaf987a6296a9e4c1eb93a2a649e0a7131dc0167abffc5168119b46aba",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 13,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1228832,
+      "length": 130,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/a1cf211f328eade15f411d3efb95f530cb0f9045ebf14f42c859f4b1f730f9aa.png",
+      "sha256": "a1cf211f328eade15f411d3efb95f530cb0f9045ebf14f42c859f4b1f730f9aa",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 13,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1228969,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 13,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1228976,
+      "length": 117,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/1168bbb8871923a50db8e1acd0d342caadef893ea4586c091b8f9fa38ab57fa7.png",
+      "sha256": "1168bbb8871923a50db8e1acd0d342caadef893ea4586c091b8f9fa38ab57fa7",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 14,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1230825,
+      "length": 130,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/83aeaaebd2cfaced661403a5a7b966eed57b993b4c0d5708a02b17461c9ef1a8.png",
+      "sha256": "83aeaaebd2cfaced661403a5a7b966eed57b993b4c0d5708a02b17461c9ef1a8",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 14,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1230962,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 14,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1230969,
+      "length": 117,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/6b2755ddb75a632a78fa6f05ac0e1b36b071f9f9448e74af1d208c0c57eac1fe.png",
+      "sha256": "6b2755ddb75a632a78fa6f05ac0e1b36b071f9f9448e74af1d208c0c57eac1fe",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 15,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1232818,
+      "length": 130,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/a033447f31f3be5ee37dd603ca906007021a3c8519fd94065b84934895deb673.png",
+      "sha256": "a033447f31f3be5ee37dd603ca906007021a3c8519fd94065b84934895deb673",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 15,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1232955,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 15,
+      "slot": "EYES",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1232962,
+      "length": 117,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/2b82a219d3ec3e8a2f9d0acae4a5a2f2024d5b0194008830a94f21fd273e1d99.png",
+      "sha256": "2b82a219d3ec3e8a2f9d0acae4a5a2f2024d5b0194008830a94f21fd273e1d99",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 1,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 917327,
+      "length": 176,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/f2e6c01fb6a978ae5c217ee2963c93a7b220b6d7a129fe05e1fb2e2f5af4dc9f.png",
+      "sha256": "f2e6c01fb6a978ae5c217ee2963c93a7b220b6d7a129fe05e1fb2e2f5af4dc9f",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 1,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 917510,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 1,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 917517,
+      "length": 141,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/8826c587684f0f8b367561f8b6c9bedff718f3aa18283d976bdf93d219bab5f6.png",
+      "sha256": "8826c587684f0f8b367561f8b6c9bedff718f3aa18283d976bdf93d219bab5f6",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 3,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 920664,
+      "length": 184,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/5be9ecbad25699570a27f4eab0fa611ba20d56fa656770cfabfc96fb7addd3f5.png",
+      "sha256": "5be9ecbad25699570a27f4eab0fa611ba20d56fa656770cfabfc96fb7addd3f5",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 3,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 920855,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 920862,
+      "length": 146,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/27c478b265415cc92e8f057e58befc368a8c09e34d118db0b3a2208ae3844e9a.png",
+      "sha256": "27c478b265415cc92e8f057e58befc368a8c09e34d118db0b3a2208ae3844e9a",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 4,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 923287,
+      "length": 108,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/c3fff087cd49acf807be82e91470723586a8e0d998ba5ccca4850716f45cd7ff.png",
+      "sha256": "c3fff087cd49acf807be82e91470723586a8e0d998ba5ccca4850716f45cd7ff",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 4,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 923402,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 4,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 923409,
+      "length": 108,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/72292dcda88c4cd9322731e590847646956c9e9fd9670a67e0b509328d38edfa.png",
+      "sha256": "72292dcda88c4cd9322731e590847646956c9e9fd9670a67e0b509328d38edfa",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 12,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 930712,
+      "length": 107,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/a2e456986aab9ba27b7ce0aaa3a5797d605b432b03d6416b2e919175fc7d3578.png",
+      "sha256": "a2e456986aab9ba27b7ce0aaa3a5797d605b432b03d6416b2e919175fc7d3578",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 12,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 930826,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 12,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 930833,
+      "length": 107,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/611c340811b49e836090ee3cf76809a42bc4ab12f60116e888a3ae6fc66a034d.png",
+      "sha256": "611c340811b49e836090ee3cf76809a42bc4ab12f60116e888a3ae6fc66a034d",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 15,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 934055,
+      "length": 115,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/868f42d9cb7af5c2585a9bf721e4094f11e82de3b2d900c68d65724c7c80657a.png",
+      "sha256": "868f42d9cb7af5c2585a9bf721e4094f11e82de3b2d900c68d65724c7c80657a",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 15,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 934177,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 15,
+      "slot": "FACIAL_HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 934184,
+      "length": 113,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/de69626b8dc6e246eb326e668fbd77b45061fc1cabafbe8d0859c41a4999b314.png",
+      "sha256": "de69626b8dc6e246eb326e668fbd77b45061fc1cabafbe8d0859c41a4999b314",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 0,
+      "slot": "FOOTWEAR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1180541,
+      "length": 111,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/49da97ef21abcdfe61edbfaf591f9a999a86f1824dfcf1e756c9c2f31ff56aa5.png",
+      "sha256": "49da97ef21abcdfe61edbfaf591f9a999a86f1824dfcf1e756c9c2f31ff56aa5",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 0,
+      "slot": "FOOTWEAR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "target": 0,
+      "refVariant": 0,
+      "refChannel": 0,
+      "a": 0,
+      "b": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "length": 111,
+      "path": "three-standing/49da97ef21abcdfe61edbfaf591f9a999a86f1824dfcf1e756c9c2f31ff56aa5.png",
+      "sha256": "49da97ef21abcdfe61edbfaf591f9a999a86f1824dfcf1e756c9c2f31ff56aa5",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 0,
+      "slot": "FOOTWEAR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1180674,
+      "length": 107,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/9b2d64fa601b12915d5662c3f167f8133bd1ac91855117c46683d5ecb94f9e73.png",
+      "sha256": "9b2d64fa601b12915d5662c3f167f8133bd1ac91855117c46683d5ecb94f9e73",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 1,
+      "slot": "FOOTWEAR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1184118,
+      "length": 111,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/f141e22b09af7b6f7ae8c4aff725374a100472d7104424525e8c7cd055b46a16.png",
+      "sha256": "f141e22b09af7b6f7ae8c4aff725374a100472d7104424525e8c7cd055b46a16",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 1,
+      "slot": "FOOTWEAR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "target": 0,
+      "refVariant": 0,
+      "refChannel": 0,
+      "a": 0,
+      "b": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "length": 111,
+      "path": "three-standing/f141e22b09af7b6f7ae8c4aff725374a100472d7104424525e8c7cd055b46a16.png",
+      "sha256": "f141e22b09af7b6f7ae8c4aff725374a100472d7104424525e8c7cd055b46a16",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 1,
+      "slot": "FOOTWEAR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1184251,
+      "length": 106,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/28ddb935a130dac2c9a41bfe97779b0b794f490fca82aeca2236f56e42df69b4.png",
+      "sha256": "28ddb935a130dac2c9a41bfe97779b0b794f490fca82aeca2236f56e42df69b4",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 4,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 750383,
+      "length": 291,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/5d49122a1960ff8b51dedb9872d94ac07741f5369f137e811fcb28fd800ccc16.png",
+      "sha256": "5d49122a1960ff8b51dedb9872d94ac07741f5369f137e811fcb28fd800ccc16",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 4,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 1,
+      "channel": 2,
+      "offset": 750680,
+      "length": 112,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/cf5b78bb0755921007fc87807a80dbe3fd3cb0f5306b31f9809200e6b14a80b4.png",
+      "sha256": "cf5b78bb0755921007fc87807a80dbe3fd3cb0f5306b31f9809200e6b14a80b4",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 4,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 750799,
+      "length": 290,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/9eb1b428e6f49b958b53ea9195989091909431aa825869c9a72edbc61b672424.png",
+      "sha256": "9eb1b428e6f49b958b53ea9195989091909431aa825869c9a72edbc61b672424",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 4,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 1,
+      "channel": 2,
+      "target": 0,
+      "refVariant": 0,
+      "refChannel": 2,
+      "a": 0,
+      "b": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "length": 112,
+      "path": "three-standing/cf5b78bb0755921007fc87807a80dbe3fd3cb0f5306b31f9809200e6b14a80b4.png",
+      "sha256": "cf5b78bb0755921007fc87807a80dbe3fd3cb0f5306b31f9809200e6b14a80b4",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 4,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 751110,
+      "length": 289,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/f87f159d5d977edd6ddba6afe261e9d66028dcea629cc533f0660d580040ef4a.png",
+      "sha256": "f87f159d5d977edd6ddba6afe261e9d66028dcea629cc533f0660d580040ef4a",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 4,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 1,
+      "channel": 2,
+      "target": 0,
+      "refVariant": 0,
+      "refChannel": 2,
+      "a": 1,
+      "b": 0,
+      "sourceRegionDelta": [
+        -1,
+        0
+      ],
+      "length": 112,
+      "path": "three-standing/cf5b78bb0755921007fc87807a80dbe3fd3cb0f5306b31f9809200e6b14a80b4.png",
+      "sha256": "cf5b78bb0755921007fc87807a80dbe3fd3cb0f5306b31f9809200e6b14a80b4",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 6,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 760649,
+      "length": 213,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/2fb65b2b9031659800b3ca411bec9b85748cf96e87ebbd6fa22925a4018c958e.png",
+      "sha256": "2fb65b2b9031659800b3ca411bec9b85748cf96e87ebbd6fa22925a4018c958e",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 6,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 760869,
+      "length": 238,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/9309d69a88866eeda9dc4a0ffea9c9c60a10db6e76b9e7aa74542d80f4c44cf2.png",
+      "sha256": "9309d69a88866eeda9dc4a0ffea9c9c60a10db6e76b9e7aa74542d80f4c44cf2",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 6,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 761114,
+      "length": 228,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/db1c4a6f79bb8aa96fc0d4ca1949191cf41ca3a55d117c352a59e4a5e96be4d7.png",
+      "sha256": "db1c4a6f79bb8aa96fc0d4ca1949191cf41ca3a55d117c352a59e4a5e96be4d7",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 7,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 764393,
+      "length": 235,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/7bda3cbcc002323972c1b36266c32989fff2c1b5646af8ae0c132190984814a8.png",
+      "sha256": "7bda3cbcc002323972c1b36266c32989fff2c1b5646af8ae0c132190984814a8",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 7,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 764635,
+      "length": 260,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/da2efa3d85a9608a56276a4dfcdca2ad4fd88c211f8c5a7d26d31663f10accbe.png",
+      "sha256": "da2efa3d85a9608a56276a4dfcdca2ad4fd88c211f8c5a7d26d31663f10accbe",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 7,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 764902,
+      "length": 237,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/0db8d58e085dcb9dabebc7a07838dc134ea9e262d25625c20be04a9b9aca8c39.png",
+      "sha256": "0db8d58e085dcb9dabebc7a07838dc134ea9e262d25625c20be04a9b9aca8c39",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 11,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 774033,
+      "length": 265,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/c3fbcae63cb0db713fcf614c81b6d9126c5b41a1c2b06ad7e662623d3acf5377.png",
+      "sha256": "c3fbcae63cb0db713fcf614c81b6d9126c5b41a1c2b06ad7e662623d3acf5377",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 11,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 1,
+      "channel": 3,
+      "offset": 774304,
+      "length": 161,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/4c49588155966bfaf2fd255214ce01a43a157bec34ef2d9ba0a0cb461548a5cd.png",
+      "sha256": "4c49588155966bfaf2fd255214ce01a43a157bec34ef2d9ba0a0cb461548a5cd",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 11,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 774472,
+      "length": 273,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/e5b013947f34bfa8cf9e3abfdfe81a98c0a02bfeb5820c3e4401de992aeff6ca.png",
+      "sha256": "e5b013947f34bfa8cf9e3abfdfe81a98c0a02bfeb5820c3e4401de992aeff6ca",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 11,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 774752,
+      "length": 245,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/b7a40eec2d513439dda7f971d293fcabb87694bc4eab2c83bb4dfb912afe2ffb.png",
+      "sha256": "b7a40eec2d513439dda7f971d293fcabb87694bc4eab2c83bb4dfb912afe2ffb",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 12,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 783048,
+      "length": 199,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/1d5075fa13f379b56b14a9f31239c1d96393cdd470e2f668d4ec5370b4b5f7e1.png",
+      "sha256": "1d5075fa13f379b56b14a9f31239c1d96393cdd470e2f668d4ec5370b4b5f7e1",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 12,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 783254,
+      "length": 232,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/8540edb5c6928894e2a931844e4190cf54571b83eeda5392e28a87f830b8d6b8.png",
+      "sha256": "8540edb5c6928894e2a931844e4190cf54571b83eeda5392e28a87f830b8d6b8",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 12,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 783493,
+      "length": 212,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/3c4d846b0a37c8c925dde2fb1751e8b91d535945b28baa153b0e8722190a65ac.png",
+      "sha256": "3c4d846b0a37c8c925dde2fb1751e8b91d535945b28baa153b0e8722190a65ac",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 13,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 786526,
+      "length": 211,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/4870a419f51b224883db11be2c54607365ee06598edff1f96f3257f42e48ac0b.png",
+      "sha256": "4870a419f51b224883db11be2c54607365ee06598edff1f96f3257f42e48ac0b",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 13,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 786744,
+      "length": 233,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/2cf467d849854c78f12fcbc4e46ab18fe86ef1eceaa568173793ba6604345b0f.png",
+      "sha256": "2cf467d849854c78f12fcbc4e46ab18fe86ef1eceaa568173793ba6604345b0f",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 13,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 786984,
+      "length": 213,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/39d97e309d47f2b7faa796042de2cd36cf53a0143d8bffe7c99fe031f06ce1f0.png",
+      "sha256": "39d97e309d47f2b7faa796042de2cd36cf53a0143d8bffe7c99fe031f06ce1f0",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 15,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 793780,
+      "length": 268,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/82f36320b9c2b02d370cc340dd9066ca6e8b16b641e9abb0117c839f32e5389f.png",
+      "sha256": "82f36320b9c2b02d370cc340dd9066ca6e8b16b641e9abb0117c839f32e5389f",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 15,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 1,
+      "channel": 3,
+      "offset": 794054,
+      "length": 154,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/24d1a06eaaeff8cf578939748b321bda223a7148bf42c0d5d35871c6293e31f4.png",
+      "sha256": "24d1a06eaaeff8cf578939748b321bda223a7148bf42c0d5d35871c6293e31f4",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 15,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 794215,
+      "length": 274,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/4655826e73d07370f0bc65c06b5e52f2563b59cb7efd5572c42a0b95b4988235.png",
+      "sha256": "4655826e73d07370f0bc65c06b5e52f2563b59cb7efd5572c42a0b95b4988235",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 15,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 794496,
+      "length": 247,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/586794da95316379256306b4278f62c1dfa10c4143699e345568beba773338b7.png",
+      "sha256": "586794da95316379256306b4278f62c1dfa10c4143699e345568beba773338b7",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 17,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 801726,
+      "length": 167,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/97caee6185d01c27890b71dab72f815d6afdce87d8c1f8d4f573af5adae7fd82.png",
+      "sha256": "97caee6185d01c27890b71dab72f815d6afdce87d8c1f8d4f573af5adae7fd82",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 17,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 801900,
+      "length": 169,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/1aaa258219b124257d8dcab222d7d7ddea3d3918b6e963db317679e3137546a8.png",
+      "sha256": "1aaa258219b124257d8dcab222d7d7ddea3d3918b6e963db317679e3137546a8",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 17,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 802076,
+      "length": 191,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/f293a745d4d078bbdcc1df47d6a1ddb2de391649cba907132b08ccf8a21e97b6.png",
+      "sha256": "f293a745d4d078bbdcc1df47d6a1ddb2de391649cba907132b08ccf8a21e97b6",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 19,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 805028,
+      "length": 336,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/8ed62b05d0aa9f2a97df15ff5bedf022787fc614e4c0eedf81072b123d7cc28e.png",
+      "sha256": "8ed62b05d0aa9f2a97df15ff5bedf022787fc614e4c0eedf81072b123d7cc28e",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 19,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 1,
+      "channel": 2,
+      "offset": 805370,
+      "length": 125,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/50e690d45814064c238c3f1651bb57fef91a27b7102325bfed7e9d5171a7d1c3.png",
+      "sha256": "50e690d45814064c238c3f1651bb57fef91a27b7102325bfed7e9d5171a7d1c3",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 19,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 805502,
+      "length": 344,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/dba947f56dffc167e663da737607f9f071209ae0fb33f02c934a081527c44bf2.png",
+      "sha256": "dba947f56dffc167e663da737607f9f071209ae0fb33f02c934a081527c44bf2",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 19,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 1,
+      "channel": 2,
+      "target": 0,
+      "refVariant": 0,
+      "refChannel": 2,
+      "a": 0,
+      "b": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "length": 125,
+      "path": "three-standing/50e690d45814064c238c3f1651bb57fef91a27b7102325bfed7e9d5171a7d1c3.png",
+      "sha256": "50e690d45814064c238c3f1651bb57fef91a27b7102325bfed7e9d5171a7d1c3",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 19,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 805867,
+      "length": 292,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/5829770232edacc39bea820551a495ef6eaec03b8908ecc211f232410b0b2b14.png",
+      "sha256": "5829770232edacc39bea820551a495ef6eaec03b8908ecc211f232410b0b2b14",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 19,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 1,
+      "channel": 2,
+      "offset": 806165,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 20,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 815880,
+      "length": 306,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/851735da623b56e97632ad3237794523b7941ed83c8f5a99242033618a9ef940.png",
+      "sha256": "851735da623b56e97632ad3237794523b7941ed83c8f5a99242033618a9ef940",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 20,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 1,
+      "channel": 2,
+      "offset": 816192,
+      "length": 143,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/5d20b11d07b8c053c1e6249c01dcba096831864af536278847fbe7db7933954f.png",
+      "sha256": "5d20b11d07b8c053c1e6249c01dcba096831864af536278847fbe7db7933954f",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 20,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 816342,
+      "length": 338,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/a3d325670d94e2329b41cfe7fec680e3accf9b1afde4a9d70397009a128bb4dd.png",
+      "sha256": "a3d325670d94e2329b41cfe7fec680e3accf9b1afde4a9d70397009a128bb4dd",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 20,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 1,
+      "channel": 2,
+      "offset": 816686,
+      "length": 130,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/bbdeba05020e01102028d7ee7c3e13bee57030d78ad165dbd31851659136b2f5.png",
+      "sha256": "bbdeba05020e01102028d7ee7c3e13bee57030d78ad165dbd31851659136b2f5",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 20,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 816823,
+      "length": 286,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/c7b090c57dcca64b4c347ee43e4443e3d6af285c4b365b8efa7a0f98e047a641.png",
+      "sha256": "c7b090c57dcca64b4c347ee43e4443e3d6af285c4b365b8efa7a0f98e047a641",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 20,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 1,
+      "channel": 2,
+      "offset": 817115,
+      "length": 137,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/c0013bac29f69d8b3a947042304277c11eb4ea842c313c6187dfbc5f3bf9a8a5.png",
+      "sha256": "c0013bac29f69d8b3a947042304277c11eb4ea842c313c6187dfbc5f3bf9a8a5",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 21,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 825398,
+      "length": 267,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/62b6cc04c8449e8a89decfd9ef3de9b4a26a3c1be9467774ea195a86fd6b81c8.png",
+      "sha256": "62b6cc04c8449e8a89decfd9ef3de9b4a26a3c1be9467774ea195a86fd6b81c8",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 21,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 1,
+      "channel": 2,
+      "offset": 825671,
+      "length": 121,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/e2fc0d7b1b156b262908b9de32336365ce09eb353491f5dafcb534f1f1c1fa25.png",
+      "sha256": "e2fc0d7b1b156b262908b9de32336365ce09eb353491f5dafcb534f1f1c1fa25",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 21,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 825799,
+      "length": 285,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/f6c4125b03bb29c03b304198ab79f51b07c16de596fcce39e6d9cc31153d1dea.png",
+      "sha256": "f6c4125b03bb29c03b304198ab79f51b07c16de596fcce39e6d9cc31153d1dea",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 21,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 1,
+      "channel": 2,
+      "offset": 826090,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 21,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 826097,
+      "length": 291,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/dcd416e6da8860b164cef6fc891e9d90a915795eb0540de946c847b66338afc2.png",
+      "sha256": "dcd416e6da8860b164cef6fc891e9d90a915795eb0540de946c847b66338afc2",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 21,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 1,
+      "channel": 2,
+      "offset": 826394,
+      "length": 114,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/56c97207e2a9d0d76f1a9137b2959a85aa38f7eb3f20bd98a07d5180c7ea25b1.png",
+      "sha256": "56c97207e2a9d0d76f1a9137b2959a85aa38f7eb3f20bd98a07d5180c7ea25b1",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 22,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 833065,
+      "length": 282,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/5ef52f91e0501515587259b4e5c4d675ef88db0617387a9bb10f2c4846cd233a.png",
+      "sha256": "5ef52f91e0501515587259b4e5c4d675ef88db0617387a9bb10f2c4846cd233a",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 22,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 1,
+      "channel": 2,
+      "offset": 833353,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 22,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 833360,
+      "length": 313,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/cd9c8f3a901140f1de3a798ef3e7d9c49319febab404c7d1e47b91bba9eced06.png",
+      "sha256": "cd9c8f3a901140f1de3a798ef3e7d9c49319febab404c7d1e47b91bba9eced06",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 22,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 1,
+      "channel": 2,
+      "offset": 833679,
+      "length": 131,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/8a362d78d8d7024c6ed4cfd9c91a4602de1bf2ac493e7c9a3e33ebbab0e1e3ef.png",
+      "sha256": "8a362d78d8d7024c6ed4cfd9c91a4602de1bf2ac493e7c9a3e33ebbab0e1e3ef",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 22,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 833817,
+      "length": 286,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/a959722c0832dcc9fc25c8d9597980568ab10401ffcba1e1cfebff9e21d6a9c1.png",
+      "sha256": "a959722c0832dcc9fc25c8d9597980568ab10401ffcba1e1cfebff9e21d6a9c1",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 22,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 1,
+      "channel": 2,
+      "offset": 834109,
+      "length": 113,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/d3157f0422d638ccec20f4d2fba3583b2bb994b76cfbb523a44814e28aa842ef.png",
+      "sha256": "d3157f0422d638ccec20f4d2fba3583b2bb994b76cfbb523a44814e28aa842ef",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 24,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 844583,
+      "length": 278,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/e5322b06e79be18133493959cf5ffc627d0a1d26b4d2493290591e5e7b9ade8a.png",
+      "sha256": "e5322b06e79be18133493959cf5ffc627d0a1d26b4d2493290591e5e7b9ade8a",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 24,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 844868,
+      "length": 293,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/5acf9ff259d66a38a33cf1e20210091cd9b633f79ad6e7aa1d848070c11ee08c.png",
+      "sha256": "5acf9ff259d66a38a33cf1e20210091cd9b633f79ad6e7aa1d848070c11ee08c",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 24,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 845168,
+      "length": 268,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/008c227bd95532c502feb68838924e2a2aac1ba238697fa55b07772190fad82b.png",
+      "sha256": "008c227bd95532c502feb68838924e2a2aac1ba238697fa55b07772190fad82b",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 26,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 850473,
+      "length": 216,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/4358f1b42b745a9ab05327196c9a1d912cca403a9825f9938831f43f28eb8115.png",
+      "sha256": "4358f1b42b745a9ab05327196c9a1d912cca403a9825f9938831f43f28eb8115",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 26,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 850696,
+      "length": 246,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/0fb496e92ae0aceb7376d19a1bef3f0ef5f843a389d5b6cb2f750f8f8424f8b5.png",
+      "sha256": "0fb496e92ae0aceb7376d19a1bef3f0ef5f843a389d5b6cb2f750f8f8424f8b5",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 26,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 850949,
+      "length": 239,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/6af9905290b47e22fd16a996e7a171d990d95609d48abe8c0cec7412450b9256.png",
+      "sha256": "6af9905290b47e22fd16a996e7a171d990d95609d48abe8c0cec7412450b9256",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 27,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 854215,
+      "length": 260,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/6ab1d8fdb584c1e1a77f633f17254b8800ab1c93662c955d9a09e277ab5e0f82.png",
+      "sha256": "6ab1d8fdb584c1e1a77f633f17254b8800ab1c93662c955d9a09e277ab5e0f82",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 27,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 854482,
+      "length": 267,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/639f732f4993a4ffbe2cda3dc18b8d6e5e00e3e73169f0e4e0ab984043c87734.png",
+      "sha256": "639f732f4993a4ffbe2cda3dc18b8d6e5e00e3e73169f0e4e0ab984043c87734",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 27,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 854756,
+      "length": 245,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/cac6da3934b0e70831eb2aaf83294cb4d1dc8249c36e6753ebbf5c48affa7321.png",
+      "sha256": "cac6da3934b0e70831eb2aaf83294cb4d1dc8249c36e6753ebbf5c48affa7321",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 28,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 858262,
+      "length": 260,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/5b80248d34cb0689fdcb47a3910031e7459201e572e6263fa56e716dcfb8104c.png",
+      "sha256": "5b80248d34cb0689fdcb47a3910031e7459201e572e6263fa56e716dcfb8104c",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 28,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 858529,
+      "length": 252,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/6f3c02b830c3949fa285bda07fade2c45cc4b5e614ec75287f32a8b88d66040d.png",
+      "sha256": "6f3c02b830c3949fa285bda07fade2c45cc4b5e614ec75287f32a8b88d66040d",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 28,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 858788,
+      "length": 232,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/027547f5d108b3d710645fc1ff409cdf0bd3aaa1c9d6e136f3b18479caf80921.png",
+      "sha256": "027547f5d108b3d710645fc1ff409cdf0bd3aaa1c9d6e136f3b18479caf80921",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 30,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 862643,
+      "length": 245,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/39bb6bf7172384adb618d4e87262bdcc3cf420e9b758a0b6b40a13244bb50aa9.png",
+      "sha256": "39bb6bf7172384adb618d4e87262bdcc3cf420e9b758a0b6b40a13244bb50aa9",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 30,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 862895,
+      "length": 265,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/7a11a10065eb0ebb1c3a750d6a5bbccec65de19bdc173d63da3fe9616b78ae20.png",
+      "sha256": "7a11a10065eb0ebb1c3a750d6a5bbccec65de19bdc173d63da3fe9616b78ae20",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 30,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 863167,
+      "length": 249,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/dcaa61f5ebfe43a34d9b338226bb86139e84f7f7845ed4fcaadec53e7bc7e9fc.png",
+      "sha256": "dcaa61f5ebfe43a34d9b338226bb86139e84f7f7845ed4fcaadec53e7bc7e9fc",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 32,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 867065,
+      "length": 312,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/63a46d9c7a1d6f4f0a0bac4ef06b21de5064628379afc1757b1cd4ad2c23b369.png",
+      "sha256": "63a46d9c7a1d6f4f0a0bac4ef06b21de5064628379afc1757b1cd4ad2c23b369",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 32,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 1,
+      "channel": 2,
+      "offset": 867383,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 32,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 2,
+      "channel": 3,
+      "offset": 867389,
+      "length": 128,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/6d04d66e50d16cebb799e4c64b9176652da41dbf0486f3004affd30bc8d1c35b.png",
+      "sha256": "6d04d66e50d16cebb799e4c64b9176652da41dbf0486f3004affd30bc8d1c35b",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 32,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 867524,
+      "length": 316,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/1466a9830a0d714a7df9ddc0c60c07999b1626f7d32bda42556dfe287dd7706d.png",
+      "sha256": "1466a9830a0d714a7df9ddc0c60c07999b1626f7d32bda42556dfe287dd7706d",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 32,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 1,
+      "channel": 2,
+      "offset": 867846,
+      "length": 125,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/658f911e8a2027f96bc79033219490f481e9eaf07a54edbaeefbd8e67cc34939.png",
+      "sha256": "658f911e8a2027f96bc79033219490f481e9eaf07a54edbaeefbd8e67cc34939",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 32,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 867978,
+      "length": 282,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/0e3616b34075ba02b9c99d3526c1c07f66c4abad84372ffd2620f90d01d608eb.png",
+      "sha256": "0e3616b34075ba02b9c99d3526c1c07f66c4abad84372ffd2620f90d01d608eb",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 32,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 1,
+      "channel": 2,
+      "offset": 868266,
+      "length": 118,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/dedcbd765d44cf4e3e3b1216a7e85e9551645befc0baa395c4709fd8c34d600a.png",
+      "sha256": "dedcbd765d44cf4e3e3b1216a7e85e9551645befc0baa395c4709fd8c34d600a",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 34,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 881079,
+      "length": 250,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/359ff48545d9ca60643638a9e1e4b78fd5721d94c4ae05d7af9e697bb97db5c7.png",
+      "sha256": "359ff48545d9ca60643638a9e1e4b78fd5721d94c4ae05d7af9e697bb97db5c7",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 34,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 881336,
+      "length": 269,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/c9cd26212a43286f38656298d6593201c8bf89a1dd1391cfcff664e1ab4e61db.png",
+      "sha256": "c9cd26212a43286f38656298d6593201c8bf89a1dd1391cfcff664e1ab4e61db",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 34,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 881612,
+      "length": 243,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/4259c13d2036b5f7b34c4430b1c1455de810f99dfcf435ae3cb59f8ce4937b7e.png",
+      "sha256": "4259c13d2036b5f7b34c4430b1c1455de810f99dfcf435ae3cb59f8ce4937b7e",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 35,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 884963,
+      "length": 266,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/2975a65bba9b0fb8b6b38b6f9c2de59c7c0f4228235a92fd76727f5717f6a317.png",
+      "sha256": "2975a65bba9b0fb8b6b38b6f9c2de59c7c0f4228235a92fd76727f5717f6a317",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 35,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 885236,
+      "length": 280,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/0ca03d6a7b5d91da85bf70de3016c6ef3c35b3eaada5397dd93a7ef0fd71515e.png",
+      "sha256": "0ca03d6a7b5d91da85bf70de3016c6ef3c35b3eaada5397dd93a7ef0fd71515e",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 35,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 885523,
+      "length": 264,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/85ef8ea3531e98fc749c4ebc1f9c4601b7db945cd6fc0a5867293efd0de44ba3.png",
+      "sha256": "85ef8ea3531e98fc749c4ebc1f9c4601b7db945cd6fc0a5867293efd0de44ba3",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 38,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 889929,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 38,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 889936,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 38,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 889943,
+      "length": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 39,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 890745,
+      "length": 246,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/282a437bb9a498ce5fbac882dcad34031650451ef3ef51453109b53e7fdeec18.png",
+      "sha256": "282a437bb9a498ce5fbac882dcad34031650451ef3ef51453109b53e7fdeec18",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 39,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "offset": 890998,
+      "length": 282,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/c03f5825902ba5929c762963d235dca17aac7e4317eca2e6cb25301aa8543872.png",
+      "sha256": "c03f5825902ba5929c762963d235dca17aac7e4317eca2e6cb25301aa8543872",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 39,
+      "slot": "HAIR",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 891287,
+      "length": 272,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/43cde053005cbf887b8113cc4735e4032c3554fa7eb988491a9edafb4f34eb39.png",
+      "sha256": "43cde053005cbf887b8113cc4735e4032c3554fa7eb988491a9edafb4f34eb39",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 0,
+      "slot": "LEGGINGS",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1187435,
+      "length": 147,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/16f0e87d6675c6c5af0e05bceb382e6882e2dafe94791dcb9335221d13d5a4f1.png",
+      "sha256": "16f0e87d6675c6c5af0e05bceb382e6882e2dafe94791dcb9335221d13d5a4f1",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 0,
+      "slot": "LEGGINGS",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "target": 0,
+      "refVariant": 0,
+      "refChannel": 0,
+      "a": 0,
+      "b": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "length": 147,
+      "path": "three-standing/16f0e87d6675c6c5af0e05bceb382e6882e2dafe94791dcb9335221d13d5a4f1.png",
+      "sha256": "16f0e87d6675c6c5af0e05bceb382e6882e2dafe94791dcb9335221d13d5a4f1",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 0,
+      "slot": "LEGGINGS",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1187604,
+      "length": 117,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/0070af5d80e072c8499e3bc87351b0477a6f09e0b337de2b8533df32248e98c4.png",
+      "sha256": "0070af5d80e072c8499e3bc87351b0477a6f09e0b337de2b8533df32248e98c4",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 2,
+      "slot": "LEGGINGS",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1199609,
+      "length": 146,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/debbb5dd8ae202ea356cf3a9938b348b490910bbeb953a17a2d5f39c6c51da29.png",
+      "sha256": "debbb5dd8ae202ea356cf3a9938b348b490910bbeb953a17a2d5f39c6c51da29",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 2,
+      "slot": "LEGGINGS",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "target": 0,
+      "refVariant": 0,
+      "refChannel": 0,
+      "a": 0,
+      "b": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "length": 146,
+      "path": "three-standing/debbb5dd8ae202ea356cf3a9938b348b490910bbeb953a17a2d5f39c6c51da29.png",
+      "sha256": "debbb5dd8ae202ea356cf3a9938b348b490910bbeb953a17a2d5f39c6c51da29",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 2,
+      "slot": "LEGGINGS",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1199777,
+      "length": 130,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/a17528db002ada7e691319c2090fc5575bf363408d32fb24d9c0ce60d762c8cb.png",
+      "sha256": "a17528db002ada7e691319c2090fc5575bf363408d32fb24d9c0ce60d762c8cb",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 2,
+      "slot": "TOP",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1066548,
+      "length": 150,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/095d0d99968616e296d758efcc0deaf9ea3a2e735e5bad82e8be77383e66ec60.png",
+      "sha256": "095d0d99968616e296d758efcc0deaf9ea3a2e735e5bad82e8be77383e66ec60",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 2,
+      "slot": "TOP",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "target": 0,
+      "refVariant": 0,
+      "refChannel": 0,
+      "a": 0,
+      "b": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "length": 150,
+      "path": "three-standing/095d0d99968616e296d758efcc0deaf9ea3a2e735e5bad82e8be77383e66ec60.png",
+      "sha256": "095d0d99968616e296d758efcc0deaf9ea3a2e735e5bad82e8be77383e66ec60",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 2,
+      "slot": "TOP",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1066720,
+      "length": 134,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/3aceafd7880e102f89292df032fdfc4bea4b4b41fe9d8195199e0916180722de.png",
+      "sha256": "3aceafd7880e102f89292df032fdfc4bea4b4b41fe9d8195199e0916180722de",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 3,
+      "slot": "TOP",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1074339,
+      "length": 163,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/df877f2611c068041c659f975ca63a84b92315c3696b8bab9215d433f8daa56d.png",
+      "sha256": "df877f2611c068041c659f975ca63a84b92315c3696b8bab9215d433f8daa56d",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 3,
+      "slot": "TOP",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "target": 0,
+      "refVariant": 0,
+      "refChannel": 0,
+      "a": 0,
+      "b": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "length": 163,
+      "path": "three-standing/df877f2611c068041c659f975ca63a84b92315c3696b8bab9215d433f8daa56d.png",
+      "sha256": "df877f2611c068041c659f975ca63a84b92315c3696b8bab9215d433f8daa56d",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 3,
+      "slot": "TOP",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1074524,
+      "length": 136,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/de5f14edde7a6e3dcc48a2df1f6dc6e38b57f6506b6697b7e8102a4f492da6d8.png",
+      "sha256": "de5f14edde7a6e3dcc48a2df1f6dc6e38b57f6506b6697b7e8102a4f492da6d8",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 5,
+      "slot": "TOP",
+      "variant": 0,
+      "view": 0,
+      "frame": 0,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1091149,
+      "length": 164,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/831b6b013aada5f756f290ad2ec7588e81b49d2c9340de2bf6f13d428aca67cb.png",
+      "sha256": "831b6b013aada5f756f290ad2ec7588e81b49d2c9340de2bf6f13d428aca67cb",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 5,
+      "slot": "TOP",
+      "variant": 0,
+      "view": 0,
+      "frame": 1,
+      "layer": 0,
+      "channel": 0,
+      "target": 0,
+      "refVariant": 0,
+      "refChannel": 0,
+      "a": 0,
+      "b": 0,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "length": 164,
+      "path": "three-standing/831b6b013aada5f756f290ad2ec7588e81b49d2c9340de2bf6f13d428aca67cb.png",
+      "sha256": "831b6b013aada5f756f290ad2ec7588e81b49d2c9340de2bf6f13d428aca67cb",
+      "width": 57,
+      "height": 56
+    },
+    {
+      "id": 5,
+      "slot": "TOP",
+      "variant": 0,
+      "view": 0,
+      "frame": 2,
+      "layer": 0,
+      "channel": 0,
+      "offset": 1091335,
+      "length": 142,
+      "sourceRegionDelta": [
+        0,
+        0
+      ],
+      "path": "three-standing/8be6c3f5997ec77536ac2b66f399a09f0c8e5dc236c62d151b9bae5961486051.png",
+      "sha256": "8be6c3f5997ec77536ac2b66f399a09f0c8e5dc236c62d151b9bae5961486051",
+      "width": 57,
+      "height": 56
+    }
+  ],
+  "scope": "Bank0 standing frames0/1/2, exact PNGs; UV deltas remain explicit. No walk animation or native screenshot parity claim.",
+  "uniqueFiles": 128,
+  "bytes": 27320,
+  "nativePadding": 2,
+  "onlineChanged": false
+}
