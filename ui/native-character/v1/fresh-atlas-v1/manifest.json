@@ -1,0 +1,441 @@
+{
+  "schema": 1,
+  "sourceSha256": "65402461a8a161bbb96dc72819078eae71de138b99d8bfcb9a6f2f8c08e6e161",
+  "derivation": "Native fresh atlas reference: original per-item upload order, 4096x4096, 61x60 cells, 2px padding, reverse slot allocation, Nearest/ClampToEdge; sample UV reference into 57x56 output",
+  "scope": "16 bank0 creation references only; no original manifest flags overwritten",
+  "notClaimed": "Unknown recycled slots of an already-running original client are not reproduced",
+  "rows": [
+    {
+      "key": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      "path": "62db0ed3e1384a11bc06d7aa34e0f526ae2aacf872f092d3b69833f565bf1d8c.png",
+      "sha256": "62db0ed3e1384a11bc06d7aa34e0f526ae2aacf872f092d3b69833f565bf1d8c",
+      "pixelSha256": "6944b3ff86d1c64df325060d782424f90472c043af38c4f8e373038831e61c1a",
+      "sourceRegionDelta": [
+        -5,
+        0
+      ],
+      "target": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        3,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        6,
+        0
+      ],
+      "path": "62db0ed3e1384a11bc06d7aa34e0f526ae2aacf872f092d3b69833f565bf1d8c.png",
+      "sha256": "62db0ed3e1384a11bc06d7aa34e0f526ae2aacf872f092d3b69833f565bf1d8c",
+      "pixelSha256": "6944b3ff86d1c64df325060d782424f90472c043af38c4f8e373038831e61c1a",
+      "sourceRegionDelta": [
+        -5,
+        0
+      ],
+      "target": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        3,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        9,
+        0
+      ],
+      "path": "bdc03e5fd8ef7c7dbd968b452a6b727d2c178ff60c1f514bbc246b2aacc0efac.png",
+      "sha256": "bdc03e5fd8ef7c7dbd968b452a6b727d2c178ff60c1f514bbc246b2aacc0efac",
+      "pixelSha256": "96537e3a51ed68cd38384a1ab59135bfa7bd3ca9a496018770a841736ccce30e",
+      "sourceRegionDelta": [
+        0,
+        3
+      ],
+      "target": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        11,
+        0
+      ],
+      "path": "e526289a2e5caff704d6dbf0d662da014d0206acb7f54fe8f4df097937da3a2d.png",
+      "sha256": "e526289a2e5caff704d6dbf0d662da014d0206acb7f54fe8f4df097937da3a2d",
+      "pixelSha256": "b3668304d97cf502a9c5746fca9bb110a96f008c1c0d76da043bd41a905edc9a",
+      "sourceRegionDelta": [
+        5,
+        0
+      ],
+      "target": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        13,
+        0
+      ],
+      "path": "bacebe772223abc892033115e4dec012951987650e28b198a2c1034bed91505d.png",
+      "sha256": "bacebe772223abc892033115e4dec012951987650e28b198a2c1034bed91505d",
+      "pixelSha256": "756ceca4ab642889208188beb4fa5e968a1e572384ab519dfbbeed4ca1569044",
+      "sourceRegionDelta": [
+        4,
+        0
+      ],
+      "target": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        22,
+        0
+      ],
+      "path": "f2d14a90bc55eab553c206aed7b963e8448a61b6443f498847d33392739bf22a.png",
+      "sha256": "f2d14a90bc55eab553c206aed7b963e8448a61b6443f498847d33392739bf22a",
+      "pixelSha256": "b183259559981505ea365b07490b37ef690ca6b493cbf5a0957e88affef63c80",
+      "sourceRegionDelta": [
+        -8,
+        0
+      ],
+      "target": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        21,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        23,
+        0
+      ],
+      "path": "4e547cee75600cf1d36ab3d26c22409a3a75749d7e8c9a13de21db885dbe0678.png",
+      "sha256": "4e547cee75600cf1d36ab3d26c22409a3a75749d7e8c9a13de21db885dbe0678",
+      "pixelSha256": "ec19d3f049fc7dfe52795177a33bd522da75a7c585bc28d961315ddf86c97b09",
+      "sourceRegionDelta": [
+        -7,
+        0
+      ],
+      "target": [
+        "FOOTWEAR",
+        0,
+        0,
+        0,
+        21,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        4,
+        0
+      ],
+      "path": "a18c382fccaf330ff9e93085641c013118bad74188be5025aef73142d7d415eb.png",
+      "sha256": "a18c382fccaf330ff9e93085641c013118bad74188be5025aef73142d7d415eb",
+      "pixelSha256": "cb0f84bd8c6e1359988045635315353e9ba36a02f9e7deaabe35f391e82dcf98",
+      "sourceRegionDelta": [
+        -5,
+        0
+      ],
+      "target": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        6,
+        0
+      ],
+      "path": "a18c382fccaf330ff9e93085641c013118bad74188be5025aef73142d7d415eb.png",
+      "sha256": "a18c382fccaf330ff9e93085641c013118bad74188be5025aef73142d7d415eb",
+      "pixelSha256": "cb0f84bd8c6e1359988045635315353e9ba36a02f9e7deaabe35f391e82dcf98",
+      "sourceRegionDelta": [
+        -5,
+        0
+      ],
+      "target": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        9,
+        0
+      ],
+      "path": "806403555a95fed27967553e57c04c9b07b343ba041453da10efef748f480e26.png",
+      "sha256": "806403555a95fed27967553e57c04c9b07b343ba041453da10efef748f480e26",
+      "pixelSha256": "425698f1dd0ba99777b50080b392f478749c17bcbbdec263e69861adff9aa213",
+      "sourceRegionDelta": [
+        0,
+        3
+      ],
+      "target": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        10,
+        0
+      ],
+      "path": "cf5f0b1c91d4b954332edfb16cc46d8041c45d2a359e060c7f6abed135ea4ce9.png",
+      "sha256": "cf5f0b1c91d4b954332edfb16cc46d8041c45d2a359e060c7f6abed135ea4ce9",
+      "pixelSha256": "69d4ab6255fe20f3943a56877984564a6c62e748cc5116d43f4e3d1bec972a4c",
+      "sourceRegionDelta": [
+        -5,
+        1
+      ],
+      "target": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        14,
+        0
+      ],
+      "path": "cd28f4d397edb2d590e5a8816cfd6d082c9291194f3e5a990f290415aa5876e1.png",
+      "sha256": "cd28f4d397edb2d590e5a8816cfd6d082c9291194f3e5a990f290415aa5876e1",
+      "pixelSha256": "fbd4016d921848d442271069ca32e8101dcf3163078cfede71f7c421d15cde8c",
+      "sourceRegionDelta": [
+        -4,
+        1
+      ],
+      "target": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        3,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        22,
+        0
+      ],
+      "path": "2681d44f90b1f8195c9b40e1d80699b6e658164e941cd8b1f896e23519096115.png",
+      "sha256": "2681d44f90b1f8195c9b40e1d80699b6e658164e941cd8b1f896e23519096115",
+      "pixelSha256": "bd9f1ae4473c77df85ff32e268464126536006b3460990f164a2daf319253464",
+      "sourceRegionDelta": [
+        -8,
+        0
+      ],
+      "target": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        21,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        23,
+        0
+      ],
+      "path": "383c0e3477e0a00a4b6ed2140b612aa11a5cc48c3eff47ff769c7a87009819cb.png",
+      "sha256": "383c0e3477e0a00a4b6ed2140b612aa11a5cc48c3eff47ff769c7a87009819cb",
+      "pixelSha256": "6805fae76398702ec85a8207f730add7f48c6565b1f91392adfd47750cf2fb6b",
+      "sourceRegionDelta": [
+        -7,
+        0
+      ],
+      "target": [
+        "FOOTWEAR",
+        1,
+        0,
+        0,
+        21,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "LEGGINGS",
+        0,
+        0,
+        0,
+        22,
+        0
+      ],
+      "path": "ec7f1e076c4ce0bc72c6c508c109d059532cce27a586cabd5597abfb8456b1ef.png",
+      "sha256": "ec7f1e076c4ce0bc72c6c508c109d059532cce27a586cabd5597abfb8456b1ef",
+      "pixelSha256": "a5f51d579d6c9c61b21c871cf8d57a2d75d9ff799921093a9a0b9fd5aacfe381",
+      "sourceRegionDelta": [
+        -8,
+        0
+      ],
+      "target": [
+        "LEGGINGS",
+        0,
+        0,
+        0,
+        21,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    },
+    {
+      "key": [
+        "LEGGINGS",
+        2,
+        0,
+        0,
+        22,
+        0
+      ],
+      "path": "ec7f1e076c4ce0bc72c6c508c109d059532cce27a586cabd5597abfb8456b1ef.png",
+      "sha256": "ec7f1e076c4ce0bc72c6c508c109d059532cce27a586cabd5597abfb8456b1ef",
+      "pixelSha256": "a5f51d579d6c9c61b21c871cf8d57a2d75d9ff799921093a9a0b9fd5aacfe381",
+      "sourceRegionDelta": [
+        -8,
+        0
+      ],
+      "target": [
+        "LEGGINGS",
+        2,
+        0,
+        0,
+        21,
+        0
+      ],
+      "width": 57,
+      "height": 56
+    }
+  ]
+}
