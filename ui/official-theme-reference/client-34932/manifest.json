@@ -1,0 +1,41 @@
+{
+  "source": "PokeMMO official client revision 34932 (macOS installer v62), data/themes/default/hud",
+  "captured": "2026-11-09",
+  "license": "NOASSERTION: PokeMMO official client asset; redistribution permission not verified",
+  "purpose": "Original HUD atlas and slice table for faithful in-game HUD (party slots, panels, menu rows, icons). Runtime uses 2x on density 2.",
+  "files": [
+    {
+      "path": "ui/official-theme-reference/client-34932/default/hud/1x/hud-atlas.png",
+      "bytes": 317476,
+      "sha256": "49fa38a04fe74855eb65117a14c8eefb2f913bad1d2cd7edfefb41537b676ed3",
+      "size": [
+        962,
+        553
+      ]
+    },
+    {
+      "path": "ui/official-theme-reference/client-34932/default/hud/1x/hud.xml",
+      "bytes": 77819,
+      "sha256": "e284b6bcc1b2603a1078b68b898bfdd1cf68411f63f4fa215b291c3203308d03"
+    },
+    {
+      "path": "ui/official-theme-reference/client-34932/default/hud/2x/hud-atlas.png",
+      "bytes": 709447,
+      "sha256": "01808dc720add52ca850f9e88099d187a049f8d8dba9c543e00612524bc7c99a",
+      "size": [
+        1923,
+        1110
+      ]
+    },
+    {
+      "path": "ui/official-theme-reference/client-34932/default/hud/2x/hud.xml",
+      "bytes": 78802,
+      "sha256": "e6e7067c52d2c9c14060288dd948fa24c1cf2f9b90e39e647aa888e0d628a2ff"
+    },
+    {
+      "path": "ui/official-theme-reference/client-34932/default/hud/hud-widgets.xml",
+      "bytes": 14437,
+      "sha256": "74e9fe60745f4f4e4a9336bab2fdfafdd94ff4978de3e26868069e5c7e350b95"
+    }
+  ]
+}

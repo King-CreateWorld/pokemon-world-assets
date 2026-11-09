@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "图片数量": 35,
+  "图片数量": 37,
   "说明": "来源、用途和状态逐项列明；不包含原项目账号/会话/本地路径",
   "assets": [
     {
@@ -867,6 +867,46 @@
       "许可": "NOASSERTION：未核实开放再分发许可，署名不代表授权",
       "旧路径": "images/6f8440f2ca2f3cb561fd3815b06cc3850f9cdace77d278f6c0a666a912f8f3f7.png",
       "旧固定版本": "0a50373a0b22179c9d53be2e85a251fdf7917eef"
+    },
+    {
+      "path": "ui/official-theme-reference/client-34932/default/hud/1x/hud-atlas.png",
+      "中文名称": "官方 HUD 图集（1倍）",
+      "用途": "游戏内 HUD 队伍栏、面板、菜单行与图标的原版切片来源",
+      "状态": "待接入",
+      "尺寸": [
+        962,
+        553
+      ],
+      "bytes": 317476,
+      "sha256": "49fa38a04fe74855eb65117a14c8eefb2f913bad1d2cd7edfefb41537b676ed3",
+      "图集": "ui/official-theme-reference/client-34932/default/hud/1x/hud.xml",
+      "来源": {
+        "渠道": "PokeMMO 官方客户端 revision 34932",
+        "文件名": "data/themes/default/hud/1x/hud-atlas.png"
+      },
+      "upstreamRepo": null,
+      "upstreamCommit": null,
+      "许可": "NOASSERTION：PokeMMO 官方客户端素材，未核实开放再分发许可，署名不代表授权"
+    },
+    {
+      "path": "ui/official-theme-reference/client-34932/default/hud/2x/hud-atlas.png",
+      "中文名称": "官方 HUD 图集（2倍）",
+      "用途": "游戏内 HUD 队伍栏、面板、菜单行与图标的原版切片来源",
+      "状态": "待接入",
+      "尺寸": [
+        1923,
+        1110
+      ],
+      "bytes": 709447,
+      "sha256": "01808dc720add52ca850f9e88099d187a049f8d8dba9c543e00612524bc7c99a",
+      "图集": "ui/official-theme-reference/client-34932/default/hud/2x/hud.xml",
+      "来源": {
+        "渠道": "PokeMMO 官方客户端 revision 34932",
+        "文件名": "data/themes/default/hud/2x/hud-atlas.png"
+      },
+      "upstreamRepo": null,
+      "upstreamCommit": null,
+      "许可": "NOASSERTION：PokeMMO 官方客户端素材，未核实开放再分发许可，署名不代表授权"
     }
   ]
 }
