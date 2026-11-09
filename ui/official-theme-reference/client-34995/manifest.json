@@ -1,0 +1,42 @@
+{
+  "source": "PokeMMO official client revision 34995 (Client Theme Revision 11), data/themes/default/hud; matches the user-supplied in-game screenshots of 2026-11-09",
+  "captured": "2026-11-09",
+  "supersedes": "client-34932 for implementation (34932 kept as history)",
+  "license": "NOASSERTION: PokeMMO official client asset; redistribution permission not verified",
+  "purpose": "Original HUD atlas and slice table for faithful in-game HUD. Runtime uses 2x on density 2.",
+  "files": [
+    {
+      "path": "ui/official-theme-reference/client-34995/default/hud/1x/hud-atlas.png",
+      "bytes": 331786,
+      "sha256": "8055cad335b2f7bf115267c23f01a795592a02a08ee48f07965b4aafa789a6b5",
+      "size": [
+        952,
+        622
+      ]
+    },
+    {
+      "path": "ui/official-theme-reference/client-34995/default/hud/1x/hud.xml",
+      "bytes": 79492,
+      "sha256": "981bd943a0f078f4ee9d9f08551ea25944ff14f06b92404022afe7f0d67e6ab5"
+    },
+    {
+      "path": "ui/official-theme-reference/client-34995/default/hud/2x/hud-atlas.png",
+      "bytes": 744598,
+      "sha256": "89ce6b218cbc9cb59ab9ba80e720bb9432d59f8378fd44086fc822ea19c89cd4",
+      "size": [
+        1895,
+        1250
+      ]
+    },
+    {
+      "path": "ui/official-theme-reference/client-34995/default/hud/2x/hud.xml",
+      "bytes": 80679,
+      "sha256": "48ea772b90b1d257a94bf0a8f55c0251c9692a5d5300246e6f0d2ccdc264a27e"
+    },
+    {
+      "path": "ui/official-theme-reference/client-34995/default/hud/hud-widgets.xml",
+      "bytes": 14550,
+      "sha256": "a34858ff091879c43a6f77c44970167eb2336d5f45cbe5b9c5ec435e6fb18dd5"
+    }
+  ]
+}
