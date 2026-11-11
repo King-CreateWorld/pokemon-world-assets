@@ -1,0 +1,95 @@
+{
+  "romPath": "/a/0/1/1",
+  "apicula": "3d4e91e14045392a49c89e86dab8cb936225588c",
+  "three": "0.170.0",
+  "members": [
+    {
+      "id": 1,
+      "size": 2408,
+      "magic": "424d4430",
+      "sha256": "dd9fae98075d99db02f9d7794ea2e8bebd507aed22a43c83c3e0639329b272f2"
+    },
+    {
+      "id": 6,
+      "size": 2248,
+      "magic": "424d4430",
+      "sha256": "0285cd74925d9542969a0459027d8482f46c2f31f62466d2dd7c2642f3fed6ac"
+    },
+    {
+      "id": 36,
+      "size": 51208,
+      "magic": "424d4430",
+      "sha256": "0b2df0f9bfb74a6012e09c583ab07c8fad36921b432e188ef73db28ca619c2a7"
+    },
+    {
+      "id": 39,
+      "size": 51512,
+      "magic": "424d4430",
+      "sha256": "3edc84e4b7d218ae6be80950ff5b12c89004c79120542115882be3595bc5a879"
+    },
+    {
+      "id": 40,
+      "size": 30020,
+      "magic": "42434130",
+      "sha256": "3f5b8fae01bc5013af1745d10c89947b69d359fda0c3ac2c8e3c0e6977007c54"
+    },
+    {
+      "id": 43,
+      "size": 30020,
+      "magic": "42434130",
+      "sha256": "d84710e865fd6fb60a7a9bec58c978f33bfcefb1474e856b7d880c29a91278d6"
+    },
+    {
+      "id": 54,
+      "size": 42180,
+      "magic": "424d4430",
+      "sha256": "3fd761d5dc56f13b7e9ffca2dc4daecedf5819852735a202888fbd2e5e50adb4"
+    },
+    {
+      "id": 55,
+      "size": 46228,
+      "magic": "42434130",
+      "sha256": "ca3a94c10fba93a628ea007f30edb10b243911a970df22549a613dc463a8f46d"
+    }
+  ],
+  "inputSha256": {
+    "001.bin": "dd9fae98075d99db02f9d7794ea2e8bebd507aed22a43c83c3e0639329b272f2",
+    "006.bin": "0285cd74925d9542969a0459027d8482f46c2f31f62466d2dd7c2642f3fed6ac",
+    "036.bin": "0b2df0f9bfb74a6012e09c583ab07c8fad36921b432e188ef73db28ca619c2a7",
+    "039.bin": "3edc84e4b7d218ae6be80950ff5b12c89004c79120542115882be3595bc5a879",
+    "040.bin": "3f5b8fae01bc5013af1745d10c89947b69d359fda0c3ac2c8e3c0e6977007c54",
+    "043.bin": "d84710e865fd6fb60a7a9bec58c978f33bfcefb1474e856b7d880c29a91278d6",
+    "054.bin": "3fd761d5dc56f13b7e9ffca2dc4daecedf5819852735a202888fbd2e5e50adb4",
+    "055.bin": "ca3a94c10fba93a628ea007f30edb10b243911a970df22549a613dc463a8f46d",
+    "THREE-LICENSE.txt": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454",
+    "converted/batt_bg02a.glb": "02302480b542b94db6876dd514428bf5955bc95d30a7ee9d3a0615abc95f0202",
+    "converted/batt_brush02a.png": "5ae6de4ac5ebb58d269b52b4ea764ed3e3c2a53448d5694a2a96de84b8bec5fd",
+    "converted/batt_brush02b.png": "a2886c635b5e2a4c50b4148a761168280e4c0546591f0b8cf5d70e74e342f1d6",
+    "converted/batt_brush02c.png": "f2a9cc48d94fb737caa9f8d05d3a5831ceb2d8f102b8611829781c364c63039f",
+    "converted/batt_brush02d.png": "1906d400d2c612ea3d1fb6be0f8ab487c576ab3a44e00f153e504bf8a8ac8b07",
+    "converted/batt_field02a.png": "ef63addce4948987d6a818101cefd7c9e3b27dd6e40328b2b6712301d48b2470",
+    "converted/batt_sky02a.png": "fcbbe0728925dfbe9c839a1dff67483dbb8ad4835e764ce7facbd0a85ee416ef",
+    "converted/batt_stage02a.glb": "a83bec49c5b3af00a481b56404bedc4d7edd70af835a4eb6af8991832a1a28e6",
+    "converted/batt_stage02a.png": "96ce9168603f3066c32d5796ba93027fe51eb2bb0f38d386395e453fa79b41c1",
+    "indoor/batt_bg05.glb": "8bf98b3c2b1744d01711d1c0c06db411bfeae95c0e6f240283df4794b4cb9bde",
+    "indoor/batt_brush05a.png": "bf726c07c68f8d72e0616e55c3a3f7e4f92e1062b8cd831b878f33e3b8ca57c4",
+    "indoor/batt_brush05b.png": "9db4ae3380cdd846537639fb5d52735ddb488e795527ad7e49f0ba21b886292a",
+    "indoor/batt_brush05c.png": "80b4bd870806d798d5d32b8d9af2d0975e3d145c56c8bb8348ba9ad68cfa6276",
+    "indoor/batt_field05.png": "219963c2f3b643dfd842d87452dd591ca96a3aa6713e0f9a794d780c53397dd6",
+    "indoor/batt_sky05.png": "f3a52e56411d47a11f876efafcefd862c25bd9a878dfc4cad80f8e31f6796248",
+    "indoor/batt_stage04.glb": "f45fcba9c154acb9125b0d872b91cb50300c07c773b2371beb6b94ec7484f45b",
+    "indoor/batt_stage04.png": "c3709762155b7cc3b3352aab14a222dcf45eff6fab1cd5255b87aba89ca34d56",
+    "manifest.json": "c4909e12a133e8bb3851746b52cb198ceaa8db585cf62ece762a940197628aa3",
+    "night-final/batt_bg02d.glb": "09b8afd90ceaacfc97c70fbc4e5912309bc0e564f1fd45108a70403bf416f9e4",
+    "night-final/batt_brush02m.png": "e5f7b6b567ff11e12f7462fb5bf99550a2997ddcc86721f42314ee83017c9203",
+    "night-final/batt_brush02n.png": "40300dbbb814a41243603950f40a84844c3568b9b6a33e4224a3483a7591d2f0",
+    "night-final/batt_brush02o.png": "3970805ac522a5a2ca8e0372ffd6ea6765c2fc02675845de71a42ea1e3f427ec",
+    "night-final/batt_brush02p.png": "8fd3944e354db2a96259e0bcad18c6b7882cd61491883dc0f354f899e1d5698f",
+    "night-final/batt_field02d.png": "25d9a2361d5ca4d5d41f31532adf4b69c8cf10c6666a1f03490761911572b452",
+    "night-final/batt_sky02d.png": "db8939310972c43d066af967c22ced7307856cb3d3d600724e92aa2dbf879d72",
+    "vendor/BufferGeometryUtils.js": "c25b7930e570e9ec56173cd3b866ec8d2e10016630db3937efb439daf1cedbf6",
+    "vendor/GLTFLoader.js": "8a7db5a19d1018d79fb9a7a8b8372f317682027321a67d86023002e264ea479d",
+    "vendor/three.module.js": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb"
+  },
+  "notes": "Day grass 001+036(+040 animation source); night 039(+043) stored only. Indoor: FireRed BATTLE_TERRAIN_BUILDING=8; client GT0 byte8 -> C2480Ot0.f1963Hk=(5,6,54,55,false), hence stage04/bg05. This is a generic indoor battle scene, not an Oak laboratory model."
+}
