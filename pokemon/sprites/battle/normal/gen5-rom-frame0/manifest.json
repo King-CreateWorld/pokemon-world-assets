@@ -147,6 +147,24 @@
       "sha256": "ff3359101573908fcdfec13b3bb208b12527c3f47ae7ca177e4eecbf4fabf22d"
     },
     {
+      "dex": 17,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-17-back-frame0.png",
+      "sha256": "402e3916e5c3f1a24c8afe2b34a903caccdeaafdcde196fe70ce15ca0b2c27d5"
+    },
+    {
+      "dex": 17,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-17-front-frame0.png",
+      "sha256": "77d7b3e44ff529e7f1f6d1ec0a94573768394e0bb32a1ff9bc38e3c18d20d714"
+    },
+    {
       "dex": 19,
       "side": "back",
       "frame": 0,
@@ -399,6 +417,24 @@
       "sha256": "f7502516673274046a427518ef95d5e57a240b44075127acf7e6633f590a6eed"
     },
     {
+      "dex": 63,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-63-back-frame0.png",
+      "sha256": "60677e6214c8cf8250a4954a1358b7f3c5bc9a15d5c04dc69fed993fa89b33f0"
+    },
+    {
+      "dex": 63,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-63-front-frame0.png",
+      "sha256": "22dfddded041ac703907edf294795929fb75afd1f52ec7df9c959e9891f5a9d4"
+    },
+    {
       "dex": 69,
       "side": "back",
       "frame": 0,
@@ -523,6 +559,42 @@
       "height": 128,
       "path": "combatant-109-front-frame0.png",
       "sha256": "d13245bc4be244111f9fa81dffe5794ad813e88a4d131eddfb9d4cec06c2bff1"
+    },
+    {
+      "dex": 120,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-120-back-frame0.png",
+      "sha256": "f9427916a24841a9e4e45b2d1433d4d9e7b7d5c3431e87e9943dee6b6d9cf7a8"
+    },
+    {
+      "dex": 120,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-120-front-frame0.png",
+      "sha256": "bba487f4e3f1c82a885e49c5e63c8adfd3e9f4f57878be2238e38852c800b668"
+    },
+    {
+      "dex": 121,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-121-back-frame0.png",
+      "sha256": "245a11c11125667f1784443edac56f6485d333551d1b94fd80cc3dc8f4020ee2"
+    },
+    {
+      "dex": 121,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-121-front-frame0.png",
+      "sha256": "37181616bdc81f86abf262bd8cbcbf8fccc93512fb16a1678279a42ae081a780"
     }
   ]
 }
