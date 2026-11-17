@@ -219,6 +219,24 @@
       "sha256": "69458cd3e33dd040a85fc994cd1b2edaf38e5cb7d2352ae43b0e29888bd4f955"
     },
     {
+      "dex": 27,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-27-back-frame0.png",
+      "sha256": "c07f42254b8457b76f48d5c65c66dc7850967173da376b8dfe18d7e1852ab311"
+    },
+    {
+      "dex": 27,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-27-front-frame0.png",
+      "sha256": "eb7035713051b4848d279c500783236e4f463e81bef0d48d21f6c44596888955"
+    },
+    {
       "dex": 29,
       "side": "back",
       "frame": 0,
@@ -309,6 +327,24 @@
       "sha256": "3f95c382cc12809256adae1169dc245877e0192b28b860b83e64918190a53558"
     },
     {
+      "dex": 43,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-43-back-frame0.png",
+      "sha256": "18e163accd6db7472886c7f71268af7891e0360a746549378e2df3d02f749470"
+    },
+    {
+      "dex": 43,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-43-front-frame0.png",
+      "sha256": "5c9bcc67c0642ca8ffc450074430baec57780c104c6786ac081f90eeec8ec7d2"
+    },
+    {
       "dex": 46,
       "side": "back",
       "frame": 0,
@@ -325,6 +361,24 @@
       "height": 128,
       "path": "combatant-46-front-frame0.png",
       "sha256": "0375299b29738cb320b68574ff9168c40bb2b55a9027f0e04fdf9b427b78400b"
+    },
+    {
+      "dex": 47,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-47-back-frame0.png",
+      "sha256": "c57dc17e0f7a461cb1d2e0101df9d0a9ff83d73f17436dd3e2577fcb06896b04"
+    },
+    {
+      "dex": 47,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-47-front-frame0.png",
+      "sha256": "f6818a43203061ef26dcd19e7d4dc0516d34b589a56a8ffd42e2afcd55ea871f"
     },
     {
       "dex": 56,
@@ -345,6 +399,24 @@
       "sha256": "f7502516673274046a427518ef95d5e57a240b44075127acf7e6633f590a6eed"
     },
     {
+      "dex": 69,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-69-back-frame0.png",
+      "sha256": "56116901383fccfa8876d7ec9a790bf6ef2f78107e4e18f12595d22ba00557e3"
+    },
+    {
+      "dex": 69,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-69-front-frame0.png",
+      "sha256": "83d3830f9b48ab42c9559e0d592eb0a5fa26562f0f5d7f483579190acfe8d341"
+    },
+    {
       "dex": 74,
       "side": "back",
       "frame": 0,
@@ -363,6 +435,24 @@
       "sha256": "f3813816e4e17fcc40cbd5c148362a96983c5aff5c05a29d6933fdbb69ab11f6"
     },
     {
+      "dex": 81,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-81-back-frame0.png",
+      "sha256": "107047f82714ada0c320af2760850bc6643ef428b97bb53c7dae40408956a79b"
+    },
+    {
+      "dex": 81,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-81-front-frame0.png",
+      "sha256": "651db08067857410533f9e62f9ddf589719a14bb6c6233fa27249a7ef4bd1829"
+    },
+    {
       "dex": 95,
       "side": "back",
       "frame": 0,
@@ -379,6 +469,24 @@
       "height": 128,
       "path": "combatant-95-front-frame0.png",
       "sha256": "85cdc05e43dfaf09b5a88cc43e0aca87be55c34cf55783cd482de07c8e61fc31"
+    },
+    {
+      "dex": 100,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-100-back-frame0.png",
+      "sha256": "11c5d1e7dad3fd9061385fe048ed778673f0bff7a2d17016480ca47d8ae4ce77"
+    },
+    {
+      "dex": 100,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-100-front-frame0.png",
+      "sha256": "7759a4f38e1623454203a8b283ab3c62174ff1c54e85a23b82d967e53e26c453"
     }
   ]
 }
