@@ -21,6 +21,42 @@
       "sha256": "34be964b5be635b900570d1dd90bfc0fe81dd46adb93b024c1b3dac8143352b0"
     },
     {
+      "dex": 4,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-4-back-frame0.png",
+      "sha256": "70b83ff08287826a92bdb18cf94b08ade53adc711d7d6c565fed06519dd5f963"
+    },
+    {
+      "dex": 4,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-4-front-frame0.png",
+      "sha256": "feadf74c35c28db5642056a5f193d34961982d9f9271dd13503ffe3742d47780"
+    },
+    {
+      "dex": 7,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-7-back-frame0.png",
+      "sha256": "b878e32e382ae89dff872ba3b5a6953aad408fb95d9bbc9920eee9130549901b"
+    },
+    {
+      "dex": 7,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-7-front-frame0.png",
+      "sha256": "ddfa88d415bd5bb136b200d3519a7dd3ca36db57e70fa7223ed42388cf1858a3"
+    },
+    {
       "dex": 13,
       "side": "back",
       "frame": 0,
@@ -75,40 +111,40 @@
       "sha256": "a6a841dd9e8a4400cf93cd9c561e88879160d700a561725c294bbbae64792bdc"
     },
     {
-      "dex": 4,
+      "dex": 74,
       "side": "back",
       "frame": 0,
       "width": 192,
       "height": 128,
-      "path": "combatant-4-back-frame0.png",
-      "sha256": "70b83ff08287826a92bdb18cf94b08ade53adc711d7d6c565fed06519dd5f963"
+      "path": "combatant-74-back-frame0.png",
+      "sha256": "f3018627c02a3faf29109db5f18cae9c7019b3b94c9c5eec9d9fe81f0f4b0ae3"
     },
     {
-      "dex": 4,
+      "dex": 74,
       "side": "front",
       "frame": 0,
       "width": 192,
       "height": 128,
-      "path": "combatant-4-front-frame0.png",
-      "sha256": "feadf74c35c28db5642056a5f193d34961982d9f9271dd13503ffe3742d47780"
+      "path": "combatant-74-front-frame0.png",
+      "sha256": "f3813816e4e17fcc40cbd5c148362a96983c5aff5c05a29d6933fdbb69ab11f6"
     },
     {
-      "dex": 7,
+      "dex": 95,
       "side": "back",
       "frame": 0,
       "width": 192,
       "height": 128,
-      "path": "combatant-7-back-frame0.png",
-      "sha256": "b878e32e382ae89dff872ba3b5a6953aad408fb95d9bbc9920eee9130549901b"
+      "path": "combatant-95-back-frame0.png",
+      "sha256": "a6dc9efbb5b827d217c48e7eb71d7812c2a6f13677ff13bef453bd8316f344c8"
     },
     {
-      "dex": 7,
+      "dex": 95,
       "side": "front",
       "frame": 0,
       "width": 192,
       "height": 128,
-      "path": "combatant-7-front-frame0.png",
-      "sha256": "ddfa88d415bd5bb136b200d3519a7dd3ca36db57e70fa7223ed42388cf1858a3"
+      "path": "combatant-95-front-frame0.png",
+      "sha256": "85cdc05e43dfaf09b5a88cc43e0aca87be55c34cf55783cd482de07c8e61fc31"
     }
   ]
 }
