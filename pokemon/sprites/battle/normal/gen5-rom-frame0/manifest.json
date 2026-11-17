@@ -1,0 +1,114 @@
+{
+  "source": "Pokémon Black/White (Gen V), ROM NARC /a/0/0/4; normal-color sequence 0, first nonzero-duration frame",
+  "redistribution": "Public ROM extracts; original game artwork, no new license granted.",
+  "assets": [
+    {
+      "dex": 1,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-1-back-frame0.png",
+      "sha256": "adc167308da75948a07de3b69ac32b4e8a615de4522bcceac483c035354010dd"
+    },
+    {
+      "dex": 1,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-1-front-frame0.png",
+      "sha256": "34be964b5be635b900570d1dd90bfc0fe81dd46adb93b024c1b3dac8143352b0"
+    },
+    {
+      "dex": 13,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-13-back-frame0.png",
+      "sha256": "5888dc451c4ae504b12e61d86906d4f1b3b1dbc289da7ee7e60961d2c7508566"
+    },
+    {
+      "dex": 13,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-13-front-frame0.png",
+      "sha256": "4424466cb88b9660d9616e2c83b8b72c016c3d50c7c48d6ea85147bd7f3c1dd1"
+    },
+    {
+      "dex": 16,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-16-back-frame0.png",
+      "sha256": "802c774696feb4bd2e877b84167c948c17747604a88f0f09a6659f62f14dcd88"
+    },
+    {
+      "dex": 16,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-16-front-frame0.png",
+      "sha256": "ff3359101573908fcdfec13b3bb208b12527c3f47ae7ca177e4eecbf4fabf22d"
+    },
+    {
+      "dex": 19,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-19-back-frame0.png",
+      "sha256": "d659a576dab318677665bbccd743730bde6f480be5384d684869ca1a19c31d69"
+    },
+    {
+      "dex": 19,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-19-front-frame0.png",
+      "sha256": "a6a841dd9e8a4400cf93cd9c561e88879160d700a561725c294bbbae64792bdc"
+    },
+    {
+      "dex": 4,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-4-back-frame0.png",
+      "sha256": "70b83ff08287826a92bdb18cf94b08ade53adc711d7d6c565fed06519dd5f963"
+    },
+    {
+      "dex": 4,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-4-front-frame0.png",
+      "sha256": "feadf74c35c28db5642056a5f193d34961982d9f9271dd13503ffe3742d47780"
+    },
+    {
+      "dex": 7,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-7-back-frame0.png",
+      "sha256": "b878e32e382ae89dff872ba3b5a6953aad408fb95d9bbc9920eee9130549901b"
+    },
+    {
+      "dex": 7,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-7-front-frame0.png",
+      "sha256": "ddfa88d415bd5bb136b200d3519a7dd3ca36db57e70fa7223ed42388cf1858a3"
+    }
+  ]
+}
