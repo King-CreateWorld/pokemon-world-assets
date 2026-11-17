@@ -165,6 +165,42 @@
       "sha256": "a6a841dd9e8a4400cf93cd9c561e88879160d700a561725c294bbbae64792bdc"
     },
     {
+      "dex": 21,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-21-back-frame0.png",
+      "sha256": "17ee6d9a733f19d24c5481a297a55801501edd4f6950042da1f50f61b204bc0c"
+    },
+    {
+      "dex": 21,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-21-front-frame0.png",
+      "sha256": "95b52356684d329410163d3e87f1da82ea807d00ecf33125ed3f8a3626852ed5"
+    },
+    {
+      "dex": 23,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-23-back-frame0.png",
+      "sha256": "f85a65146c2539d9a407e1ba99ff611a773888fca165a53af0cbe8c7c48851e1"
+    },
+    {
+      "dex": 23,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-23-front-frame0.png",
+      "sha256": "10cae75a97f3a5a27c6e7531c2e969902620e5d64d8343a06e68332b4217b827"
+    },
+    {
       "dex": 25,
       "side": "back",
       "frame": 0,
@@ -181,6 +217,132 @@
       "height": 128,
       "path": "combatant-25-front-frame0.png",
       "sha256": "69458cd3e33dd040a85fc994cd1b2edaf38e5cb7d2352ae43b0e29888bd4f955"
+    },
+    {
+      "dex": 29,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-29-back-frame0.png",
+      "sha256": "7912f4ce16b66de2c2f892947405def312d2cb913632fcb08ee7dc4134685c11"
+    },
+    {
+      "dex": 29,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-29-front-frame0.png",
+      "sha256": "3e218de181c4fe46f4db87cc178e27cb4d3577761659001a40823f8fb1072d79"
+    },
+    {
+      "dex": 32,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-32-back-frame0.png",
+      "sha256": "062338647b0499c26416c52615b994de432152ca041cf0afd19bab724350cdc5"
+    },
+    {
+      "dex": 32,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-32-front-frame0.png",
+      "sha256": "869e967bfc0a976df37b1969255e775eb44477f43e28291a533868a2e58440f9"
+    },
+    {
+      "dex": 35,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-35-back-frame0.png",
+      "sha256": "5eaf308b1ca9517502e9dfd5dc2ca2dc79d403e60b48612ffe15e2804d6800cc"
+    },
+    {
+      "dex": 35,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-35-front-frame0.png",
+      "sha256": "1bbb53c865c7a1ef85ad0ce2b6db570eae4804a2430ea2d32ae2a44f77aec7d3"
+    },
+    {
+      "dex": 39,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-39-back-frame0.png",
+      "sha256": "dba804a9c84a865d698dca743c7004bbedba0d844c819c449f83a04cc2c62dae"
+    },
+    {
+      "dex": 39,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-39-front-frame0.png",
+      "sha256": "24aa1f962f2acc2a7cbb2f1a67b21eeafab2c04310d1ec500ff3f787942425bf"
+    },
+    {
+      "dex": 41,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-41-back-frame0.png",
+      "sha256": "35da128722facbb33ee55627df21f13afda8f402290e926f5fc1f29cdd4a412a"
+    },
+    {
+      "dex": 41,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-41-front-frame0.png",
+      "sha256": "3f95c382cc12809256adae1169dc245877e0192b28b860b83e64918190a53558"
+    },
+    {
+      "dex": 46,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-46-back-frame0.png",
+      "sha256": "b412c4b556861e5a8cc12e9f9256e46b4c38f6612b09c86af8b658226036af19"
+    },
+    {
+      "dex": 46,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-46-front-frame0.png",
+      "sha256": "0375299b29738cb320b68574ff9168c40bb2b55a9027f0e04fdf9b427b78400b"
+    },
+    {
+      "dex": 56,
+      "side": "back",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-56-back-frame0.png",
+      "sha256": "466d96735012a8e2587c7ed79e4edd81fa329ec2c0812809749de8045d97265a"
+    },
+    {
+      "dex": 56,
+      "side": "front",
+      "frame": 0,
+      "width": 192,
+      "height": 128,
+      "path": "combatant-56-front-frame0.png",
+      "sha256": "f7502516673274046a427518ef95d5e57a240b44075127acf7e6633f590a6eed"
     },
     {
       "dex": 74,
