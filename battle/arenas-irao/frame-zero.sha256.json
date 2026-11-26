@@ -1,0 +1,47 @@
+{
+  "14": {
+    "23-batt_stage17.png": "da3b74ad1c468b0bc4f1c1798e9af07cb251ee9eeab2a2685759666a5b5eddf8",
+    "74-batt_brush17a.png": "5bb2567fe849082ef2da79f0ea46c9db5986d4019ad6504cb1e6cbf32a67604b",
+    "74-batt_brush17b.png": "49ae91a4dba0fe5406e59605f31dd69de958ee2b0d213b8bd4dde8b21b832726",
+    "74-batt_brush17c.png": "035d070d30dd4a5f11551c8a5cea14ab97dfa87979d4a667d5573a7522da3705",
+    "74-batt_brush17d.png": "0e68081b2fb896336cb18304a2c63fef63822bdbb8632d40916e23224c995cc4",
+    "74-batt_field17.png": "5b764381924aed9e8e35ac97b5c276007d8a942c9f64fe07208e927d8856ed69",
+    "74-batt_sky17.png": "2c9bc1da8fef5f3e020a12603f0ce7e3576ad0293aec52c247a8e505ffd136ef",
+    "86-batt_st_vs3.png": "5ed484ca20b599331775d7e65f178ef9e7850fc141b99c10ec7ec063d7f2ee56",
+    "mesh.json": "4fb37986951d2b7147fec35fb5748dbc1e67fc6f482783e9d194fb827eaf1b05"
+  },
+  "17": {
+    "27-batt_stage21.png": "d50e38806b61f9493c49ed175f1ea76a22896c438e7c28c9d8056c07d7998574",
+    "82-batt_brush21a.png": "9361565e68eba1043293a25e71a81ae37ec58c4fa984060d48f77612341f34d3",
+    "82-batt_brush21b.png": "ef78f06ec892949582a29db52950bb54494a6d2d3305f6321a88097eb24fcdb8",
+    "82-batt_brush21c.png": "f4c63fd82eaca634f706e79b429a05e5d9ea7be3fde246d292e10f45220721ee",
+    "82-batt_brush21d.png": "24c0e7fc8a7b32e4bf057fa63dfb78ba1cfe5feb2b783a72a908f1c976fe1a08",
+    "82-batt_brush21e.png": "057a5e67b903e53344a7e3b343fb44dbe5926219db7493e5e480717fd7bf5627",
+    "82-batt_field21.png": "ecb529064ddbeb72e6af98ef662db6e7045babb4745fb4b2438862b58cb4cdd7",
+    "82-batt_sky21.png": "38b26a8f3d403c4f447b94373962fd1a469c2276256baf5aaf9ea23428037da5",
+    "86-batt_st_vs3.png": "5ed484ca20b599331775d7e65f178ef9e7850fc141b99c10ec7ec063d7f2ee56",
+    "mesh.json": "9d2117d3bcf308ee2bebfcc685e24bacaf1c197373fed6c2ba58c1a23f607d4e"
+  },
+  "100": {
+    "23-batt_stage17.png": "da3b74ad1c468b0bc4f1c1798e9af07cb251ee9eeab2a2685759666a5b5eddf8",
+    "82-batt_brush21a.png": "9361565e68eba1043293a25e71a81ae37ec58c4fa984060d48f77612341f34d3",
+    "82-batt_brush21b.png": "ef78f06ec892949582a29db52950bb54494a6d2d3305f6321a88097eb24fcdb8",
+    "82-batt_brush21c.png": "f4c63fd82eaca634f706e79b429a05e5d9ea7be3fde246d292e10f45220721ee",
+    "82-batt_brush21d.png": "24c0e7fc8a7b32e4bf057fa63dfb78ba1cfe5feb2b783a72a908f1c976fe1a08",
+    "82-batt_brush21e.png": "057a5e67b903e53344a7e3b343fb44dbe5926219db7493e5e480717fd7bf5627",
+    "82-batt_field21.png": "ecb529064ddbeb72e6af98ef662db6e7045babb4745fb4b2438862b58cb4cdd7",
+    "82-batt_sky21.png": "38b26a8f3d403c4f447b94373962fd1a469c2276256baf5aaf9ea23428037da5",
+    "86-batt_st_vs3.png": "5ed484ca20b599331775d7e65f178ef9e7850fc141b99c10ec7ec063d7f2ee56",
+    "mesh.json": "e259457c62ba9dc586c1116a088d81ca157045dea34400414ce72d9f712ad11c"
+  },
+  "102": {
+    "31-batt_stage23d.png": "fef26a9273ec869a7f2431b12f4ee245ed148f3bb1a2beeddc198770828044e6",
+    "60-batt_brush08a.png": "1aa07bf86b5024fc7221e17e394888a5b3c7d927a112c50766bfbe98a2f7466f",
+    "60-batt_brush08b.png": "b7712259b2a0442f98d3fc0dc23ae8fa7c7b10230f64feeef42ddc92af93fa2d",
+    "60-batt_brush08c.png": "646b2bf2eab68dd08a216d8b304302c0c6140b4cc6c31b8a4133aa79793ba070",
+    "60-batt_field08.png": "2d3addfd3c989d0a1df130c177be65a44518be9c56c898c7ffbf012b54acdbfe",
+    "60-batt_sky08.png": "f5fe9c44f1069feb32b9708ae2184735def5916fd09e0540af3388823dcfd059",
+    "86-batt_st_vs3.png": "5ed484ca20b599331775d7e65f178ef9e7850fc141b99c10ec7ec063d7f2ee56",
+    "mesh.json": "d4468a6c08b44c14cfcf7e7ac6c880e0006188bcdb86e3a8347744cb3891eedb"
+  }
+}
