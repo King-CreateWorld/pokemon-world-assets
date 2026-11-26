@@ -1,0 +1,3536 @@
+{
+  "sourceCommit": "b51a206",
+  "gameCode": "IRAO",
+  "archive": "/a/0/0/4",
+  "staticCount": 352,
+  "animationCount": 176,
+  "assetBytes": 3589688,
+  "unresolved": [],
+  "index": {
+    "path": "battle-anim/index.json",
+    "bytes": 108395,
+    "sha256": "55ce07a5a5cc65a5dd7f1d589510ae0919d944a93a6ffbf1a3a396ab635773a0"
+  },
+  "species": {
+    "1": {
+      "speciesId": 1,
+      "displayNameZh": "妙蛙种子",
+      "static": {
+        "front-normal": {
+          "path": "battle/001-front-frame0.png",
+          "bytes": 1089,
+          "sha256": "c918d50b878994a61a5557a8ca666fb9f4c605c6304163db08fc1b5f130cc281"
+        },
+        "front-shiny": {
+          "path": "battle/001-front-shiny-frame0.png",
+          "bytes": 1074,
+          "sha256": "34f8b863680f9d7e9679dd4fe4c00efc502981438119bbdf2d88bcee1becb448"
+        },
+        "back-normal": {
+          "path": "battle/001-back-frame0.png",
+          "bytes": 880,
+          "sha256": "048f01a70487e08b472c6bae5d8f57dff1e2d4c993612578ec58fc888fb62d29"
+        },
+        "back-shiny": {
+          "path": "battle/001-back-shiny-frame0.png",
+          "bytes": 853,
+          "sha256": "e7e10c34fc8327ec054c1c1c724e24218141e72d53986c9dcb37d3e316fb40a1"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/1/front.png",
+          "bytes": 6217,
+          "sha256": "7aa866d9cd2f6fdfc5d853dcbd1d68cd22d1266b52019d1439f7cb01f35d22ef",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/1/back.png",
+          "bytes": 4909,
+          "sha256": "c8adcb85566e09ec580f4e51c17bdff7ef733d016c97d1938d778293e28fc53f",
+          "clientParity": false
+        }
+      }
+    },
+    "2": {
+      "speciesId": 2,
+      "displayNameZh": "妙蛙草",
+      "static": {
+        "front-normal": {
+          "path": "battle/002-front-frame0.png",
+          "bytes": 1772,
+          "sha256": "a87c7101abfc441983e196d1ab955d1e7ab2da63db5eda0712090702bda8adee"
+        },
+        "front-shiny": {
+          "path": "battle/002-front-shiny-frame0.png",
+          "bytes": 1748,
+          "sha256": "149da6b1d1e3bc6ef6d31a066c83c6a043b3c566ecdb91bb654feffe25c66bb3"
+        },
+        "back-normal": {
+          "path": "battle/002-back-frame0.png",
+          "bytes": 1576,
+          "sha256": "8d086c62340a3341bf9760a6ea7ff4e96dd70e1c5e5e3b2050ba4818fe98946d"
+        },
+        "back-shiny": {
+          "path": "battle/002-back-shiny-frame0.png",
+          "bytes": 1602,
+          "sha256": "448859080a6212214fc1a7184afcec70413ea6e460c579336a7060b4a27418b3"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/2/front.png",
+          "bytes": 10959,
+          "sha256": "f0b08a218f94b8bf02cd437e99cb8f9e245d6c53a964e2ab2711782479bbe32d",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/2/back.png",
+          "bytes": 9246,
+          "sha256": "a3a8ceee7699e3358561921bb07fbb9c34a05d52052ca70b2d52a845496b02fd",
+          "clientParity": false
+        }
+      }
+    },
+    "3": {
+      "speciesId": 3,
+      "displayNameZh": "妙蛙花",
+      "static": {
+        "front-normal": {
+          "path": "battle/003-front-frame0.png",
+          "bytes": 3030,
+          "sha256": "c38586df86ad7607673927c5e7e26894d20d800da26656effeb4bf7c4835c00c"
+        },
+        "front-shiny": {
+          "path": "battle/003-front-shiny-frame0.png",
+          "bytes": 3024,
+          "sha256": "8a3c7861f5b0e6b1b9716ced7ba986d5fc8fff8def6dd106e8208b00f91fc2d0"
+        },
+        "back-normal": {
+          "path": "battle/003-back-frame0.png",
+          "bytes": 2607,
+          "sha256": "14eec066fa99410e73aabf395bf56ac4577efb574d4bddd5f9f323df9d78a1cd"
+        },
+        "back-shiny": {
+          "path": "battle/003-back-shiny-frame0.png",
+          "bytes": 2615,
+          "sha256": "fd6d1b47c3704aebb1961d0b85554c5e3185316bfeef826d479e24f1fc0fe09d"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/3/front.png",
+          "bytes": 60346,
+          "sha256": "bc2ef36fbd7f19f46c1e0176e01ac04a2e077151e7e02e1f8103e50833961ab7",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/3/back.png",
+          "bytes": 52914,
+          "sha256": "10d93553fc837297060ce004f1e8b1f1a8bf41c2cc1020ee7f660376a0cf78ec",
+          "clientParity": false
+        }
+      }
+    },
+    "4": {
+      "speciesId": 4,
+      "displayNameZh": "小火龙",
+      "static": {
+        "front-normal": {
+          "path": "battle/004-front-frame0.png",
+          "bytes": 1157,
+          "sha256": "fb9d9489785a76883d07cbd154ac87786a09f4a954689382c99b4387ba75841b"
+        },
+        "front-shiny": {
+          "path": "battle/004-front-shiny-frame0.png",
+          "bytes": 1143,
+          "sha256": "eba452397b71ab143843509c852d0d124e0868acb90bf44112e2bfda184dcc1e"
+        },
+        "back-normal": {
+          "path": "battle/004-back-frame0.png",
+          "bytes": 977,
+          "sha256": "9f5565754eb5c32819fc0ca32d787f41e4faad54e94370fd641ad98583c790f8"
+        },
+        "back-shiny": {
+          "path": "battle/004-back-shiny-frame0.png",
+          "bytes": 952,
+          "sha256": "82367a54b02ec11226cea3f151c94a1f80bbd3edc58acda3ccc0813855c77ccf"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/4/front.png",
+          "bytes": 7654,
+          "sha256": "21e51e62161705ae145cc61746aa3085501e43ee376e570874b3dbbbcd164a88",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/4/back.png",
+          "bytes": 8032,
+          "sha256": "814895afd199f042655c3ab0168fd20ac261ee7d02f742451579fd859f084f95",
+          "clientParity": false
+        }
+      }
+    },
+    "5": {
+      "speciesId": 5,
+      "displayNameZh": "火恐龙",
+      "static": {
+        "front-normal": {
+          "path": "battle/005-front-frame0.png",
+          "bytes": 1644,
+          "sha256": "f044b84238af6d81e835630be47f7c32f21c9b4244692927eb9e60682e34ef5c"
+        },
+        "front-shiny": {
+          "path": "battle/005-front-shiny-frame0.png",
+          "bytes": 1674,
+          "sha256": "fc7ada8444e279655b5a93aff7bb47290d7f7e059cf2b6837ecbe64e66c7cd81"
+        },
+        "back-normal": {
+          "path": "battle/005-back-frame0.png",
+          "bytes": 1507,
+          "sha256": "d1b4978fc6544038824f8ccf34eabf0359f8a007be0521f41a20c36ab8e3c17e"
+        },
+        "back-shiny": {
+          "path": "battle/005-back-shiny-frame0.png",
+          "bytes": 1497,
+          "sha256": "47179b73a4b3a78a645cd12ba24d4af09f67474c16441a2c728475729ac3c35d"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/5/front.png",
+          "bytes": 17701,
+          "sha256": "897ac527c35ff285d0cb40fbc12e230e26cc3c5f792f80b542f582afefbd060e",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/5/back.png",
+          "bytes": 16852,
+          "sha256": "c8df43269483d58a130e04211d9dcc6cfd54188255d2426f75999ae2fdb76edd",
+          "clientParity": false
+        }
+      }
+    },
+    "6": {
+      "speciesId": 6,
+      "displayNameZh": "喷火龙",
+      "static": {
+        "front-normal": {
+          "path": "battle/006-front-frame0.png",
+          "bytes": 2683,
+          "sha256": "f5b8142dd26a6f139e5425898219cefacb5e73e21ba809d3a59acfc8e8d1f388"
+        },
+        "front-shiny": {
+          "path": "battle/006-front-shiny-frame0.png",
+          "bytes": 2639,
+          "sha256": "72e7835c93d40ab72a6e4c55d2d0159e8de6e15a3a9d3f7dc2dc427333912e1f"
+        },
+        "back-normal": {
+          "path": "battle/006-back-frame0.png",
+          "bytes": 2245,
+          "sha256": "32fe9e3fdac6c6e6fda3d7c3b4b805f1b1dfeaf74ccd0e5bf9fb537acbf0353a"
+        },
+        "back-shiny": {
+          "path": "battle/006-back-shiny-frame0.png",
+          "bytes": 2167,
+          "sha256": "95947af38e6bcdd9ab237f205b5f11ffdb2a912d7b251e3df0d1f1485eb25b64"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/6/front.png",
+          "bytes": 56946,
+          "sha256": "d1cf6cf57c2b6a6582c5534f29ef8b0f5d16deac09899213dc23609ac76b3369",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/6/back.png",
+          "bytes": 57920,
+          "sha256": "e77c2e5e23e4965e3e384260583b222c7c3ce33af0ce9657bfdba1792fe8bd07",
+          "clientParity": false
+        }
+      }
+    },
+    "7": {
+      "speciesId": 7,
+      "displayNameZh": "杰尼龟",
+      "static": {
+        "front-normal": {
+          "path": "battle/007-front-frame0.png",
+          "bytes": 1251,
+          "sha256": "6de7c57e2387092b095366036cbaa9151ac11bc31619ddf7944f357c020cf928"
+        },
+        "front-shiny": {
+          "path": "battle/007-front-shiny-frame0.png",
+          "bytes": 1210,
+          "sha256": "f3c4e9f7abdb55d99ea82060e9333c30c26c105fe96d4bd25fef1a52a742e45d"
+        },
+        "back-normal": {
+          "path": "battle/007-back-frame0.png",
+          "bytes": 1087,
+          "sha256": "83121c6120a37de5707c8608739e006e00afc63ff20fc710473ccea591c227dc"
+        },
+        "back-shiny": {
+          "path": "battle/007-back-shiny-frame0.png",
+          "bytes": 1051,
+          "sha256": "1182b95b9602bb1c6aa2c631c56d99e7cc5c78a19b3bdca87645e6768e90cebd"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/7/front.png",
+          "bytes": 7759,
+          "sha256": "0bb77b7e076092d0551830312f94403fcffed3908ac2bfd4b183657c004d3573",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/7/back.png",
+          "bytes": 7186,
+          "sha256": "de146dcef6ad05600090f61215f765e2370b305b8c6d680a3b164cda5446c577",
+          "clientParity": false
+        }
+      }
+    },
+    "8": {
+      "speciesId": 8,
+      "displayNameZh": "卡咪龟",
+      "static": {
+        "front-normal": {
+          "path": "battle/008-front-frame0.png",
+          "bytes": 1945,
+          "sha256": "117a1c465ed74028e1d0778c264e074815f2406f7a60e85f3383b67c2fd99ea3"
+        },
+        "front-shiny": {
+          "path": "battle/008-front-shiny-frame0.png",
+          "bytes": 1942,
+          "sha256": "c6eddf790e9806df27810be48a608a5cb395fb906e2a00ab023dcf03081c0411"
+        },
+        "back-normal": {
+          "path": "battle/008-back-frame0.png",
+          "bytes": 1758,
+          "sha256": "8e648271eefc31ea32333d0391a9998089b949e1402369bc0ec6199d74cde166"
+        },
+        "back-shiny": {
+          "path": "battle/008-back-shiny-frame0.png",
+          "bytes": 1767,
+          "sha256": "02d7f044e18eebfccf7516df168902e50cc014740a3ecf4dad2c029d2ffbebc6"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/8/front.png",
+          "bytes": 14163,
+          "sha256": "47d07c4385603beb7ba97c13b37df4c211841e3030b733e01eb493ab7b5c7a85",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/8/back.png",
+          "bytes": 12723,
+          "sha256": "4c433db6a553ebd98e71cfe6f9846f1772e816dfffd75e976b797687fa8307c3",
+          "clientParity": false
+        }
+      }
+    },
+    "9": {
+      "speciesId": 9,
+      "displayNameZh": "水箭龟",
+      "static": {
+        "front-normal": {
+          "path": "battle/009-front-frame0.png",
+          "bytes": 2539,
+          "sha256": "9048ce12052c2dc4bd270ab8f4b360b729fc6e81d008d0d7b1b5b95c4e6fa09b"
+        },
+        "front-shiny": {
+          "path": "battle/009-front-shiny-frame0.png",
+          "bytes": 2433,
+          "sha256": "e693cc17ad849ba49e1e6f6df0698727c347135b992f127a546dce022c15ab65"
+        },
+        "back-normal": {
+          "path": "battle/009-back-frame0.png",
+          "bytes": 1934,
+          "sha256": "16a87581d49959eac578fc57f1e3f9d16f09916af10f1201c5ebaf239507c514"
+        },
+        "back-shiny": {
+          "path": "battle/009-back-shiny-frame0.png",
+          "bytes": 1853,
+          "sha256": "028209df7ee92b6e58a88c3b67623a3ec90372a97faf7f2c5b94a870c70e03e7"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/9/front.png",
+          "bytes": 40958,
+          "sha256": "a5b14d9d71fb606e7316277798ec28229e0d2a6496e3dfa0cf01c9c6d3ffc202",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/9/back.png",
+          "bytes": 31091,
+          "sha256": "4ddbb6b36065130a99a2586b89a9cd68e227e5e4e0caffd0930f84d8d614d1db",
+          "clientParity": false
+        }
+      }
+    },
+    "10": {
+      "speciesId": 10,
+      "displayNameZh": "绿毛虫",
+      "static": {
+        "front-normal": {
+          "path": "battle/010-front-frame0.png",
+          "bytes": 1206,
+          "sha256": "1182dad4bf5277f0f7df8c917da96dbc19d2725ae7ad74e55cb924173697a8e4"
+        },
+        "front-shiny": {
+          "path": "battle/010-front-shiny-frame0.png",
+          "bytes": 1237,
+          "sha256": "3936de4b5f8db355396360385932a8a9599cea4636740860449f418e538800bb"
+        },
+        "back-normal": {
+          "path": "battle/010-back-frame0.png",
+          "bytes": 992,
+          "sha256": "c3be03a6e514a4745c7e5040389c3c48d75a30281b227c55f7ff2e9b5ec8d840"
+        },
+        "back-shiny": {
+          "path": "battle/010-back-shiny-frame0.png",
+          "bytes": 1011,
+          "sha256": "abbf206b7f8969ec81e5cc064b5c3a435ce9ff56e35bc23c30064c7a50e603d8"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/10/front.png",
+          "bytes": 3403,
+          "sha256": "26fe17f8b206415d3d9336abd379de1c3609bcd7b98d1e9241bd123e8c443d63",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/10/back.png",
+          "bytes": 2573,
+          "sha256": "f24fcc2d15c676a42130f88e81b4f0a71caa7a7547dd9b23748e1fd907fcba38",
+          "clientParity": false
+        }
+      }
+    },
+    "11": {
+      "speciesId": 11,
+      "displayNameZh": "铁甲蛹",
+      "static": {
+        "front-normal": {
+          "path": "battle/011-front-frame0.png",
+          "bytes": 890,
+          "sha256": "7eb7a69bd29d094d324c39ab85bd58a109b80cbd1c894dd8398bb32e1ad88487"
+        },
+        "front-shiny": {
+          "path": "battle/011-front-shiny-frame0.png",
+          "bytes": 877,
+          "sha256": "634033e11954dfcd00acf274074944e774c2cdf787d910f5d94cf710cfee1426"
+        },
+        "back-normal": {
+          "path": "battle/011-back-frame0.png",
+          "bytes": 887,
+          "sha256": "1d62f245cfada35accd4b373c59695258b1bdfa87491c2766161950a80bd59bc"
+        },
+        "back-shiny": {
+          "path": "battle/011-back-shiny-frame0.png",
+          "bytes": 877,
+          "sha256": "7e41aaf4652c37f7ca4fdec7332c62b7d472399828700ac5faffdae75c5eb1f3"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/11/front.png",
+          "bytes": 8571,
+          "sha256": "31243e2824c5a7cd04a249120fbefd873dd882729f0d304d787cca28bf3d5cda",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/11/back.png",
+          "bytes": 9060,
+          "sha256": "57b2a2c72dd4cf6982524b19c2dbfc67c495f65e404f9b90c68d64ca6422b9d6",
+          "clientParity": false
+        }
+      }
+    },
+    "12": {
+      "speciesId": 12,
+      "displayNameZh": "巴大蝶",
+      "static": {
+        "front-normal": {
+          "path": "battle/012-front-frame0.png",
+          "bytes": 1910,
+          "sha256": "737c148604ba243c84cfc360e0ee1453a140af199161feaecf872e9224982260"
+        },
+        "front-shiny": {
+          "path": "battle/012-front-shiny-frame0.png",
+          "bytes": 1900,
+          "sha256": "2ec051e26123212c1e654f57c0a30f8c744446eb8676c1146762ee8208f6694c"
+        },
+        "back-normal": {
+          "path": "battle/012-back-frame0.png",
+          "bytes": 1652,
+          "sha256": "9d9d5c3003cf9feab0a013a03465de1869937fa4f676e31fe5e1623cbd7dd00b"
+        },
+        "back-shiny": {
+          "path": "battle/012-back-shiny-frame0.png",
+          "bytes": 1657,
+          "sha256": "00c4b11b93ed7cebc483a0fe20a41b48c72737c8405abd1bd8ccd70c6ef836dc"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/12/front.png",
+          "bytes": 28377,
+          "sha256": "f9711cf0f1e0da05a33f70ad7aa5997264f5454f8c341ccc502ff996ef51be40",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/12/back.png",
+          "bytes": 14030,
+          "sha256": "7a41fe890c86be5a35c26ba151e7b9dddab6b8ced86f06cd618193efe521ce5b",
+          "clientParity": false
+        }
+      }
+    },
+    "13": {
+      "speciesId": 13,
+      "displayNameZh": "独角虫",
+      "static": {
+        "front-normal": {
+          "path": "battle/013-front-frame0.png",
+          "bytes": 984,
+          "sha256": "e92389883373e71ac2476e5d94a581f2229e8361214f4869f988c6c90236abcc"
+        },
+        "front-shiny": {
+          "path": "battle/013-front-shiny-frame0.png",
+          "bytes": 959,
+          "sha256": "cc660aeb2ae8a11ab019965a497b162d2fa71fe17c1aacf62e247a041d789e49"
+        },
+        "back-normal": {
+          "path": "battle/013-back-frame0.png",
+          "bytes": 944,
+          "sha256": "c527a57dfdc9925eaa55f83e8b8f0bba5f7403b12cab59e147ab07c5c48b2708"
+        },
+        "back-shiny": {
+          "path": "battle/013-back-shiny-frame0.png",
+          "bytes": 932,
+          "sha256": "95eff82aefc34d3cb6e354f262a7db295c4e9f99c423e34d69bb216f22aa7932"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/13/front.png",
+          "bytes": 8251,
+          "sha256": "5c2aab1304c19f5b6ccdc96ef53f784686275846b5ce47996855e417711d94df",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/13/back.png",
+          "bytes": 7593,
+          "sha256": "b48a382d40cf5573c34d8737869ef60bf5ccd5fa3610449b422e4cb769f61286",
+          "clientParity": false
+        }
+      }
+    },
+    "14": {
+      "speciesId": 14,
+      "displayNameZh": "铁壳蛹",
+      "static": {
+        "front-normal": {
+          "path": "battle/014-front-frame0.png",
+          "bytes": 989,
+          "sha256": "bc3a2ed470e33e06452ea6c1f92a0f3003d20fc488a14b70d4242bdff3dacea5"
+        },
+        "front-shiny": {
+          "path": "battle/014-front-shiny-frame0.png",
+          "bytes": 991,
+          "sha256": "653b666d683b037f86f17b3168ec6c1db22b0b5d9c3e1c334010b62dad26287b"
+        },
+        "back-normal": {
+          "path": "battle/014-back-frame0.png",
+          "bytes": 856,
+          "sha256": "39a954bec5fad5d17f54e9fdb98f1d29defea1b52944d6f82cbc4b640112f567"
+        },
+        "back-shiny": {
+          "path": "battle/014-back-shiny-frame0.png",
+          "bytes": 866,
+          "sha256": "dd9dc5bba0c36ad2cbd143d116d3088913e3ede4060608817ab02549b572c62e"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/14/front.png",
+          "bytes": 1177,
+          "sha256": "42bef37d60e262e02d82b5ff05351ba2d48523c05560670cd268f00dfb02c40e",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/14/back.png",
+          "bytes": 1278,
+          "sha256": "8486541eebdcd1f39fc763ca008f524a4b5590b29869bbe4e903f6a4afe99749",
+          "clientParity": false
+        }
+      }
+    },
+    "15": {
+      "speciesId": 15,
+      "displayNameZh": "大针蜂",
+      "static": {
+        "front-normal": {
+          "path": "battle/015-front-frame0.png",
+          "bytes": 2216,
+          "sha256": "6fc4ea7c78a6b0b9678343f93b4c2849e22a165343e432759b0f904864ff7bf4"
+        },
+        "front-shiny": {
+          "path": "battle/015-front-shiny-frame0.png",
+          "bytes": 2201,
+          "sha256": "aced6c552dfc6af92dc489ca9d00084f1ccb94eda985a85fcc8ff761e1d1fbaf"
+        },
+        "back-normal": {
+          "path": "battle/015-back-frame0.png",
+          "bytes": 1824,
+          "sha256": "c469ee8edb829e9060b7109cfa3236ecce9b897456b908badcf1446bdb2b102c"
+        },
+        "back-shiny": {
+          "path": "battle/015-back-shiny-frame0.png",
+          "bytes": 1801,
+          "sha256": "4d645038b4fb25f50a28ce8d9b25b851809f666601fdac961cedf347f2e51230"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/15/front.png",
+          "bytes": 138023,
+          "sha256": "ce93dab24ad6b0c7778e5e9307bbfa50f8cd14342306189147fef998af20bf0b",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/15/back.png",
+          "bytes": 48971,
+          "sha256": "048739aa97a84c33d330489d37a565521abd64bbb0522e674cc4721db53ba002",
+          "clientParity": false
+        }
+      }
+    },
+    "16": {
+      "speciesId": 16,
+      "displayNameZh": "波波",
+      "static": {
+        "front-normal": {
+          "path": "battle/016-front-frame0.png",
+          "bytes": 1146,
+          "sha256": "c5b5065db048c1d909a41e3dde4d0b16042e04bca86d7a31b8f0f807eed43d68"
+        },
+        "front-shiny": {
+          "path": "battle/016-front-shiny-frame0.png",
+          "bytes": 1110,
+          "sha256": "4b111cb6ca7697239886f27d4887678adcd6be3ded06e76d1e907c2172dc1479"
+        },
+        "back-normal": {
+          "path": "battle/016-back-frame0.png",
+          "bytes": 1170,
+          "sha256": "14f624661a5e7a9561147c07f3ca6c27469f8b24b1ef2b93ac1bc4e5ba3e7fe9"
+        },
+        "back-shiny": {
+          "path": "battle/016-back-shiny-frame0.png",
+          "bytes": 1138,
+          "sha256": "5e2ce4770b7cf1a6c4bbdf9e96d37cc69c0b447ceb71e255885d9078a86d1adf"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/16/front.png",
+          "bytes": 6778,
+          "sha256": "674239d9e922ae2ef10d3afa4d1b8d042c19aa969976ba85d81d6b7e3c408031",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/16/back.png",
+          "bytes": 6779,
+          "sha256": "92575d0cf85c452885d4cecddf282521563c05ec4a754f683da249ae6b7f9409",
+          "clientParity": false
+        }
+      }
+    },
+    "17": {
+      "speciesId": 17,
+      "displayNameZh": "比比鸟",
+      "static": {
+        "front-normal": {
+          "path": "battle/017-front-frame0.png",
+          "bytes": 2690,
+          "sha256": "a0388b831431b5136a07d0cfe04049b15ea26a5778969dfa6ba6e1fe2a24594c"
+        },
+        "front-shiny": {
+          "path": "battle/017-front-shiny-frame0.png",
+          "bytes": 2628,
+          "sha256": "b1be897b69caa7cb4604ec7c1b8352d0ae97db2807bf5244bd099a6562215d4a"
+        },
+        "back-normal": {
+          "path": "battle/017-back-frame0.png",
+          "bytes": 2440,
+          "sha256": "89230201b6fd5d28785d0a6ca789f7b3781b5e943d902567581ed1af1ecdfb92"
+        },
+        "back-shiny": {
+          "path": "battle/017-back-shiny-frame0.png",
+          "bytes": 2453,
+          "sha256": "b4789be7c55693376841f85e8559c5461530edbc252291d6fef2c404b0c57025"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/17/front.png",
+          "bytes": 23849,
+          "sha256": "823c4185cfc9769a3d36efb5aec8138a0dc8cf07d9d2b35160fcb6e266b37495",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/17/back.png",
+          "bytes": 23956,
+          "sha256": "ef70b999f9cb0efd24a8a7e187e414728bda457438f30484d17b0375975cc58a",
+          "clientParity": false
+        }
+      }
+    },
+    "18": {
+      "speciesId": 18,
+      "displayNameZh": "大比鸟",
+      "static": {
+        "front-normal": {
+          "path": "battle/018-front-frame0.png",
+          "bytes": 1984,
+          "sha256": "88db9f5651d563bd55fbf6147daf2f9bac31c191986a41ce3d16b838283cca50"
+        },
+        "front-shiny": {
+          "path": "battle/018-front-shiny-frame0.png",
+          "bytes": 2014,
+          "sha256": "0e204fed4fb6e17e1291cd933ed6e78f527ea746daaa7d5ca87e78aca177008c"
+        },
+        "back-normal": {
+          "path": "battle/018-back-frame0.png",
+          "bytes": 1671,
+          "sha256": "b941dc941bfdca74b1b7814a55e819dfbeacb49643409b4fb0d74869b643c31c"
+        },
+        "back-shiny": {
+          "path": "battle/018-back-shiny-frame0.png",
+          "bytes": 1686,
+          "sha256": "316574aaae831a99111168c947a09a14f443540d0b72147954ecff38c3196672"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/18/front.png",
+          "bytes": 6327,
+          "sha256": "ce00c2738d07383b562a948022a28b8d5ebd6b8c9b1a1b19de6abc01f6fa495f",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/18/back.png",
+          "bytes": 5912,
+          "sha256": "ea4a600a3f46a0c4b8ed9b364a469e394e57759647822115cded2449fa9d9699",
+          "clientParity": false
+        }
+      }
+    },
+    "19": {
+      "speciesId": 19,
+      "displayNameZh": "小拉达",
+      "static": {
+        "front-normal": {
+          "path": "battle/019-front-frame0.png",
+          "bytes": 1251,
+          "sha256": "05ae99344667dcdd03bc9e1280872ece3c12d7f8bbc586e9d4678751142af705"
+        },
+        "front-shiny": {
+          "path": "battle/019-front-shiny-frame0.png",
+          "bytes": 1219,
+          "sha256": "4ca2c61f913c93fa898fa4f14cea00bec766a25e5f59199a45bed1f1c119bb0b"
+        },
+        "back-normal": {
+          "path": "battle/019-back-frame0.png",
+          "bytes": 1145,
+          "sha256": "f8b3407cab22266b6392bbf34ca068c2af71c8c184d7c517682c2b6e80b9270f"
+        },
+        "back-shiny": {
+          "path": "battle/019-back-shiny-frame0.png",
+          "bytes": 1125,
+          "sha256": "9b92eec8ee26159d12d513d16803deba412f55746f729b0f187150054f337904"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/19/front.png",
+          "bytes": 5215,
+          "sha256": "21e2ef83f504b6b45288688ac649212aa81b6217b9b83469ad465cac812f9268",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/19/back.png",
+          "bytes": 3769,
+          "sha256": "afe7d3e92a41c6b4eda1bb5ffa88494c8637a31758083d557f837d0c384320d6",
+          "clientParity": false
+        }
+      }
+    },
+    "20": {
+      "speciesId": 20,
+      "displayNameZh": "拉达",
+      "static": {
+        "front-normal": {
+          "path": "battle/020-front-frame0.png",
+          "bytes": 1898,
+          "sha256": "f5666ec805d656525cecc5e4a903487034a163f553dbbf16d2f9d9826f1f0277"
+        },
+        "front-shiny": {
+          "path": "battle/020-front-shiny-frame0.png",
+          "bytes": 1927,
+          "sha256": "18aba5247079f28a3c2546f2227d93182ba914b21b7ac1edd5aa444fed0315a3"
+        },
+        "back-normal": {
+          "path": "battle/020-back-frame0.png",
+          "bytes": 1922,
+          "sha256": "59e2d9ef571d4ec463c47fe8468067090bd9e363e627c3572942c3f476b604eb"
+        },
+        "back-shiny": {
+          "path": "battle/020-back-shiny-frame0.png",
+          "bytes": 1925,
+          "sha256": "0bc64bcfd8c5f2ee08edac84d67533d2a13f3eab72215b3cb48531cc2592bcf6"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/20/front.png",
+          "bytes": 6481,
+          "sha256": "60227c40fe4059a9dc29a0b0a537ee4991a79ffb12ccc130975264b9e6ef3d4a",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/20/back.png",
+          "bytes": 7312,
+          "sha256": "004b126511df181799d029d6b5bdc2038aeda5ab17f0bea3b795bdf07e6feafb",
+          "clientParity": false
+        }
+      }
+    },
+    "21": {
+      "speciesId": 21,
+      "displayNameZh": "烈雀",
+      "static": {
+        "front-normal": {
+          "path": "battle/021-front-frame0.png",
+          "bytes": 1227,
+          "sha256": "e935d1c422ed5b3a1f3b93fe085d0c7b7d5140da3f2b8827c9f1d6722d671774"
+        },
+        "front-shiny": {
+          "path": "battle/021-front-shiny-frame0.png",
+          "bytes": 1214,
+          "sha256": "bdc8cbd280747c7fa934252e707af5ad1cda4d8cd7d97d17c4223d054d0910ca"
+        },
+        "back-normal": {
+          "path": "battle/021-back-frame0.png",
+          "bytes": 1195,
+          "sha256": "34e6c73ee5291adf194ef5cb2e8686b27b428d77b961fe0fa1f7c740bb43369f"
+        },
+        "back-shiny": {
+          "path": "battle/021-back-shiny-frame0.png",
+          "bytes": 1162,
+          "sha256": "52e85e29c8be3be11ba0cf462745f9921e02c5f14c58a9e586658cc590d6e0ee"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/21/front.png",
+          "bytes": 2716,
+          "sha256": "128a2201f2cc4eaf46a2e4c52a476779c4531a5fcb0a26550e840458a61933d1",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/21/back.png",
+          "bytes": 2743,
+          "sha256": "e5183fe88634f70215413797946515c1f0e06a9287b26efa46c8659e2c6371d4",
+          "clientParity": false
+        }
+      }
+    },
+    "22": {
+      "speciesId": 22,
+      "displayNameZh": "大嘴雀",
+      "static": {
+        "front-normal": {
+          "path": "battle/022-front-frame0.png",
+          "bytes": 2721,
+          "sha256": "70e45d352efb42bbbbdaba34af35551b9faa1edcfb0a794f5d83f38529b200c8"
+        },
+        "front-shiny": {
+          "path": "battle/022-front-shiny-frame0.png",
+          "bytes": 2741,
+          "sha256": "d73c2a667771ccd911a1343f1741f0266fdec0b43b9ceb426cb0a17e3fb735e7"
+        },
+        "back-normal": {
+          "path": "battle/022-back-frame0.png",
+          "bytes": 2374,
+          "sha256": "7ff4ebcd8d16dbf57b8a31c1a23394109b53c4c86bd71cec63f06567b572ba82"
+        },
+        "back-shiny": {
+          "path": "battle/022-back-shiny-frame0.png",
+          "bytes": 2398,
+          "sha256": "e36e82a1e46979471b619e63c0e6c6f2ddd1c58e54495e907962a882d181b31e"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/22/front.png",
+          "bytes": 19218,
+          "sha256": "134d5c9b92c04f9a8ce8018e16a3506e98d533e3ec887f71dbf9922cf36550b3",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/22/back.png",
+          "bytes": 16571,
+          "sha256": "3f06cecc46f575aa3fad7f1cf48b78e7f1cde3a45dffa83e43758acf9a5f4cb4",
+          "clientParity": false
+        }
+      }
+    },
+    "23": {
+      "speciesId": 23,
+      "displayNameZh": "阿柏蛇",
+      "static": {
+        "front-normal": {
+          "path": "battle/023-front-frame0.png",
+          "bytes": 1396,
+          "sha256": "313e6663438e101a4402e86b683c107ea5262310ef437927470fdeee499aeb2a"
+        },
+        "front-shiny": {
+          "path": "battle/023-front-shiny-frame0.png",
+          "bytes": 1392,
+          "sha256": "290e9256c371710e099b797a7055f360ab3457c7869b6efc30eca7634a188d76"
+        },
+        "back-normal": {
+          "path": "battle/023-back-frame0.png",
+          "bytes": 1365,
+          "sha256": "f1e8662a93b2985b8888fadda19e760b089920f2f2b1fc087b9978875da83eed"
+        },
+        "back-shiny": {
+          "path": "battle/023-back-shiny-frame0.png",
+          "bytes": 1347,
+          "sha256": "e3d3282ffdb68b08996d6a5d25c2d0ed1feeb65061b41dc8bb586de522ad78c6"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/23/front.png",
+          "bytes": 11487,
+          "sha256": "c0bf3fc0a3c9ca4db05c377671222aa601f0fe4c3e4be3d58f8395b5144ca341",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/23/back.png",
+          "bytes": 6315,
+          "sha256": "d2de84d2e24e4388b2610240980dd8de205dbb2829a6dbd6692cc89b0418eb4b",
+          "clientParity": false
+        }
+      }
+    },
+    "24": {
+      "speciesId": 24,
+      "displayNameZh": "阿柏怪",
+      "static": {
+        "front-normal": {
+          "path": "battle/024-front-frame0.png",
+          "bytes": 2007,
+          "sha256": "d04931e4ad8bc8a01226e4091152d2ce927ab9cd4a23d252d456cdc6e4399e3a"
+        },
+        "front-shiny": {
+          "path": "battle/024-front-shiny-frame0.png",
+          "bytes": 2032,
+          "sha256": "967b12999f6044c42cab66844079d989fbc281b8d7d19dfe58df0b219da2524b"
+        },
+        "back-normal": {
+          "path": "battle/024-back-frame0.png",
+          "bytes": 1502,
+          "sha256": "f2d2f6697af9f72ac5f9555ddc67a7ef738904dbd67e4467c1f32fb12dd6dec6"
+        },
+        "back-shiny": {
+          "path": "battle/024-back-shiny-frame0.png",
+          "bytes": 1503,
+          "sha256": "ec5ebb149a0072a0d0e47277ecbeb0f316526ace4eb384e2cc2499ee8a636a9e"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/24/front.png",
+          "bytes": 17964,
+          "sha256": "93133e719eaedb8ed46147c19a2d6a68ee3b9ce4736bec9303273b043dd2d831",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/24/back.png",
+          "bytes": 15230,
+          "sha256": "9822fe2e7ea3b785de26f1046dc16d28554d83f53d008c3d30a3c1244fae4c57",
+          "clientParity": false
+        }
+      }
+    },
+    "25": {
+      "speciesId": 25,
+      "displayNameZh": "皮卡丘",
+      "static": {
+        "front-normal": {
+          "path": "battle/025-front-frame0.png",
+          "bytes": 1202,
+          "sha256": "cffc0241cdc9a90f04aa5d1d462953d4add26c80f1b8a33e9393a4c55661cd11"
+        },
+        "front-shiny": {
+          "path": "battle/025-front-shiny-frame0.png",
+          "bytes": 1167,
+          "sha256": "202ea798868231cda7bbade2bbad4b9553314be69ffb8decdcb3e584d360bed2"
+        },
+        "back-normal": {
+          "path": "battle/025-back-frame0.png",
+          "bytes": 1052,
+          "sha256": "e22d2396ce14477ad06efde5a875a4edd7a857c48b67d0b3ebc590e01d2191c1"
+        },
+        "back-shiny": {
+          "path": "battle/025-back-shiny-frame0.png",
+          "bytes": 1013,
+          "sha256": "1a0b9bf3d7a31188a0ae97f4972767fc43a44f1184c3666a0ad3fd266dee6f88"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/25/front.png",
+          "bytes": 17636,
+          "sha256": "634c1b474d5aefdfb679066574307335bf1045349f4edca562134dc0cd4fe799",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/25/back.png",
+          "bytes": 17348,
+          "sha256": "241172920ab367d94c017cdc617184ef389ea2cb62f66be452816039d5d8ff94",
+          "clientParity": false
+        }
+      }
+    },
+    "26": {
+      "speciesId": 26,
+      "displayNameZh": "雷丘",
+      "static": {
+        "front-normal": {
+          "path": "battle/026-front-frame0.png",
+          "bytes": 1941,
+          "sha256": "5c15304bc2d467f6a9e9600e620e23a2c018f8d23106196a040e0955d831ad14"
+        },
+        "front-shiny": {
+          "path": "battle/026-front-shiny-frame0.png",
+          "bytes": 1909,
+          "sha256": "92a7263dab1515969eab9106b8a952de83baf10f62537b2b2bf238185f8d4597"
+        },
+        "back-normal": {
+          "path": "battle/026-back-frame0.png",
+          "bytes": 1880,
+          "sha256": "b39fd45a98c1a186f9b4558142ed5bd21ada9f770855902aed49f8cdc5314b09"
+        },
+        "back-shiny": {
+          "path": "battle/026-back-shiny-frame0.png",
+          "bytes": 1845,
+          "sha256": "53400baa8e3267d77259d3dffa19dea7673b592d142bc21d28e8ab6c66966169"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/26/front.png",
+          "bytes": 27418,
+          "sha256": "53bfb846529a575f3d079f8f7ff0f85c1628c9a4d5de9dc8de3c3e186199dbce",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/26/back.png",
+          "bytes": 28867,
+          "sha256": "3b42ea84e2862de712312adfdf7d7fcfb6b524a477d25e89f5654f0206a1471c",
+          "clientParity": false
+        }
+      }
+    },
+    "29": {
+      "speciesId": 29,
+      "displayNameZh": "尼多兰",
+      "static": {
+        "front-normal": {
+          "path": "battle/029-front-frame0.png",
+          "bytes": 1066,
+          "sha256": "df6d94c456fbeadb92bfa055055f3cc8b784563c5216d9ed88e2b8cb9eb5ec00"
+        },
+        "front-shiny": {
+          "path": "battle/029-front-shiny-frame0.png",
+          "bytes": 1061,
+          "sha256": "d4cba6978befefb986e5d2389672001c1be36b3900a69295a7a61fae18d32a6b"
+        },
+        "back-normal": {
+          "path": "battle/029-back-frame0.png",
+          "bytes": 1069,
+          "sha256": "41f4af6c13cab4628f13422aaf1d0a2e38b92bb87430ecf68f728fe4d9518f4e"
+        },
+        "back-shiny": {
+          "path": "battle/029-back-shiny-frame0.png",
+          "bytes": 1064,
+          "sha256": "a0db421cc2ba9ff9bb9b50735c34622a07a4dd53a80ba61e5de9c24cb7651014"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/29/front.png",
+          "bytes": 2423,
+          "sha256": "ae7387cb497daceb50c53115b38368c560a75928140778b7d44f15ab40ab5c2b",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/29/back.png",
+          "bytes": 2249,
+          "sha256": "640f996bda65ebeb4b1b4fcb3022fed30ead23a8296817e7c231b02d88b43a3d",
+          "clientParity": false
+        }
+      }
+    },
+    "30": {
+      "speciesId": 30,
+      "displayNameZh": "尼多娜",
+      "static": {
+        "front-normal": {
+          "path": "battle/030-front-frame0.png",
+          "bytes": 1519,
+          "sha256": "afc4b2454ebcfb99491050293ea1907eb983e27c36f4f0bcb41f8f3b0b226d54"
+        },
+        "front-shiny": {
+          "path": "battle/030-front-shiny-frame0.png",
+          "bytes": 1526,
+          "sha256": "06128e0f5437fad7dcf0382a0171777e235df7e6053b5a7f3efa5b854190a5c3"
+        },
+        "back-normal": {
+          "path": "battle/030-back-frame0.png",
+          "bytes": 1442,
+          "sha256": "904919028a73bea19bd5cc3496e12a0caf0b8fcffac80e12e4765cf771f17204"
+        },
+        "back-shiny": {
+          "path": "battle/030-back-shiny-frame0.png",
+          "bytes": 1435,
+          "sha256": "9cccdc4d3c237e73b4facc7adac70941ab030e22a3d65ff78ec30494a9b43783"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/30/front.png",
+          "bytes": 11868,
+          "sha256": "88156d72bf7e1315cb2ac4b671de886dd600f4de986fca7848f20a1e7fce6fc4",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/30/back.png",
+          "bytes": 5233,
+          "sha256": "f4509887a785d3a4c35041e8c732c07624cd77c07616eac0d5ac9bec7e281ef9",
+          "clientParity": false
+        }
+      }
+    },
+    "31": {
+      "speciesId": 31,
+      "displayNameZh": "尼多后",
+      "static": {
+        "front-normal": {
+          "path": "battle/031-front-frame0.png",
+          "bytes": 2267,
+          "sha256": "25be281cf4ab053ba8cb7c1fdac4ba98ccfdc3a6753fb023577c73acb92eb905"
+        },
+        "front-shiny": {
+          "path": "battle/031-front-shiny-frame0.png",
+          "bytes": 2264,
+          "sha256": "fa679ee13078195e79db13c0ada4926cce267f936d6152cff04f3e5ea2a27f84"
+        },
+        "back-normal": {
+          "path": "battle/031-back-frame0.png",
+          "bytes": 1861,
+          "sha256": "0f924af0e7be867de24d39cd0ea827d5bbd97732987ff6099341d18ddf0728d4"
+        },
+        "back-shiny": {
+          "path": "battle/031-back-shiny-frame0.png",
+          "bytes": 1855,
+          "sha256": "9ed6df13e659dfcb36bf3ef30c3bb1fae646eb797fc047e8d26449a37b59cc6e"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/31/front.png",
+          "bytes": 23344,
+          "sha256": "aef8e7137ebf16b2cc474b5e59e58b4b218a6d288eebe5ab2c2060662c6dcebc",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/31/back.png",
+          "bytes": 17425,
+          "sha256": "62c017a606c54f61f4a07dadd733b1472877eca2f0db8e7bae72b5e04c487a0a",
+          "clientParity": false
+        }
+      }
+    },
+    "32": {
+      "speciesId": 32,
+      "displayNameZh": "尼多朗",
+      "static": {
+        "front-normal": {
+          "path": "battle/032-front-frame0.png",
+          "bytes": 1081,
+          "sha256": "db979e5bf1d0f2394677e736cdbfdbb695d4f6c0381fdb41ef534ca95606ed0c"
+        },
+        "front-shiny": {
+          "path": "battle/032-front-shiny-frame0.png",
+          "bytes": 1069,
+          "sha256": "1906179e83c8264858a8c871ee3ceb8c83b280b1d58968f69fb27c8137fdb9d1"
+        },
+        "back-normal": {
+          "path": "battle/032-back-frame0.png",
+          "bytes": 1174,
+          "sha256": "e52ff626761069fb581aef83a2e1cff3f6d238fa2f7c3b9d2467676fbc496f7d"
+        },
+        "back-shiny": {
+          "path": "battle/032-back-shiny-frame0.png",
+          "bytes": 1153,
+          "sha256": "ed73d0af0da6d16a7a538057124ceef68af764bd29363cc8f48279b7556f1e7b"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/32/front.png",
+          "bytes": 5554,
+          "sha256": "36a0412a2aa758c99dd2985d7188bbd133c9d07cb5629d023912e26360bf7e14",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/32/back.png",
+          "bytes": 5362,
+          "sha256": "a08c5db6a7557b798c485ceaf7cf8470130186509d114c236712daf88709750f",
+          "clientParity": false
+        }
+      }
+    },
+    "33": {
+      "speciesId": 33,
+      "displayNameZh": "尼多力诺",
+      "static": {
+        "front-normal": {
+          "path": "battle/033-front-frame0.png",
+          "bytes": 1533,
+          "sha256": "c36d85381c3d1020d070c4ede0d28067ca361bdc1b61774d124b1e1487c0d04c"
+        },
+        "front-shiny": {
+          "path": "battle/033-front-shiny-frame0.png",
+          "bytes": 1524,
+          "sha256": "aca4bc97544398ef8bbdfdcb53daa4b05e3c00b5c35bd8cb356a2f046ac67e82"
+        },
+        "back-normal": {
+          "path": "battle/033-back-frame0.png",
+          "bytes": 1580,
+          "sha256": "436f2d2c60740824969bbda3efad5300ce257bf4e7a0c4c725db937d09970144"
+        },
+        "back-shiny": {
+          "path": "battle/033-back-shiny-frame0.png",
+          "bytes": 1591,
+          "sha256": "326cb494111854eb6b48e83fa40d2326e94849f805add10a28e76ec81362254c"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/33/front.png",
+          "bytes": 6643,
+          "sha256": "b6a11a9ff5d3b471aadf261b791d811dc1da8c2c953fd6426e4d40bc978cadda",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/33/back.png",
+          "bytes": 7320,
+          "sha256": "c7c22ee755a46bac91d0e50e9060ba0c34cb3144d8970f4cedd1c00c393e9188",
+          "clientParity": false
+        }
+      }
+    },
+    "34": {
+      "speciesId": 34,
+      "displayNameZh": "尼多王",
+      "static": {
+        "front-normal": {
+          "path": "battle/034-front-frame0.png",
+          "bytes": 2679,
+          "sha256": "879fae916a32717e97557cdabb3ca27bcb7094241842ee9432a475094318efb2"
+        },
+        "front-shiny": {
+          "path": "battle/034-front-shiny-frame0.png",
+          "bytes": 2664,
+          "sha256": "8583ed185f828dc6e0b8b4440301713dc52db114d618880ab37a4e52cfff4a34"
+        },
+        "back-normal": {
+          "path": "battle/034-back-frame0.png",
+          "bytes": 2174,
+          "sha256": "681e618da94296c5c7d5a5c967623693e1901364e946bfcf51f9df2e37270591"
+        },
+        "back-shiny": {
+          "path": "battle/034-back-shiny-frame0.png",
+          "bytes": 2154,
+          "sha256": "36bb6788f34f14d362d001b041e9bff51c4cf90a15dfbad1f5cf3b2be40b9b5e"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/34/front.png",
+          "bytes": 26211,
+          "sha256": "6b14ef034ffb437042ec4a4f0d1db9cee636f535ea56e607eba8fbf93363dc28",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/34/back.png",
+          "bytes": 18072,
+          "sha256": "2b7e58135f2fcc7ac01e7e64875fdb4bfc5389eb189aac3c9625e713a2a77b67",
+          "clientParity": false
+        }
+      }
+    },
+    "35": {
+      "speciesId": 35,
+      "displayNameZh": "皮皮",
+      "static": {
+        "front-normal": {
+          "path": "battle/035-front-frame0.png",
+          "bytes": 1164,
+          "sha256": "ce98b77d6a4d7a386b7124e7e8f5b401fcd22f5b6cd689e8fa8523b5ac636833"
+        },
+        "front-shiny": {
+          "path": "battle/035-front-shiny-frame0.png",
+          "bytes": 1165,
+          "sha256": "977b607e5809ac66e9d5c66deedc325cc9dbf33ab549d63a68a40ce0186ec6ce"
+        },
+        "back-normal": {
+          "path": "battle/035-back-frame0.png",
+          "bytes": 1086,
+          "sha256": "6d70bf6023f1c5e6fd5de30b203fd94e9b2169e67d4d54f627eb631e4ee746fb"
+        },
+        "back-shiny": {
+          "path": "battle/035-back-shiny-frame0.png",
+          "bytes": 1066,
+          "sha256": "1ed3d81ad1ddea4a00aeb8a28b1d3a2823cecea0b8680f1dd12a1788fd4dc784"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/35/front.png",
+          "bytes": 18241,
+          "sha256": "7819c20a391039c1aaf7c356ac50185675a59c79d58f1ee63dbfb1029af90822",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/35/back.png",
+          "bytes": 20608,
+          "sha256": "332ddd0cf51dac86cc893819f22cb20748ef4a51d22eb8029499db737baa97cc",
+          "clientParity": false
+        }
+      }
+    },
+    "36": {
+      "speciesId": 36,
+      "displayNameZh": "皮可西",
+      "static": {
+        "front-normal": {
+          "path": "battle/036-front-frame0.png",
+          "bytes": 1404,
+          "sha256": "838f9d4f9c24e51e7f823780f035ed428c68b4a3a1d402c10b0a03de479b29e2"
+        },
+        "front-shiny": {
+          "path": "battle/036-front-shiny-frame0.png",
+          "bytes": 1362,
+          "sha256": "a5932877a3719c20d670447aadd0ff4431773eaed536c1f26276165fffe29c7a"
+        },
+        "back-normal": {
+          "path": "battle/036-back-frame0.png",
+          "bytes": 1352,
+          "sha256": "4e17d54bdb9b4153c7959fae5e63e6e8a48f05afb0d16aa59e40b23592528b7c"
+        },
+        "back-shiny": {
+          "path": "battle/036-back-shiny-frame0.png",
+          "bytes": 1285,
+          "sha256": "0a53d0e2d25a95b8b236f46c7b8912f998edc579309019bfaf11c2f7dd07565c"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/36/front.png",
+          "bytes": 9572,
+          "sha256": "3fbdc25fd1cb0ffe5c06f37fdefe744a69eeb4cc89080baa746dc6003cd733af",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/36/back.png",
+          "bytes": 8955,
+          "sha256": "05eb73c44681dba31e572ffd8c760554f6fae0551ed324dd31a8845415c55099",
+          "clientParity": false
+        }
+      }
+    },
+    "39": {
+      "speciesId": 39,
+      "displayNameZh": "胖丁",
+      "static": {
+        "front-normal": {
+          "path": "battle/039-front-frame0.png",
+          "bytes": 1016,
+          "sha256": "4484167ee357c687dfe1b58cba445129156f53d6fd4321deb465e1573cc6223a"
+        },
+        "front-shiny": {
+          "path": "battle/039-front-shiny-frame0.png",
+          "bytes": 1029,
+          "sha256": "d0a88ec0dda14c1827026864a48cd136bfca92cfdd22c083177857728ead5a97"
+        },
+        "back-normal": {
+          "path": "battle/039-back-frame0.png",
+          "bytes": 666,
+          "sha256": "3a98f0c50fee0dcdd0fd7dcd99af1b1e86b851ae04b02bacac48f2609cc268ad"
+        },
+        "back-shiny": {
+          "path": "battle/039-back-shiny-frame0.png",
+          "bytes": 682,
+          "sha256": "ad3e41789a6c5cea9233c15da7b5be9cfaf077d6f3fb885b56e12b5121658dd1"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/39/front.png",
+          "bytes": 12112,
+          "sha256": "d6dfb26aef4a8b36311a150d59797ee7820dd2926072e8cba6a20afbad38c639",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/39/back.png",
+          "bytes": 8798,
+          "sha256": "adf2b6c055a2d05f9beeb449720772be0893a9dd8b75efcfde0ca17c91b581db",
+          "clientParity": false
+        }
+      }
+    },
+    "40": {
+      "speciesId": 40,
+      "displayNameZh": "胖可丁",
+      "static": {
+        "front-normal": {
+          "path": "battle/040-front-frame0.png",
+          "bytes": 1413,
+          "sha256": "25f53efb67cc73417e115c3d9270387b6d612a963350b50a91ad144019c5330f"
+        },
+        "front-shiny": {
+          "path": "battle/040-front-shiny-frame0.png",
+          "bytes": 1403,
+          "sha256": "5a1ba181e971d1e15e8c6e31ec9c52c516931941bbcc647f6991a6745a2049f7"
+        },
+        "back-normal": {
+          "path": "battle/040-back-frame0.png",
+          "bytes": 962,
+          "sha256": "b32c00571f9676e012c68e7f35a360bc29257634bff8aae2765fc1be6ee7041f"
+        },
+        "back-shiny": {
+          "path": "battle/040-back-shiny-frame0.png",
+          "bytes": 978,
+          "sha256": "1230f2c96267d2fa94dd3c56c8dc94227d13a812811b56efa603b8b0934a3fd7"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/40/front.png",
+          "bytes": 14539,
+          "sha256": "3db98f7e9772bc044a6252634261a104d404a87b2db5711f9e734206e02dc31d",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/40/back.png",
+          "bytes": 10910,
+          "sha256": "5d17626eb3a98aa37753da7023ef5595b651aa9914b1cef2f59dc4160c58a71d",
+          "clientParity": false
+        }
+      }
+    },
+    "41": {
+      "speciesId": 41,
+      "displayNameZh": "超音蝠",
+      "static": {
+        "front-normal": {
+          "path": "battle/041-front-frame0.png",
+          "bytes": 1184,
+          "sha256": "06781cebaa90732c7dad7065673f0560fcc7b12d1d7eacf25845e8d0fdccc510"
+        },
+        "front-shiny": {
+          "path": "battle/041-front-shiny-frame0.png",
+          "bytes": 1210,
+          "sha256": "74bd1e372b9c03b37b5f72b0610af733d3d0f199741957998a00db3935c68577"
+        },
+        "back-normal": {
+          "path": "battle/041-back-frame0.png",
+          "bytes": 1115,
+          "sha256": "2c786d8eeeb0f143598b8fc16e6fb2a7947865a41e97ad3b8472c7fc434b4277"
+        },
+        "back-shiny": {
+          "path": "battle/041-back-shiny-frame0.png",
+          "bytes": 1161,
+          "sha256": "0d8087c716a8725313f7301753a4f7520e3b248a2e73bb4d364b57482a32851f"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/41/front.png",
+          "bytes": 13562,
+          "sha256": "37e1e636d268637099f96bee52890d6b332735949a9da974411895ba7521dc6b",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/41/back.png",
+          "bytes": 4190,
+          "sha256": "0ca5c222d7ed7c75528a93c6495437c9dcb7039c6ffb983b0764e1438749335d",
+          "clientParity": false
+        }
+      }
+    },
+    "42": {
+      "speciesId": 42,
+      "displayNameZh": "大嘴蝠",
+      "static": {
+        "front-normal": {
+          "path": "battle/042-front-frame0.png",
+          "bytes": 1954,
+          "sha256": "85a3588db50aaffb8e9b93f471d9752ae19b3cfdb96fef415cd69bc8a351d6bc"
+        },
+        "front-shiny": {
+          "path": "battle/042-front-shiny-frame0.png",
+          "bytes": 1946,
+          "sha256": "0ffaecad092ff62cc34d5d9cb2866623a8be9b9fca6f596359ef6b7c711a88dd"
+        },
+        "back-normal": {
+          "path": "battle/042-back-frame0.png",
+          "bytes": 1677,
+          "sha256": "87ea10c715f373d6e7a6ca3ae7b9543691ed6fcb10526bfc1b175da05e747fe1"
+        },
+        "back-shiny": {
+          "path": "battle/042-back-shiny-frame0.png",
+          "bytes": 1655,
+          "sha256": "c4c4294f25c2ef98c8d7ad4926bba349f1ac34450c87b789cec3c0792c65108f"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/42/front.png",
+          "bytes": 15396,
+          "sha256": "0f0c73bbe76bce932807ebbc350e644a7f0bd0f1b313eb9e1f273d73a21b1367",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/42/back.png",
+          "bytes": 11550,
+          "sha256": "b3e0939367053250f6f36019cf97cba872dfdcd8b6f677f74c505e56fdcc0b0b",
+          "clientParity": false
+        }
+      }
+    },
+    "43": {
+      "speciesId": 43,
+      "displayNameZh": "走路草",
+      "static": {
+        "front-normal": {
+          "path": "battle/043-front-frame0.png",
+          "bytes": 955,
+          "sha256": "b1788febe295086f21600a58fae613dad737675312473289fdbd7b3558d2c18b"
+        },
+        "front-shiny": {
+          "path": "battle/043-front-shiny-frame0.png",
+          "bytes": 948,
+          "sha256": "3e9992bf219c9ec77e795e419c833cc8dab02a3a2f0b6091b134f48eb9a5f77b"
+        },
+        "back-normal": {
+          "path": "battle/043-back-frame0.png",
+          "bytes": 943,
+          "sha256": "40caf3c4e774d6c131c6937f137d27650bbf7fa88b3e123d06fe9fac1ac4e447"
+        },
+        "back-shiny": {
+          "path": "battle/043-back-shiny-frame0.png",
+          "bytes": 967,
+          "sha256": "404658f61e348e6c4c597bf8b8460948b045a3b7e99d4466c4b97a4f908f35e3"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/43/front.png",
+          "bytes": 7414,
+          "sha256": "39e99ae05b3dcbf734097550659db05bb737fe719b2e231dfe223478d45afd58",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/43/back.png",
+          "bytes": 7349,
+          "sha256": "bd117bc939ec91674d9bcf4c3ccce609af8421571ee119d2941bcb266d447d20",
+          "clientParity": false
+        }
+      }
+    },
+    "44": {
+      "speciesId": 44,
+      "displayNameZh": "臭臭花",
+      "static": {
+        "front-normal": {
+          "path": "battle/044-front-frame0.png",
+          "bytes": 1648,
+          "sha256": "f519db979bb9181eb2e0f270a12926d196dc255a7d653ce27abde2fa5eb58a7e"
+        },
+        "front-shiny": {
+          "path": "battle/044-front-shiny-frame0.png",
+          "bytes": 1646,
+          "sha256": "d4d1dd61baf47841054a91d18087aee3f8ec56a239f058300f745978670b66cc"
+        },
+        "back-normal": {
+          "path": "battle/044-back-frame0.png",
+          "bytes": 1504,
+          "sha256": "a5235853ca4f61aad4da6c0d10b2ec745fc086f527a44a507fd8678ec08ff1ed"
+        },
+        "back-shiny": {
+          "path": "battle/044-back-shiny-frame0.png",
+          "bytes": 1486,
+          "sha256": "fa044fa583509d4a14d8766176b1b8fcc92008c43fb4efeb818a01c0f3595cf1"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/44/front.png",
+          "bytes": 25462,
+          "sha256": "4c32f8a20032113599d13e7cc4c256d1931927e5447af4c1cb8bb9c6dbdb5a08",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/44/back.png",
+          "bytes": 9197,
+          "sha256": "119aa009dbd17b8a8e4b7793bafa4d21fca0a90ac6c77f7ae1c7122bbcfb309c",
+          "clientParity": false
+        }
+      }
+    },
+    "45": {
+      "speciesId": 45,
+      "displayNameZh": "霸王花",
+      "static": {
+        "front-normal": {
+          "path": "battle/045-front-frame0.png",
+          "bytes": 1624,
+          "sha256": "1b1c774f2f4e40af29b4f3b82c4e8fe3251a32207a86d9428ca619e4e0de6b9c"
+        },
+        "front-shiny": {
+          "path": "battle/045-front-shiny-frame0.png",
+          "bytes": 1639,
+          "sha256": "457a1078823bf9b71395f28422c798fde05d9281e8376589b09772ffeb54fdaa"
+        },
+        "back-normal": {
+          "path": "battle/045-back-frame0.png",
+          "bytes": 1624,
+          "sha256": "7a004d993a8acc8c62e9642fdca86744e3411efa60740d63b0c9fbb51665ff15"
+        },
+        "back-shiny": {
+          "path": "battle/045-back-shiny-frame0.png",
+          "bytes": 1665,
+          "sha256": "315403c1e142910e526d7bce6b5b0f9d73dbdd7bbe0e8224c239469aee46e69f"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/45/front.png",
+          "bytes": 3423,
+          "sha256": "30d35bf53a588c7b70217872034cf31d42960f64a7e4dad10f8d28c1fc28172c",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/45/back.png",
+          "bytes": 3223,
+          "sha256": "7595230d92642f8eedf0ffe0fae0dda5dc6aa2e6cf31f20557e836f7a1869e0e",
+          "clientParity": false
+        }
+      }
+    },
+    "46": {
+      "speciesId": 46,
+      "displayNameZh": "派拉斯",
+      "static": {
+        "front-normal": {
+          "path": "battle/046-front-frame0.png",
+          "bytes": 1307,
+          "sha256": "643798e13705a73b8ca1dacfccb2e51e5bf972f7fb9bdd8ad1f61db229019b92"
+        },
+        "front-shiny": {
+          "path": "battle/046-front-shiny-frame0.png",
+          "bytes": 1324,
+          "sha256": "a5ccbc022c2f30ac4caefd8d5a3cf5668aff7942151c3f2148936e02bba010be"
+        },
+        "back-normal": {
+          "path": "battle/046-back-frame0.png",
+          "bytes": 1152,
+          "sha256": "85945a5c828eb7ea7831188f007aad910fa394b4b71c36f786be26db53d584d0"
+        },
+        "back-shiny": {
+          "path": "battle/046-back-shiny-frame0.png",
+          "bytes": 1147,
+          "sha256": "4ce46e6aae189ea4f8ec92d5fe7c01d3ecc7e6f78ca62d198482fefbd8e8febd"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/46/front.png",
+          "bytes": 6689,
+          "sha256": "20042311365f0b97e3ffe868c72ca4f9f0622783b552ca1ee66752628d2ee7a5",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/46/back.png",
+          "bytes": 5897,
+          "sha256": "94d2320b459835bd432f9b2ace620ea1a3590d79c3372fc86078cce31e14902f",
+          "clientParity": false
+        }
+      }
+    },
+    "47": {
+      "speciesId": 47,
+      "displayNameZh": "派拉斯特",
+      "static": {
+        "front-normal": {
+          "path": "battle/047-front-frame0.png",
+          "bytes": 1578,
+          "sha256": "543237f6cf91708bc3d0dcd7af0f859ff2be94a37c7c6e384a9aaa39d4039cd4"
+        },
+        "front-shiny": {
+          "path": "battle/047-front-shiny-frame0.png",
+          "bytes": 1585,
+          "sha256": "e09817468c6a245464ca23211da10d9552c6e113c10ede046374ac06019336a2"
+        },
+        "back-normal": {
+          "path": "battle/047-back-frame0.png",
+          "bytes": 1349,
+          "sha256": "e925efbc760eab812fe256fa94b158fe3ed9bcc679ba5a48240aefd9935fa9ed"
+        },
+        "back-shiny": {
+          "path": "battle/047-back-shiny-frame0.png",
+          "bytes": 1340,
+          "sha256": "f63c93c47ee8563787d8ad148ed1f78741f63282d2c21a6253a8f441341e2e4f"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/47/front.png",
+          "bytes": 11436,
+          "sha256": "95c5fb732eb520fac04790eec0953574f80a9c18b56523ea48ef8008817f594c",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/47/back.png",
+          "bytes": 8851,
+          "sha256": "1112e6c53138dade9f933899937f7a2c18418052e0032a95d3f98ec75837644e",
+          "clientParity": false
+        }
+      }
+    },
+    "54": {
+      "speciesId": 54,
+      "displayNameZh": "可达鸭",
+      "static": {
+        "front-normal": {
+          "path": "battle/054-front-frame0.png",
+          "bytes": 1036,
+          "sha256": "e4700b25acf7085b2743ef41e7cc167ac59e0af65fc3b7d46a13324214fdb498"
+        },
+        "front-shiny": {
+          "path": "battle/054-front-shiny-frame0.png",
+          "bytes": 1042,
+          "sha256": "0be234603e2e31c2237087e4d344e00d6c10350afbd8ee43761ec712994139c7"
+        },
+        "back-normal": {
+          "path": "battle/054-back-frame0.png",
+          "bytes": 882,
+          "sha256": "61496e6913a2bb84550663d2905b6910554933cc1ec71de666d1c7b421fcda24"
+        },
+        "back-shiny": {
+          "path": "battle/054-back-shiny-frame0.png",
+          "bytes": 892,
+          "sha256": "42cde00db06adf6b58a948ac15b1ffb3449d5a03a57318affb6af6820446dd46"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/54/front.png",
+          "bytes": 4304,
+          "sha256": "db46ba2850b36278f871754f6abd1d046f53e1fd70df16c8647f9f73950fa59d",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/54/back.png",
+          "bytes": 4125,
+          "sha256": "eae917b9eb493cb7049246cee44f1b7c8718d56adf66e0955f77898293fb9b83",
+          "clientParity": false
+        }
+      }
+    },
+    "55": {
+      "speciesId": 55,
+      "displayNameZh": "哥达鸭",
+      "static": {
+        "front-normal": {
+          "path": "battle/055-front-frame0.png",
+          "bytes": 1731,
+          "sha256": "6ed3797c93dfd12dd8a2b18348e53b0d3bc9982f3fc120a199b2cc914141589f"
+        },
+        "front-shiny": {
+          "path": "battle/055-front-shiny-frame0.png",
+          "bytes": 1740,
+          "sha256": "34029980e042a04e810176c5f5ce0963f10a42d2ce5e37b0d68eeef4d013b69b"
+        },
+        "back-normal": {
+          "path": "battle/055-back-frame0.png",
+          "bytes": 1438,
+          "sha256": "60c06b65ee6164d37cd365ef4f1a05e619efcdaa2eafc4b9ad1510b221328391"
+        },
+        "back-shiny": {
+          "path": "battle/055-back-shiny-frame0.png",
+          "bytes": 1440,
+          "sha256": "80744b521049bc6c4823de1c4fe55191b780bd21d6c2b53783b09da82f10cf75"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/55/front.png",
+          "bytes": 9790,
+          "sha256": "a23294de631485b68f96ec13526e3870936aa26d6489de88c14a31510517475f",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/55/back.png",
+          "bytes": 10924,
+          "sha256": "613d29efa33fdfe7ff668376e37c33a86ab5c9717189918b7b3d85cb4a9b8a93",
+          "clientParity": false
+        }
+      }
+    },
+    "56": {
+      "speciesId": 56,
+      "displayNameZh": "猴怪",
+      "static": {
+        "front-normal": {
+          "path": "battle/056-front-frame0.png",
+          "bytes": 1608,
+          "sha256": "4f21692f5767d0685682cb7c3fbcc38448f5aa912e99501e0339ecd7759305b6"
+        },
+        "front-shiny": {
+          "path": "battle/056-front-shiny-frame0.png",
+          "bytes": 1610,
+          "sha256": "dcf084f43820a4f57afe861d1e87885734608a53c93fbea754b2d3c06d9b8d5f"
+        },
+        "back-normal": {
+          "path": "battle/056-back-frame0.png",
+          "bytes": 1392,
+          "sha256": "8b459412e54f4ec0107765c31bfb5363e901b7bdf09daa8eae384c060e3c3c90"
+        },
+        "back-shiny": {
+          "path": "battle/056-back-shiny-frame0.png",
+          "bytes": 1409,
+          "sha256": "787c8a374983949135d9ca3e4d090320915a403cd13fc714a8994f3bc29115d6"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/56/front.png",
+          "bytes": 13303,
+          "sha256": "fbdbfc0321d86029db23334783f71bb4a9d908b675c158d23d816dfdc647d01e",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/56/back.png",
+          "bytes": 11980,
+          "sha256": "d9d092260c989b7a5cf75e5c67182f24044cb69c8597afabcdae1783a2f1de6f",
+          "clientParity": false
+        }
+      }
+    },
+    "57": {
+      "speciesId": 57,
+      "displayNameZh": "火暴猴",
+      "static": {
+        "front-normal": {
+          "path": "battle/057-front-frame0.png",
+          "bytes": 1928,
+          "sha256": "1e935f8ebb3a61ad6dc8f0f56f7a45f35d886386d3c8a189eeed24b62dc5a4f5"
+        },
+        "front-shiny": {
+          "path": "battle/057-front-shiny-frame0.png",
+          "bytes": 1929,
+          "sha256": "f7918ff35eef1e6b26e36e9397dfd0692c1264e14fa32ab1a5ccd9915588a0a6"
+        },
+        "back-normal": {
+          "path": "battle/057-back-frame0.png",
+          "bytes": 1656,
+          "sha256": "94de8cdc74f10e33da5d436f0c1cf0d201b2c0554a4a3b22708dbed40ba395aa"
+        },
+        "back-shiny": {
+          "path": "battle/057-back-shiny-frame0.png",
+          "bytes": 1644,
+          "sha256": "4d805b1f0fbc3173b96f1a010348e74196c321394494859297b57e31008389a3"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/57/front.png",
+          "bytes": 16370,
+          "sha256": "cf677bb63c648b1ce03ad7c0b83245f5bd3f07bdb3f4ef05a139202eaf1a5bc7",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/57/back.png",
+          "bytes": 13419,
+          "sha256": "3a3bc565cc08ed9c61092b518a397064c72ff19d6f1b3647d7587fab2ebbd5a4",
+          "clientParity": false
+        }
+      }
+    },
+    "60": {
+      "speciesId": 60,
+      "displayNameZh": "蚊香蝌蚪",
+      "static": {
+        "front-normal": {
+          "path": "battle/060-front-frame0.png",
+          "bytes": 1185,
+          "sha256": "24262052fd0d8de2c55cefc14bf4b991f19d84a80eb037ac4c3a33238bc63af1"
+        },
+        "front-shiny": {
+          "path": "battle/060-front-shiny-frame0.png",
+          "bytes": 1180,
+          "sha256": "1fccd1244ba619e2f4224328329fb171392747fdfae833d69e8b3325bcd9db4c"
+        },
+        "back-normal": {
+          "path": "battle/060-back-frame0.png",
+          "bytes": 922,
+          "sha256": "22667b346d0d1cb72e45d9a4a7d72401bf4d087f24f3a82367ad783c4142da16"
+        },
+        "back-shiny": {
+          "path": "battle/060-back-shiny-frame0.png",
+          "bytes": 931,
+          "sha256": "78ba7d8fb32d1af1157ba9402b5aa4d03d6abfbc2c4aa06c9adf3f8be3bec560"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/60/front.png",
+          "bytes": 8756,
+          "sha256": "d80a219d4ff10007449740a9cf0930459ab60eea2c5bd6a886f17008392fd8a3",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/60/back.png",
+          "bytes": 6999,
+          "sha256": "88548df0f716e8d7da7b725881691bc891d327e3ca592903a6e2e51b4ade498c",
+          "clientParity": false
+        }
+      }
+    },
+    "61": {
+      "speciesId": 61,
+      "displayNameZh": "蚊香君",
+      "static": {
+        "front-normal": {
+          "path": "battle/061-front-frame0.png",
+          "bytes": 1623,
+          "sha256": "bbf67bcb8c8d613d720a7e7c5094cd1c17f2b37b5989f00ac07e63813809dbbe"
+        },
+        "front-shiny": {
+          "path": "battle/061-front-shiny-frame0.png",
+          "bytes": 1636,
+          "sha256": "941408e0d0c8bc2559acf67a6eb6f6aaf4e3bd5e5c04f52fdc9beb39c36ef223"
+        },
+        "back-normal": {
+          "path": "battle/061-back-frame0.png",
+          "bytes": 1165,
+          "sha256": "44fcd897e86020362dd9a8d78826fd2d5aa418fede8d2508f67f82c8b1a30296"
+        },
+        "back-shiny": {
+          "path": "battle/061-back-shiny-frame0.png",
+          "bytes": 1164,
+          "sha256": "520b07f5dc4b20aa31978b04b1a2c2d82f8527f999dbb79bf374fd1983be59af"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/61/front.png",
+          "bytes": 13204,
+          "sha256": "d86d6a7cab898c5f20415cb88856396219126b34a39362cb7867e19193a362c7",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/61/back.png",
+          "bytes": 10760,
+          "sha256": "406e0c9c57c5f8ac840968f3e53d05621e4039c9f1bbdadf7d8e5973db9aad36",
+          "clientParity": false
+        }
+      }
+    },
+    "62": {
+      "speciesId": 62,
+      "displayNameZh": "蚊香泳士",
+      "static": {
+        "front-normal": {
+          "path": "battle/062-front-frame0.png",
+          "bytes": 1841,
+          "sha256": "a9d787c99ab20a6af7b64e1c7239d70e60c4b55dda06f0cb90e8f7c74ac82ffa"
+        },
+        "front-shiny": {
+          "path": "battle/062-front-shiny-frame0.png",
+          "bytes": 1821,
+          "sha256": "1d38277af02c6fecbe82886a3e0b62164672237a1a37bc313325f57ffc385692"
+        },
+        "back-normal": {
+          "path": "battle/062-back-frame0.png",
+          "bytes": 1169,
+          "sha256": "60ff5417f2bd1c3c519186359b7e9789eac82029e2f7a0c3204aedcacaa906a2"
+        },
+        "back-shiny": {
+          "path": "battle/062-back-shiny-frame0.png",
+          "bytes": 1173,
+          "sha256": "01fbd5344aaa06a251f35753c94f21ff3aedda01da7b56a7e82fceb43880ba90"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/62/front.png",
+          "bytes": 6118,
+          "sha256": "f2c3b9d60a1bbf56443d5b753d461923cef745971fd663e5f9140cba94684fb6",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/62/back.png",
+          "bytes": 4263,
+          "sha256": "1f3e64ffcfd2ee4f02287ea82a4ec8fb348a8abc6182601425718c807a291901",
+          "clientParity": false
+        }
+      }
+    },
+    "63": {
+      "speciesId": 63,
+      "displayNameZh": "凯西",
+      "static": {
+        "front-normal": {
+          "path": "battle/063-front-frame0.png",
+          "bytes": 1519,
+          "sha256": "6fb4f715c442352cc4d284deaae821b8e663910e2bab6d74c49fa81a63d9f88b"
+        },
+        "front-shiny": {
+          "path": "battle/063-front-shiny-frame0.png",
+          "bytes": 1520,
+          "sha256": "bef59bb2b6341b2f5e3be7e290c32ce35d285f463469335c9643ad087e8c2b51"
+        },
+        "back-normal": {
+          "path": "battle/063-back-frame0.png",
+          "bytes": 1290,
+          "sha256": "905d0b52f95e76bd292c46a426640109db242e034c48f364c0e64c1dd9302d61"
+        },
+        "back-shiny": {
+          "path": "battle/063-back-shiny-frame0.png",
+          "bytes": 1272,
+          "sha256": "aa90d823fc718d1096cb6a7b6141878139ae201fbe98a1979369d0bc885277d0"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/63/front.png",
+          "bytes": 39431,
+          "sha256": "fb4a8c4cfea4601362f9609d1edbc027ea46aff661b3413d8900a27ac4b7134e",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/63/back.png",
+          "bytes": 37753,
+          "sha256": "3fd02cb6ab648933f659269e3263aad9e6a7964f29defc88a66b1057226c7f42",
+          "clientParity": false
+        }
+      }
+    },
+    "64": {
+      "speciesId": 64,
+      "displayNameZh": "勇基拉",
+      "static": {
+        "front-normal": {
+          "path": "battle/064-front-frame0.png",
+          "bytes": 2416,
+          "sha256": "b3eb0aaa8b531beb7f2014b0885199dc7e78096429044c30fbbcbd6be8d0676e"
+        },
+        "front-shiny": {
+          "path": "battle/064-front-shiny-frame0.png",
+          "bytes": 2427,
+          "sha256": "47bb71a3aac06c950e8b4e2dc71d6bf63287c0d3bb13a99d42b657141e981c33"
+        },
+        "back-normal": {
+          "path": "battle/064-back-frame0.png",
+          "bytes": 1957,
+          "sha256": "1d6274448f084e58aa119906d9110ca250a6b059415d3f59ab8db7e171d596b8"
+        },
+        "back-shiny": {
+          "path": "battle/064-back-shiny-frame0.png",
+          "bytes": 1960,
+          "sha256": "9d110498df7bd61d600cbb0958feaeb6679649f5de0e9f27623761dfe928c801"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/64/front.png",
+          "bytes": 19841,
+          "sha256": "ad2f91b6ee9d6b70f6785030811902e0354ec5715338e60592d725a8e9d43a0f",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/64/back.png",
+          "bytes": 17127,
+          "sha256": "6968996c75bcba360f24fe4a4a8057818a45e42cb1a4239cf532c22adb6f5eb5",
+          "clientParity": false
+        }
+      }
+    },
+    "65": {
+      "speciesId": 65,
+      "displayNameZh": "胡地",
+      "static": {
+        "front-normal": {
+          "path": "battle/065-front-frame0.png",
+          "bytes": 2304,
+          "sha256": "17549040481fc0c9a0158ee78486d12b02a58b3005a3c0c108d83016a231092c"
+        },
+        "front-shiny": {
+          "path": "battle/065-front-shiny-frame0.png",
+          "bytes": 2307,
+          "sha256": "a0065c355de012ef57e6e9e509c45db7cecba8de7cd7912cbd329785087d1004"
+        },
+        "back-normal": {
+          "path": "battle/065-back-frame0.png",
+          "bytes": 2357,
+          "sha256": "76da03a732a62eeabb071729cae145ae0c32491598ed78f9af1717d0eb9288f3"
+        },
+        "back-shiny": {
+          "path": "battle/065-back-shiny-frame0.png",
+          "bytes": 2337,
+          "sha256": "1e7447dad5df4184b05e67b99a801e2dfa9ae02762b51fcc3ddb236935a8f8fe"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/65/front.png",
+          "bytes": 23646,
+          "sha256": "7ec7c917f9a365260e6d49c2f9ff2921f262fc584c10d5797f0fb33763a04dab",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/65/back.png",
+          "bytes": 22379,
+          "sha256": "bfcf4e63836c6a0f3baf29a16128c9428ba28c0da3bf0b162d31a73e2f879043",
+          "clientParity": false
+        }
+      }
+    },
+    "66": {
+      "speciesId": 66,
+      "displayNameZh": "腕力",
+      "static": {
+        "front-normal": {
+          "path": "battle/066-front-frame0.png",
+          "bytes": 1365,
+          "sha256": "96dfa531966e1b24c8c2e147e879abdbbb452f25893bd19eda6c276bcdda251c"
+        },
+        "front-shiny": {
+          "path": "battle/066-front-shiny-frame0.png",
+          "bytes": 1358,
+          "sha256": "5d2bea0d5dfbbb6c812387b9a37454bf8c03caef6bc9a29e53fa90ee721219fe"
+        },
+        "back-normal": {
+          "path": "battle/066-back-frame0.png",
+          "bytes": 1335,
+          "sha256": "4ba62ae1a83f0502aab3aef4bae85215563290d80e977a0bebaaa5bfa6c5618c"
+        },
+        "back-shiny": {
+          "path": "battle/066-back-shiny-frame0.png",
+          "bytes": 1291,
+          "sha256": "77447aa643a89a248ea3be8dc781eedf9ffc6421b301b948c53469d3eaedd74b"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/66/front.png",
+          "bytes": 9659,
+          "sha256": "12fc76ae64530bb74aab3f4ae0f59765a916cc5273921c4cd9a2e0a8f8486a46",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/66/back.png",
+          "bytes": 10875,
+          "sha256": "c4f82d5ead3fd3f1a4d6316cfc795f5a98a0f63dd497d0071c34d92d37928d76",
+          "clientParity": false
+        }
+      }
+    },
+    "67": {
+      "speciesId": 67,
+      "displayNameZh": "豪力",
+      "static": {
+        "front-normal": {
+          "path": "battle/067-front-frame0.png",
+          "bytes": 2215,
+          "sha256": "a1b658593a33c6ca51a22b849cafc40d6248dbac4a14c37caccd3b9dc631233e"
+        },
+        "front-shiny": {
+          "path": "battle/067-front-shiny-frame0.png",
+          "bytes": 2213,
+          "sha256": "68d9e0116ac144105319f702d4596b37df3a8add322f25cb1b107273c21dcf9a"
+        },
+        "back-normal": {
+          "path": "battle/067-back-frame0.png",
+          "bytes": 2027,
+          "sha256": "b1451248cc58cad003230fd89a7502d48b32228383535a98e3104c70ecfa2987"
+        },
+        "back-shiny": {
+          "path": "battle/067-back-shiny-frame0.png",
+          "bytes": 2019,
+          "sha256": "f3d1adc72b388341b15f7744115e828f28e9ff4631415591716799c8df7018dd"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/67/front.png",
+          "bytes": 11898,
+          "sha256": "c92f3249333afb8a9c6f1cfabf594fa83c8f59fb3f4ba3b2c9ba155e05c7cd0f",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/67/back.png",
+          "bytes": 8832,
+          "sha256": "a67577e1373bd9f9046a5caf6e64bf246207db93b68054ab9cbc18ef8d33f0c7",
+          "clientParity": false
+        }
+      }
+    },
+    "68": {
+      "speciesId": 68,
+      "displayNameZh": "怪力",
+      "static": {
+        "front-normal": {
+          "path": "battle/068-front-frame0.png",
+          "bytes": 2548,
+          "sha256": "b3b32f2185ce860c42051aa83446761686d67f2b39bf1b9b13478ce279e27be6"
+        },
+        "front-shiny": {
+          "path": "battle/068-front-shiny-frame0.png",
+          "bytes": 2523,
+          "sha256": "fdd8ae62fe506394a3d0ff20be3298b643778680dc77dd9ff2f51aa70401b2f9"
+        },
+        "back-normal": {
+          "path": "battle/068-back-frame0.png",
+          "bytes": 2000,
+          "sha256": "be63ddae59b8c869d0a4792784afb16abc81b2b834de2a473ebad32c70c6de57"
+        },
+        "back-shiny": {
+          "path": "battle/068-back-shiny-frame0.png",
+          "bytes": 1939,
+          "sha256": "b66b29d5272c7bfce8aec1900ed23b15635396746cbd24d8ed9924876fb03445"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/68/front.png",
+          "bytes": 23345,
+          "sha256": "d20207ccb07285efcf57050d3e63cb4d75bb4c7d519027253289ba613f0bcf0d",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/68/back.png",
+          "bytes": 15605,
+          "sha256": "a7310f152a2ab4161c6de6125c074e1ca46ffc4220cc876c21788bdb762405cb",
+          "clientParity": false
+        }
+      }
+    },
+    "72": {
+      "speciesId": 72,
+      "displayNameZh": "玛瑙水母",
+      "static": {
+        "front-normal": {
+          "path": "battle/072-front-frame0.png",
+          "bytes": 1384,
+          "sha256": "918165e47d8813ba88c87b8fdb7fa72c908820fb3950b9af6a38e734dd8577d5"
+        },
+        "front-shiny": {
+          "path": "battle/072-front-shiny-frame0.png",
+          "bytes": 1379,
+          "sha256": "89fe6bc5bcaac6c28c6917a5cff618206741009100bff803fa37a4ca24c6c1a1"
+        },
+        "back-normal": {
+          "path": "battle/072-back-frame0.png",
+          "bytes": 1205,
+          "sha256": "f5d2d93bfe88e42ce2048ac02e5a8f0f1c3f931c1ecf3873a3a5674c53a3afa4"
+        },
+        "back-shiny": {
+          "path": "battle/072-back-shiny-frame0.png",
+          "bytes": 1202,
+          "sha256": "a63fba44b4664d28764c8732ded301b7b195085309d5900c6a9618ec23631978"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/72/front.png",
+          "bytes": 16863,
+          "sha256": "4de353d0c2907fff0bc028f707f433eef55db97a3faed997e43c364ecb12f3a2",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/72/back.png",
+          "bytes": 16008,
+          "sha256": "651b2b949f6702ab323147fd2b3d928c42bda266719faf7733a1c6c73f8a7f1d",
+          "clientParity": false
+        }
+      }
+    },
+    "73": {
+      "speciesId": 73,
+      "displayNameZh": "毒刺水母",
+      "static": {
+        "front-normal": {
+          "path": "battle/073-front-frame0.png",
+          "bytes": 2013,
+          "sha256": "c5cbfefcc56336558fb5609ddf690773ba40efc0469b6a851c6027a8b47ea96c"
+        },
+        "front-shiny": {
+          "path": "battle/073-front-shiny-frame0.png",
+          "bytes": 2037,
+          "sha256": "93c37e4ab023ef25b929c4f5dd7dd911060fb7155bd0569d4b066456927971ed"
+        },
+        "back-normal": {
+          "path": "battle/073-back-frame0.png",
+          "bytes": 2047,
+          "sha256": "0a10a7f0ba941ed62c6ef3027f26962dfdba5be7823e966358f4d2a51c06cb5a"
+        },
+        "back-shiny": {
+          "path": "battle/073-back-shiny-frame0.png",
+          "bytes": 2115,
+          "sha256": "5daf3056e14babf6d243f7746d2598a8b469feedf8dd7e1e20559c5bc369b459"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/73/front.png",
+          "bytes": 88281,
+          "sha256": "cc7727455e250c3c75f55a63d4b444accec1bbca48a27784c0623b5042396816",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/73/back.png",
+          "bytes": 97788,
+          "sha256": "6c31ac62f50a16271fdaf4ce83340c32897e39186ef92c690d0c8d71947cc930",
+          "clientParity": false
+        }
+      }
+    },
+    "74": {
+      "speciesId": 74,
+      "displayNameZh": "小拳石",
+      "static": {
+        "front-normal": {
+          "path": "battle/074-front-frame0.png",
+          "bytes": 1173,
+          "sha256": "a2ac28811e059893077a9e48f89aac5ade4b6edcbc00919a4cc1cc38e16920ee"
+        },
+        "front-shiny": {
+          "path": "battle/074-front-shiny-frame0.png",
+          "bytes": 1151,
+          "sha256": "9a97ce5d2e5366ab07e3931f208bb743d30aacb58a5ac8fc233885e4d982ba1a"
+        },
+        "back-normal": {
+          "path": "battle/074-back-frame0.png",
+          "bytes": 1088,
+          "sha256": "2922ca9a3a037fa73fb0bf184a71920b1ac2f7c2bb50769d8375e48fea26a2ae"
+        },
+        "back-shiny": {
+          "path": "battle/074-back-shiny-frame0.png",
+          "bytes": 1105,
+          "sha256": "dab05cea2634d916754db2b3af5b6552ac705309fcc811f868cb416d56ac9359"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/74/front.png",
+          "bytes": 13438,
+          "sha256": "14606d9f0865ec73831aee41583fcc6cd33ad624fa91b57d4a6ae5b4ff2c03b0",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/74/back.png",
+          "bytes": 8965,
+          "sha256": "b22ef2f48e8146f5f083dd59e8148e0ee196134ad7e884db7df2e1e05798740e",
+          "clientParity": false
+        }
+      }
+    },
+    "75": {
+      "speciesId": 75,
+      "displayNameZh": "隆隆石",
+      "static": {
+        "front-normal": {
+          "path": "battle/075-front-frame0.png",
+          "bytes": 1860,
+          "sha256": "092dcafd914354d55546cfd90664d73494adbd4686354a2cb5344b50631748db"
+        },
+        "front-shiny": {
+          "path": "battle/075-front-shiny-frame0.png",
+          "bytes": 1835,
+          "sha256": "7498efa25527d621e4dc2ecace27a7ed710a37a5b51002807ce63ea8e54c366b"
+        },
+        "back-normal": {
+          "path": "battle/075-back-frame0.png",
+          "bytes": 1472,
+          "sha256": "46b651b18edafa99708f4bfa44e5d256af7f716a373951228e008fde93b8e897"
+        },
+        "back-shiny": {
+          "path": "battle/075-back-shiny-frame0.png",
+          "bytes": 1426,
+          "sha256": "7c89fecd6313aa7c4a82eb8ff61587cd5f80c247881c53e90167df69affa9b01"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/75/front.png",
+          "bytes": 6141,
+          "sha256": "d6ac2503f46b8d7cd4e42adead2029cf169e6ffda47e74744981e2c52332d536",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/75/back.png",
+          "bytes": 3920,
+          "sha256": "c78312739813d3b15ba01ca82700139613ea20d860fe09a62037a201a58325ad",
+          "clientParity": false
+        }
+      }
+    },
+    "76": {
+      "speciesId": 76,
+      "displayNameZh": "隆隆岩",
+      "static": {
+        "front-normal": {
+          "path": "battle/076-front-frame0.png",
+          "bytes": 2169,
+          "sha256": "57242f8a4b3ca335a0e91ee8f0e703545f73159df85f5b2ed24a5a68ef868b14"
+        },
+        "front-shiny": {
+          "path": "battle/076-front-shiny-frame0.png",
+          "bytes": 2209,
+          "sha256": "a461225e2e44f43fa54158d8965189723140228287641211657531c028e84f81"
+        },
+        "back-normal": {
+          "path": "battle/076-back-frame0.png",
+          "bytes": 1928,
+          "sha256": "cdec4bebce1331a2e8605e160d8a4c1c4929e82ad86e7d8d1e84c758fc9861eb"
+        },
+        "back-shiny": {
+          "path": "battle/076-back-shiny-frame0.png",
+          "bytes": 1982,
+          "sha256": "52a1e523699ed9c537a89e1830bd3b40df82ada64bf650e6458732ac590ff37d"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/76/front.png",
+          "bytes": 16994,
+          "sha256": "8936158ad1b4b53237544cae4fc9e0e8ac56278a20117e35bcf15cd66b39c452",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/76/back.png",
+          "bytes": 12914,
+          "sha256": "c8a740301e5354ed867d0d457f09c2e6371821832a1e3340799e5d6ae8baa037",
+          "clientParity": false
+        }
+      }
+    },
+    "88": {
+      "speciesId": 88,
+      "displayNameZh": "臭泥",
+      "static": {
+        "front-normal": {
+          "path": "battle/088-front-frame0.png",
+          "bytes": 1448,
+          "sha256": "d1636c3b80fb28b61d5e197c87ebdf1cc4d279c5c375d3b21fc0fe03600a3607"
+        },
+        "front-shiny": {
+          "path": "battle/088-front-shiny-frame0.png",
+          "bytes": 1418,
+          "sha256": "f2f29b7dda7e13f0b5e2e2ff270509b2fc015bc4ed0211bf8850d4d6dd020889"
+        },
+        "back-normal": {
+          "path": "battle/088-back-frame0.png",
+          "bytes": 1297,
+          "sha256": "3c24fb3c720df2481a3fe822a190490382699cc3b95e3e0039d8c37396f9b3e5"
+        },
+        "back-shiny": {
+          "path": "battle/088-back-shiny-frame0.png",
+          "bytes": 1286,
+          "sha256": "0975e8be12d11ad8e16cb8d2c757788669dc3c18ab801e2925ed5e9836579b75"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/88/front.png",
+          "bytes": 18179,
+          "sha256": "4ef725eaf611fa89ef4e6856ad0bd8a68cf87769bc799938fa6d54f30d9470ec",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/88/back.png",
+          "bytes": 12010,
+          "sha256": "b19e42580644f94423611a1b57ee27f3e6ee5a1ab976dd2602eabd155e0ac97a",
+          "clientParity": false
+        }
+      }
+    },
+    "89": {
+      "speciesId": 89,
+      "displayNameZh": "臭臭泥",
+      "static": {
+        "front-normal": {
+          "path": "battle/089-front-frame0.png",
+          "bytes": 1845,
+          "sha256": "62b21956e7141ec8350b2090ad1cc8f00bb53a4f9fad6e9d8d607f2956483f6c"
+        },
+        "front-shiny": {
+          "path": "battle/089-front-shiny-frame0.png",
+          "bytes": 1821,
+          "sha256": "4de71072c1e6fe37f2f32ac111339155a361b966df22985dddc826a901d665e9"
+        },
+        "back-normal": {
+          "path": "battle/089-back-frame0.png",
+          "bytes": 1825,
+          "sha256": "977791858127ef80cefba1b5cb3c6befb95816172039a7bdf06ef6f838e932d8"
+        },
+        "back-shiny": {
+          "path": "battle/089-back-shiny-frame0.png",
+          "bytes": 1739,
+          "sha256": "70a40f5e241262f317a66fb3cd079ac5d64d557fb3149eeecab899c629ed2ded"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/89/front.png",
+          "bytes": 31940,
+          "sha256": "0d7727b3886815fa36b03ca5a2006575abea5f11c34dd4c27098f11f3c02c5f7",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/89/back.png",
+          "bytes": 32393,
+          "sha256": "4049fd41ac8590ed628a2daa5661828f2b36217b097a33dfcc1a8462df735f17",
+          "clientParity": false
+        }
+      }
+    },
+    "90": {
+      "speciesId": 90,
+      "displayNameZh": "大舌贝",
+      "static": {
+        "front-normal": {
+          "path": "battle/090-front-frame0.png",
+          "bytes": 1128,
+          "sha256": "eec431fa8b95c6420c24f75575d817e27b8d5404438ee8b6c56226db752d2474"
+        },
+        "front-shiny": {
+          "path": "battle/090-front-shiny-frame0.png",
+          "bytes": 1074,
+          "sha256": "6826c5f6bdc45186ac7ec9f67d5041c3b3cfaa1d3403250dd59376852e13d280"
+        },
+        "back-normal": {
+          "path": "battle/090-back-frame0.png",
+          "bytes": 839,
+          "sha256": "609fbaaa68650a84b35ad6fc44a539cee85e432a7103a719065e8102f1e35124"
+        },
+        "back-shiny": {
+          "path": "battle/090-back-shiny-frame0.png",
+          "bytes": 789,
+          "sha256": "ea2a944bef8db8c0d07c444142aabb60944600ad480d78183686f14d5dbe467b"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/90/front.png",
+          "bytes": 7607,
+          "sha256": "c312f661d68d1a56c16b0dea84b75bee020e457f95e25d939699f723098a4e5d",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/90/back.png",
+          "bytes": 4552,
+          "sha256": "061b982454a906fe6e3fdee9ce673b462cf5dee1f05a36a37520424e01febb7d",
+          "clientParity": false
+        }
+      }
+    },
+    "91": {
+      "speciesId": 91,
+      "displayNameZh": "刺甲贝",
+      "static": {
+        "front-normal": {
+          "path": "battle/091-front-frame0.png",
+          "bytes": 2283,
+          "sha256": "d504a784364dc9f4ab15d6b7a29e772593399108643b41320799d63a627555a4"
+        },
+        "front-shiny": {
+          "path": "battle/091-front-shiny-frame0.png",
+          "bytes": 2332,
+          "sha256": "c1b350809c993118aaadb7c5776d1cd188e504a6a95c01ba56527fd2f06fc056"
+        },
+        "back-normal": {
+          "path": "battle/091-back-frame0.png",
+          "bytes": 1682,
+          "sha256": "04b8afbbc514df7f11bd890b5fd331347a9b3ca8e8836edd3e0c82c454c2bf1b"
+        },
+        "back-shiny": {
+          "path": "battle/091-back-shiny-frame0.png",
+          "bytes": 1693,
+          "sha256": "ee768dfad4ff067e667fa4549ea7c757c123ac67b91ec1abc4fe58bc2720d6e6"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/91/front.png",
+          "bytes": 14899,
+          "sha256": "e5770b8281fc3db99d8ef45e7b1231518d716ec85cadd86235925481ca1001cf",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/91/back.png",
+          "bytes": 10520,
+          "sha256": "78ad7132a2cd0e26d492a03809fd64b9561c115c49adfab812161ab37b92e1ac",
+          "clientParity": false
+        }
+      }
+    },
+    "95": {
+      "speciesId": 95,
+      "displayNameZh": "大岩蛇",
+      "static": {
+        "front-normal": {
+          "path": "battle/095-front-frame0.png",
+          "bytes": 2308,
+          "sha256": "75163b6cb339814af0b96c324f6ed0aa944cd9e2f55b8d5f43b60aeaf23107b3"
+        },
+        "front-shiny": {
+          "path": "battle/095-front-shiny-frame0.png",
+          "bytes": 2333,
+          "sha256": "a995dfaf692ce2ad313d59cceafe204a3f2711ffa8354fadaa059e3b6dc1a142"
+        },
+        "back-normal": {
+          "path": "battle/095-back-frame0.png",
+          "bytes": 2407,
+          "sha256": "d32a7f75b86984cfa69498a8b40917c5e43595e0526e975000d65363bbc4bda6"
+        },
+        "back-shiny": {
+          "path": "battle/095-back-shiny-frame0.png",
+          "bytes": 2490,
+          "sha256": "0b83f45dbc13c0f60abeecadbf358a7dc4346da143c9e1f3cd90909356cecb3c"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/95/front.png",
+          "bytes": 22841,
+          "sha256": "d40f9d693a36d06b4fbab3956360309b2e363f54c4f260928d4f41fbbbd6ba4f",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/95/back.png",
+          "bytes": 22603,
+          "sha256": "df8e2a08498a2d80fb52bc480ad27c11d784d0eb974aaba9297c47f6b59ab015",
+          "clientParity": false
+        }
+      }
+    },
+    "96": {
+      "speciesId": 96,
+      "displayNameZh": "催眠貘",
+      "static": {
+        "front-normal": {
+          "path": "battle/096-front-frame0.png",
+          "bytes": 1473,
+          "sha256": "70b29fd7a663d664d90b6436d0b912bbca33d9d97e89291c95034a2ec1bd8524"
+        },
+        "front-shiny": {
+          "path": "battle/096-front-shiny-frame0.png",
+          "bytes": 1477,
+          "sha256": "3fc23e32e1804e2ad7d47eb94d64ea5abfe9d0ce57deab4a23d2cf1a0283e97b"
+        },
+        "back-normal": {
+          "path": "battle/096-back-frame0.png",
+          "bytes": 1111,
+          "sha256": "2d79a72a99a465529b4c0bd4124a88aede8d1e3fc8eed65906c155dc55c63e18"
+        },
+        "back-shiny": {
+          "path": "battle/096-back-shiny-frame0.png",
+          "bytes": 1122,
+          "sha256": "d98b238079c7e54b988f9d606186c9e1ae7ff68beba50f8b4c9458e1f32f2ef7"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/96/front.png",
+          "bytes": 12362,
+          "sha256": "a7041fd5108ccddd6bdc15f7f59ea0dbb264e45c8319a47413e7d945fb08cace",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/96/back.png",
+          "bytes": 9958,
+          "sha256": "c15a8dce3859ef9e5235ae4e468383b0c0d0666977dc80bdaaf5710f3d6cf576",
+          "clientParity": false
+        }
+      }
+    },
+    "97": {
+      "speciesId": 97,
+      "displayNameZh": "引梦貘人",
+      "static": {
+        "front-normal": {
+          "path": "battle/097-front-frame0.png",
+          "bytes": 2197,
+          "sha256": "f41e00c130534fcac240d367f4a35d30bcad0811c91be13e2a0d1273ab0e34dd"
+        },
+        "front-shiny": {
+          "path": "battle/097-front-shiny-frame0.png",
+          "bytes": 2134,
+          "sha256": "9069198bddefa4904c47c290d64202188300c6d99cce649e277dc74b85fcc06a"
+        },
+        "back-normal": {
+          "path": "battle/097-back-frame0.png",
+          "bytes": 1761,
+          "sha256": "27aef210dc133bda63d9bc9e6e01d87b40f70af92573df7691fbabaa36f457eb"
+        },
+        "back-shiny": {
+          "path": "battle/097-back-shiny-frame0.png",
+          "bytes": 1708,
+          "sha256": "113fb7c6ea869a4b3249f57143725acd621c681e6ee19c351861f5ffb70ef261"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/97/front.png",
+          "bytes": 19436,
+          "sha256": "6d27e4500f23923d4e02ce3718d8742a779967bf236b6d72ff18430fea2276da",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/97/back.png",
+          "bytes": 14888,
+          "sha256": "081692dbdb803e1fc4bc296e7acad02eb2710a6ed1b8e7f4d85fb69741c4a2e9",
+          "clientParity": false
+        }
+      }
+    },
+    "98": {
+      "speciesId": 98,
+      "displayNameZh": "大钳蟹",
+      "static": {
+        "front-normal": {
+          "path": "battle/098-front-frame0.png",
+          "bytes": 1405,
+          "sha256": "f6bfb0e43d076725c9478a05087b5bf9300123948b87b7a3937103cd84fc2315"
+        },
+        "front-shiny": {
+          "path": "battle/098-front-shiny-frame0.png",
+          "bytes": 1405,
+          "sha256": "bd8811e786f2cb010b0b7e4a496ff5695175ce516bf9149b5a7aeff4fe70425c"
+        },
+        "back-normal": {
+          "path": "battle/098-back-frame0.png",
+          "bytes": 1450,
+          "sha256": "e1dc07e258e88f4371d8199dc7f0bc483200abc90862f102cf685b86905ddd3b"
+        },
+        "back-shiny": {
+          "path": "battle/098-back-shiny-frame0.png",
+          "bytes": 1455,
+          "sha256": "0635d50a55de2d406e380ac5d9894d61d5c479658593bde0ad8d8c0292e8de7c"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/98/front.png",
+          "bytes": 4887,
+          "sha256": "172121d704698d2c48a16a3d8f0d658846e4be1a6a17acd63e741b772a9f801c",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/98/back.png",
+          "bytes": 4391,
+          "sha256": "2fa27da92d33b28e800f9f30366627dc1f0babe057ca0d1584769b55736f986c",
+          "clientParity": false
+        }
+      }
+    },
+    "99": {
+      "speciesId": 99,
+      "displayNameZh": "巨钳蟹",
+      "static": {
+        "front-normal": {
+          "path": "battle/099-front-frame0.png",
+          "bytes": 2293,
+          "sha256": "cac25112f0d2743fcd16f27951f7fbcb414192cc915ff0b5fe54d6d42030c4d9"
+        },
+        "front-shiny": {
+          "path": "battle/099-front-shiny-frame0.png",
+          "bytes": 2296,
+          "sha256": "5d2e26732c37aa9b2d111eb983325bdf4dc3e8f85a65fe18b438498a930e058a"
+        },
+        "back-normal": {
+          "path": "battle/099-back-frame0.png",
+          "bytes": 2033,
+          "sha256": "ea454a73c64e7384eaf467e8fd5d86b8c1b1fc02f6ed063fff2fc78809be4d71"
+        },
+        "back-shiny": {
+          "path": "battle/099-back-shiny-frame0.png",
+          "bytes": 2106,
+          "sha256": "ffc11ba48412aee0ed1b8e564c657b3be7ebd7d186519670a37497fe17833b3c"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/99/front.png",
+          "bytes": 6782,
+          "sha256": "65b1c0863f15370fb5b788040f2dc1838c167be4db1989f69614d09abbeb9d99",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/99/back.png",
+          "bytes": 6437,
+          "sha256": "6ead10e2108cf3f6d0c55ff135e5afcee6626aa38d0474096f19d79b3cadce80",
+          "clientParity": false
+        }
+      }
+    },
+    "100": {
+      "speciesId": 100,
+      "displayNameZh": "霹雳电球",
+      "static": {
+        "front-normal": {
+          "path": "battle/100-front-frame0.png",
+          "bytes": 679,
+          "sha256": "c99e2c4cbf620d4b50b9d44ebebda7addc204f2f87b1c590eb553a7eaf2e9fde"
+        },
+        "front-shiny": {
+          "path": "battle/100-front-shiny-frame0.png",
+          "bytes": 694,
+          "sha256": "432b6eec7ff3dfb2e534379df47bf86a467610bb695b5d9c8665e62158200095"
+        },
+        "back-normal": {
+          "path": "battle/100-back-frame0.png",
+          "bytes": 612,
+          "sha256": "985d501c236ef02463a7b16170f0bbd11b9096267e29957e65c854317e74a70a"
+        },
+        "back-shiny": {
+          "path": "battle/100-back-shiny-frame0.png",
+          "bytes": 606,
+          "sha256": "4b42d8c5d25620794fb98f9611566a7f7211084de37f3c03f2a8641ac194ee38"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/100/front.png",
+          "bytes": 10000,
+          "sha256": "b40113f463e7fe8f5bea23806891cb31e086fb760d2a3de5911b60d4812e8457",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/100/back.png",
+          "bytes": 8798,
+          "sha256": "f23c4c0b9d615f51c292283cc45f815f79165d3b39d75241a6a9c56fd441feb3",
+          "clientParity": false
+        }
+      }
+    },
+    "101": {
+      "speciesId": 101,
+      "displayNameZh": "顽皮雷弹",
+      "static": {
+        "front-normal": {
+          "path": "battle/101-front-frame0.png",
+          "bytes": 1009,
+          "sha256": "f46d1b0176234add3790f9f3d321e1d590e4db1fd80d638e0407506c416c7e1b"
+        },
+        "front-shiny": {
+          "path": "battle/101-front-shiny-frame0.png",
+          "bytes": 1018,
+          "sha256": "e42e1e775532141aa677f9993a34d9e32a3b5f8279cab79ed1cf67b3209811f6"
+        },
+        "back-normal": {
+          "path": "battle/101-back-frame0.png",
+          "bytes": 795,
+          "sha256": "52731c336101b2821055c13da1d371cf7d7e27c801ee3dfbeb9d0eb27182d838"
+        },
+        "back-shiny": {
+          "path": "battle/101-back-shiny-frame0.png",
+          "bytes": 783,
+          "sha256": "e054faf39bdb45ceb7df236b4c20f6aeca2e52911a69fe35992bd6ec439f01af"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/101/front.png",
+          "bytes": 7156,
+          "sha256": "17324e74d9150d367445e8879b74d9a97a5024bfa8ba05faad3fbaf99b8450fc",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/101/back.png",
+          "bytes": 3204,
+          "sha256": "776482baf38ef60b7b77b4907de8ccdc6472d365be942b3635681c0c5c04d2bd",
+          "clientParity": false
+        }
+      }
+    },
+    "109": {
+      "speciesId": 109,
+      "displayNameZh": "瓦斯弹",
+      "static": {
+        "front-normal": {
+          "path": "battle/109-front-frame0.png",
+          "bytes": 1688,
+          "sha256": "653d1732e1b1fbb736bdf402b00254b6b3cd16dbf5c42a870749e5830cc5bf89"
+        },
+        "front-shiny": {
+          "path": "battle/109-front-shiny-frame0.png",
+          "bytes": 1669,
+          "sha256": "36d43344a0a56f876ebd5c33b12528bf0e5e73c46d137a5ea37a2d2113d4e8cf"
+        },
+        "back-normal": {
+          "path": "battle/109-back-frame0.png",
+          "bytes": 1483,
+          "sha256": "8324f9c7e215969804a5165a069941d7955b8d5a3f2cd3fe44a587265bf814f8"
+        },
+        "back-shiny": {
+          "path": "battle/109-back-shiny-frame0.png",
+          "bytes": 1487,
+          "sha256": "8f1184fd026cfd1fe89c1966a70ad7fa1eecf3f8f328f9d12fa42757544ba9d4"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/109/front.png",
+          "bytes": 6365,
+          "sha256": "0ab0b2284c0ca2c0ad1b396359ee3ff4bdae312a8e7be6d403c5a60c85d189f9",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/109/back.png",
+          "bytes": 5976,
+          "sha256": "68017ecc57761a6844acc97dd86b86035a188588783bc2fc03d7a1f685c2186c",
+          "clientParity": false
+        }
+      }
+    },
+    "110": {
+      "speciesId": 110,
+      "displayNameZh": "双弹瓦斯",
+      "static": {
+        "front-normal": {
+          "path": "battle/110-front-frame0.png",
+          "bytes": 2594,
+          "sha256": "ce7f3e045f87464cf2a22c99bbcc63055e065272433e730cfc5c21a388a2ba05"
+        },
+        "front-shiny": {
+          "path": "battle/110-front-shiny-frame0.png",
+          "bytes": 2547,
+          "sha256": "886263e5a43348db82a669663dc67a7ef6feee9e8927b5e17c6a9dbfca8baca5"
+        },
+        "back-normal": {
+          "path": "battle/110-back-frame0.png",
+          "bytes": 2091,
+          "sha256": "6adda435ea59744581e0fa82c6ac60affbdd36e23e2137a4b0086f9cf814c40d"
+        },
+        "back-shiny": {
+          "path": "battle/110-back-shiny-frame0.png",
+          "bytes": 2114,
+          "sha256": "59d5123dd3c0636573d15fcb32c4644039a885c9ed42b7f7571d8d970db4a4cc"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/110/front.png",
+          "bytes": 8843,
+          "sha256": "645338949f8bebabc3906bb0874aced05449e5d2108ae5886aca14eaf371bd01",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/110/back.png",
+          "bytes": 7680,
+          "sha256": "61947847db88c707de851962b2370857e095c0e004a04bd6fb1e5d45d26f8bb8",
+          "clientParity": false
+        }
+      }
+    },
+    "114": {
+      "speciesId": 114,
+      "displayNameZh": "蔓藤怪",
+      "static": {
+        "front-normal": {
+          "path": "battle/114-front-frame0.png",
+          "bytes": 1400,
+          "sha256": "eac4b06b48eec0b9078a604e651499c7603822f1e40e4c2ecc43e59b897c05fb"
+        },
+        "front-shiny": {
+          "path": "battle/114-front-shiny-frame0.png",
+          "bytes": 1407,
+          "sha256": "9629bf8b365ba5eed2b71384edf0f1dd42d9e04545cb3c123a02d38a77fc8821"
+        },
+        "back-normal": {
+          "path": "battle/114-back-frame0.png",
+          "bytes": 1388,
+          "sha256": "fb34fbf5c7d6a7ddfcfbc3bdab3dacb2ecbf3dc41a1739ee968b8193be9504bf"
+        },
+        "back-shiny": {
+          "path": "battle/114-back-shiny-frame0.png",
+          "bytes": 1426,
+          "sha256": "31d74e967e7c19984adb6ae920dcb3e923fcdf554ad9e1cab29b3f88c20cd8e9"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/114/front.png",
+          "bytes": 7517,
+          "sha256": "8a028099cd99cb8d641063745fdfc4875ac52802b97c1ab225800dbee55283f6",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/114/back.png",
+          "bytes": 6817,
+          "sha256": "23dcc96f9d9d32f751e812fb85caf334b86c21b40f56e67dbd3c67bb56e23359",
+          "clientParity": false
+        }
+      }
+    },
+    "116": {
+      "speciesId": 116,
+      "displayNameZh": "墨海马",
+      "static": {
+        "front-normal": {
+          "path": "battle/116-front-frame0.png",
+          "bytes": 952,
+          "sha256": "87bed503d00fae6e9e85f38462c2ddeab8edea7d2a3a893ec925c7a17befc020"
+        },
+        "front-shiny": {
+          "path": "battle/116-front-shiny-frame0.png",
+          "bytes": 983,
+          "sha256": "d52e5e9a65b5b176778098890959205193eea4cd65cca05e4abb0348fac1a9b3"
+        },
+        "back-normal": {
+          "path": "battle/116-back-frame0.png",
+          "bytes": 944,
+          "sha256": "05bd052908a635eadcd5207d7d7c5657272aa19aa16740c5851ef6863acebd94"
+        },
+        "back-shiny": {
+          "path": "battle/116-back-shiny-frame0.png",
+          "bytes": 941,
+          "sha256": "32472c382fa1c8d836f4ab8488c1baf58602081dcff884e0342555b43ff785a2"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/116/front.png",
+          "bytes": 12634,
+          "sha256": "1409a3fb130c5890d7eed5e78202d2be71b54d1f02d92a047becf94edc3c70a2",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/116/back.png",
+          "bytes": 12573,
+          "sha256": "c20d6fa16fc45c9a5e79584a8e6c395ee3ead2a480d85f16b3f2f93fbad225af",
+          "clientParity": false
+        }
+      }
+    },
+    "117": {
+      "speciesId": 117,
+      "displayNameZh": "海刺龙",
+      "static": {
+        "front-normal": {
+          "path": "battle/117-front-frame0.png",
+          "bytes": 1602,
+          "sha256": "58800ece87a1e90d66929341f62ea9e8fc8cf607c3f2f52df272ab267e9a457a"
+        },
+        "front-shiny": {
+          "path": "battle/117-front-shiny-frame0.png",
+          "bytes": 1552,
+          "sha256": "89666e5e8f65b15fe76112849e0d4adefccbffa1a1a80189c66ee063f7d473dc"
+        },
+        "back-normal": {
+          "path": "battle/117-back-frame0.png",
+          "bytes": 1520,
+          "sha256": "ce7d5a16e816102e6763af07529d80da5d5a85e48328a85ca186540ab191c097"
+        },
+        "back-shiny": {
+          "path": "battle/117-back-shiny-frame0.png",
+          "bytes": 1519,
+          "sha256": "791ee6c45b03a6200118d0d77dbb42843a337bdc583abd153d0df34b4ba5ce4d"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/117/front.png",
+          "bytes": 22103,
+          "sha256": "7a5d3f1e4a4c4422f428d54f029c9df7d1c823799060f3aaef17916bf7a9a0dd",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/117/back.png",
+          "bytes": 22460,
+          "sha256": "50d3804254a66088b3cefcb2a151686e3dd5b79e86e273bb2ef71b85e6e71f7a",
+          "clientParity": false
+        }
+      }
+    },
+    "118": {
+      "speciesId": 118,
+      "displayNameZh": "角金鱼",
+      "static": {
+        "front-normal": {
+          "path": "battle/118-front-frame0.png",
+          "bytes": 1529,
+          "sha256": "15fc666ab97f636225e533266edf434937d41bdb74e0fd01fe020cc4169e2e9d"
+        },
+        "front-shiny": {
+          "path": "battle/118-front-shiny-frame0.png",
+          "bytes": 1506,
+          "sha256": "15531dcf6207f846bb72610fc8807aa3a9015df0ea98e7f72132dbef83e6ee82"
+        },
+        "back-normal": {
+          "path": "battle/118-back-frame0.png",
+          "bytes": 1570,
+          "sha256": "2e78cc363d86ab621343842e764de873c158235558de19d7fd87855fd12348ff"
+        },
+        "back-shiny": {
+          "path": "battle/118-back-shiny-frame0.png",
+          "bytes": 1561,
+          "sha256": "c4ad4ead1ac737d6ed7b1342984babbf75e2b4649b4276d53f2d681295306bb2"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/118/front.png",
+          "bytes": 31888,
+          "sha256": "c23f58e58b58b50aea36e1d1bd44344c60461072d57c8077e747f27f742bfb42",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/118/back.png",
+          "bytes": 35069,
+          "sha256": "5144c3646edae1b6ed3b26c4904b73a7768c34bfe2df0196fef0637decda8e99",
+          "clientParity": false
+        }
+      }
+    },
+    "119": {
+      "speciesId": 119,
+      "displayNameZh": "金鱼王",
+      "static": {
+        "front-normal": {
+          "path": "battle/119-front-frame0.png",
+          "bytes": 1891,
+          "sha256": "85d792237fe2185021d84ef55328e9403ad5a462e97df4a9ead346138581f5c1"
+        },
+        "front-shiny": {
+          "path": "battle/119-front-shiny-frame0.png",
+          "bytes": 1898,
+          "sha256": "39f70513556131802f5a2a93c4f82e424a4ae99c734f1c333214aa60755ec19d"
+        },
+        "back-normal": {
+          "path": "battle/119-back-frame0.png",
+          "bytes": 1998,
+          "sha256": "2df9d107e6516f93cfb3e4e402c75eb8e57a4688849b3182379cda899154dc56"
+        },
+        "back-shiny": {
+          "path": "battle/119-back-shiny-frame0.png",
+          "bytes": 2031,
+          "sha256": "d39ab1a36e14ecbd7e9010bfb16f5f5c8ab10972e93fd88f2bcf73620a7c868e"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/119/front.png",
+          "bytes": 38174,
+          "sha256": "390ee968c62ec75fa00009e797c7cc80508d58a10b5b0ba35861c7c52dcaf3ff",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/119/back.png",
+          "bytes": 55607,
+          "sha256": "2e6298279a45fa3cb1aa5dcb65def435cd14ea8d132c957a73ddc946ec695e80",
+          "clientParity": false
+        }
+      }
+    },
+    "120": {
+      "speciesId": 120,
+      "displayNameZh": "海星星",
+      "static": {
+        "front-normal": {
+          "path": "battle/120-front-frame0.png",
+          "bytes": 1396,
+          "sha256": "22c1865151ac2daf7731050f1e1d163b3ac8b19cb821a362375cc6c57e1fa671"
+        },
+        "front-shiny": {
+          "path": "battle/120-front-shiny-frame0.png",
+          "bytes": 1397,
+          "sha256": "24d43a468f6d085d4223c45511eaae7eef5b78b6d3b53f9a48cee0ff9c6ee551"
+        },
+        "back-normal": {
+          "path": "battle/120-back-frame0.png",
+          "bytes": 873,
+          "sha256": "9ca9aac340059b615803a1caf7960613a18a4b17d2b2cda3d04dde944557e9c5"
+        },
+        "back-shiny": {
+          "path": "battle/120-back-shiny-frame0.png",
+          "bytes": 841,
+          "sha256": "b398ddac326936fd943fb3c5a2e930e9e8874facb59d839d79cd001afe9868ee"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/120/front.png",
+          "bytes": 5402,
+          "sha256": "18bb928f873e90e7bdfd7d04514f934e161cbc89329680131f3df83948f50ea5",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/120/back.png",
+          "bytes": 3140,
+          "sha256": "bd209c7544a6815e6940e1a8ceec6eeca8011a00acbeaecaab59b0f863174ff4",
+          "clientParity": false
+        }
+      }
+    },
+    "121": {
+      "speciesId": 121,
+      "displayNameZh": "宝石海星",
+      "static": {
+        "front-normal": {
+          "path": "battle/121-front-frame0.png",
+          "bytes": 1951,
+          "sha256": "d139eab73699ea5e845cff892ad6f306b4e53bb273081bc4f35c03553b3a0b01"
+        },
+        "front-shiny": {
+          "path": "battle/121-front-shiny-frame0.png",
+          "bytes": 1952,
+          "sha256": "fd266f1cd6b56d93f1b608277e1a4981f2d967b312e39ee8de776d6639179a83"
+        },
+        "back-normal": {
+          "path": "battle/121-back-frame0.png",
+          "bytes": 1335,
+          "sha256": "9060b1695ad41e5a46083b759c9275ead9bcece251d6ea90d48dc676b26d1ce9"
+        },
+        "back-shiny": {
+          "path": "battle/121-back-shiny-frame0.png",
+          "bytes": 1338,
+          "sha256": "0c4b3d7c900c073bd155bc3522c3dea1e5faf1eb694c53d77bdbd2ccb988a1b5"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/121/front.png",
+          "bytes": 27484,
+          "sha256": "840defcfde9ab8b05fa07bffa19069e7533efe1e2414ef0dce1326a2bb5ebc69",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/121/back.png",
+          "bytes": 17043,
+          "sha256": "bc0a2a073bc69f3bbfb9a3fb7959f48201a8581b99d077ab7f067704ce1b41e5",
+          "clientParity": false
+        }
+      }
+    },
+    "129": {
+      "speciesId": 129,
+      "displayNameZh": "鲤鱼王",
+      "static": {
+        "front-normal": {
+          "path": "battle/129-front-frame0.png",
+          "bytes": 1741,
+          "sha256": "1b7cbb50b0c109c02950ce3d2652b26184e82154e7856be6f95a64063dfe0e7c"
+        },
+        "front-shiny": {
+          "path": "battle/129-front-shiny-frame0.png",
+          "bytes": 1764,
+          "sha256": "59c98701e868b85d4fd620d1fe682cd6a9489ef696ffd50c64ce701ffc7f9e68"
+        },
+        "back-normal": {
+          "path": "battle/129-back-frame0.png",
+          "bytes": 1576,
+          "sha256": "f88b271f5791a62243d44a9331c7bf130446e168d94e26e11cf9765728829897"
+        },
+        "back-shiny": {
+          "path": "battle/129-back-shiny-frame0.png",
+          "bytes": 1600,
+          "sha256": "05ef7cca7467a7c1f9c941994a918e73f2649be613fe771112e0ef407575bd2f"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/129/front.png",
+          "bytes": 18646,
+          "sha256": "cb58b450700992463111b5375575a702f1e2953804e5ee38919c4d26e9a8f87a",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/129/back.png",
+          "bytes": 16168,
+          "sha256": "22b289129fbde6c4fc68a0b9461339117f37b31287b210b815989c7d341c86ad",
+          "clientParity": false
+        }
+      }
+    },
+    "130": {
+      "speciesId": 130,
+      "displayNameZh": "暴鲤龙",
+      "static": {
+        "front-normal": {
+          "path": "battle/130-front-frame0.png",
+          "bytes": 3471,
+          "sha256": "c3ff56ea487de2d64d2026c5f2503603a1324f082c09bbcad13c0aa6819e81db"
+        },
+        "front-shiny": {
+          "path": "battle/130-front-shiny-frame0.png",
+          "bytes": 3527,
+          "sha256": "97c4b19f980a189f68dbb4863b20b5fc0249d4f5006f43f135fbf49238618bd7"
+        },
+        "back-normal": {
+          "path": "battle/130-back-frame0.png",
+          "bytes": 3225,
+          "sha256": "098f358568619f46c5e91f727ed8c6dd557a9097c1410fd1f6f3ccab266210c2"
+        },
+        "back-shiny": {
+          "path": "battle/130-back-shiny-frame0.png",
+          "bytes": 3227,
+          "sha256": "c42cd074694b343e737c9766c7598d841360336b36b69b4e1fdd5397b890333c"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/130/front.png",
+          "bytes": 13750,
+          "sha256": "51e546278afeb99ca9dd4959aca716642b2282ae6560c21e23e0fec3906880df",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/130/back.png",
+          "bytes": 15956,
+          "sha256": "202eecf0b4c217060ffaec8b4f5a8b721f638aecb2cb04b7679d85e1e03a8bba",
+          "clientParity": false
+        }
+      }
+    },
+    "182": {
+      "speciesId": 182,
+      "displayNameZh": "美丽花",
+      "static": {
+        "front-normal": {
+          "path": "battle/182-front-frame0.png",
+          "bytes": 1200,
+          "sha256": "f65615474042b8479168dcaf921616e0c74961ba93d59b922b1fe9d7b97cbb8c"
+        },
+        "front-shiny": {
+          "path": "battle/182-front-shiny-frame0.png",
+          "bytes": 1211,
+          "sha256": "73bd4804ff84cc4c2bfe06743823e9a6e23db69f182b7a2631e19e16841bd4fd"
+        },
+        "back-normal": {
+          "path": "battle/182-back-frame0.png",
+          "bytes": 945,
+          "sha256": "5b3d2f5f87555be052fee5f2800b05e8db588840706d190f92a3999105271cb2"
+        },
+        "back-shiny": {
+          "path": "battle/182-back-shiny-frame0.png",
+          "bytes": 957,
+          "sha256": "f6fcd6361381d1efcb9eac8fb3e96bd14d101f013b6bf917b1f2dc3cdaaeab99"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/182/front.png",
+          "bytes": 13052,
+          "sha256": "f696c14eedba1c6e4cd321b2b6b1e98656af8e7679481ef00f715d2062cb1450",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/182/back.png",
+          "bytes": 9820,
+          "sha256": "11a03abb083e1c8f5ce8a7a09478f971e3943ab57e96ef4799a0c5885f2fdf14",
+          "clientParity": false
+        }
+      }
+    },
+    "186": {
+      "speciesId": 186,
+      "displayNameZh": "蚊香蛙皇",
+      "static": {
+        "front-normal": {
+          "path": "battle/186-front-frame0.png",
+          "bytes": 1606,
+          "sha256": "6140edd622e2908eb153240fbd67bfb4fca79a96ccd9952b0957d99bede3fe05"
+        },
+        "front-shiny": {
+          "path": "battle/186-front-shiny-frame0.png",
+          "bytes": 1612,
+          "sha256": "8a82409facc465719754f693dfb0082f9698f39a1d5a5ff4b0623b120c1020bb"
+        },
+        "back-normal": {
+          "path": "battle/186-back-frame0.png",
+          "bytes": 1223,
+          "sha256": "884dfc035a8a6c32664be2a2dc782b39d41b109cb427a4d2b61b0b51312b244c"
+        },
+        "back-shiny": {
+          "path": "battle/186-back-shiny-frame0.png",
+          "bytes": 1189,
+          "sha256": "b07e8dfec3a246e95d657d291e9d3b493d0aa826f731f79f20b0ff02c5859b78"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/186/front.png",
+          "bytes": 13682,
+          "sha256": "e9c397b6f58cede9aafdcc868d4b004b0af5dfeda92fae72b38aaf0e51e5903a",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/186/back.png",
+          "bytes": 24247,
+          "sha256": "a8a676fc63fb86ec47c53e70477f296ff18c849c5c94a423f969fb2a7b40fc49",
+          "clientParity": false
+        }
+      }
+    },
+    "208": {
+      "speciesId": 208,
+      "displayNameZh": "大钢蛇",
+      "static": {
+        "front-normal": {
+          "path": "battle/208-front-frame0.png",
+          "bytes": 2665,
+          "sha256": "3629dcc256ee5cf7a1a89d5707fe890eabfb975beff340851a0134bf9afa21ce"
+        },
+        "front-shiny": {
+          "path": "battle/208-front-shiny-frame0.png",
+          "bytes": 2609,
+          "sha256": "7385f5d5667a7ff0ee379d1b36e1bbe8c2196be93869adba15605c71b8aba8f2"
+        },
+        "back-normal": {
+          "path": "battle/208-back-frame0.png",
+          "bytes": 2187,
+          "sha256": "e635057b8d8607a331aa9dc8fd16fb00a1a39ea874d03bd0281c743caf986065"
+        },
+        "back-shiny": {
+          "path": "battle/208-back-shiny-frame0.png",
+          "bytes": 2192,
+          "sha256": "b657ca38a62710dceea041fd99666c159fd569203a9c1100d8dbec18e6d4dc12"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/208/front.png",
+          "bytes": 27955,
+          "sha256": "6bb171cfaf6b5387908fdd5339079fcf14be9f4aec0ea93948662e8fadeb5014",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/208/back.png",
+          "bytes": 24012,
+          "sha256": "e951aac1b45a2a999e184a642aea1d39584638cf00b5d25622d833789bd56dd8",
+          "clientParity": false
+        }
+      }
+    },
+    "230": {
+      "speciesId": 230,
+      "displayNameZh": "刺龙王",
+      "static": {
+        "front-normal": {
+          "path": "battle/230-front-frame0.png",
+          "bytes": 1706,
+          "sha256": "70dfcf8d56a397a4214bd7182b5324bb31239952e7452e4e36c1519a999ead3d"
+        },
+        "front-shiny": {
+          "path": "battle/230-front-shiny-frame0.png",
+          "bytes": 1710,
+          "sha256": "965198d1b5ea2ec3a02247489ceaea9a5a738434594a634fcdde9a3dedc80519"
+        },
+        "back-normal": {
+          "path": "battle/230-back-frame0.png",
+          "bytes": 1654,
+          "sha256": "b41a1c07c5f910e813293a2a72602b2f7008cc9d058fc355d96c97ee960a3f26"
+        },
+        "back-shiny": {
+          "path": "battle/230-back-shiny-frame0.png",
+          "bytes": 1653,
+          "sha256": "d2017da21474bc90505b631232f6fc0dbec0e4bdc2324b5f0c9b0ac31aea9953"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/230/front.png",
+          "bytes": 34631,
+          "sha256": "e94b47ea7da5df34cff610ec474a02bcb5e91693cf72e4f4b977d92a1878414b",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/230/back.png",
+          "bytes": 37692,
+          "sha256": "389bbce1255af4d295ac9871d9dbb3a7eccc0df2ea7daffacd30dfcf8e3f898f",
+          "clientParity": false
+        }
+      }
+    },
+    "465": {
+      "speciesId": 465,
+      "displayNameZh": "巨蔓藤",
+      "static": {
+        "front-normal": {
+          "path": "battle/465-front-frame0.png",
+          "bytes": 2494,
+          "sha256": "70173a55c9232b6e202b60120eee47bb73a6b026b1c90073bc2464dabda2d1d0"
+        },
+        "front-shiny": {
+          "path": "battle/465-front-shiny-frame0.png",
+          "bytes": 2517,
+          "sha256": "66a2d6b8700ec2d37e157176e6b902f89b899ec68af2237c52d17cde009812c8"
+        },
+        "back-normal": {
+          "path": "battle/465-back-frame0.png",
+          "bytes": 1986,
+          "sha256": "46abc24bd395a8400f3918cf2b7acd98d6f237e768f846f98168d08897aeeb65"
+        },
+        "back-shiny": {
+          "path": "battle/465-back-shiny-frame0.png",
+          "bytes": 1986,
+          "sha256": "e903715fb2e33366152669657716ea909bab2ef6e91644f7be880bc9379fccf2"
+        }
+      },
+      "animation": {
+        "front": {
+          "path": "battle-anim/465/front.png",
+          "bytes": 31409,
+          "sha256": "b2b2ab442a8f8ddbeb5a2676fdc0b1abd8b079ecf33788a1d5fd69d35fa3fc50",
+          "clientParity": false
+        },
+        "back": {
+          "path": "battle-anim/465/back.png",
+          "bytes": 25971,
+          "sha256": "7a58c5a1c150084c7845c49847e9247776be3d902848e30dd456259d00aaf95c",
+          "clientParity": false
+        }
+      }
+    }
+  }
+}
