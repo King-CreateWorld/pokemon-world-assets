@@ -1,0 +1,231 @@
+{
+  "gameCode": "IRAO",
+  "archive": "/a/0/8/3",
+  "files": {
+    "ball-00.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 0,
+      "paletteMember": 87,
+      "graphicsMember": 112,
+      "sha256": "6364fa84e06c5d41b08e4b007ef0c589ccf51eb7a7ad064f9de405d82cdf3b2c"
+    },
+    "ball-01.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 1,
+      "paletteMember": 88,
+      "graphicsMember": 113,
+      "sha256": "88a0aed28f68fabb651fdbd140626a560bb847e4ad8460a0ceb170fdc196ea47"
+    },
+    "ball-02.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 2,
+      "paletteMember": 89,
+      "graphicsMember": 114,
+      "sha256": "4ebae59583d83f7286ac16f1f87935c00151f72bbdfb2497acf09ffa6441d907"
+    },
+    "ball-03.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 3,
+      "paletteMember": 90,
+      "graphicsMember": 115,
+      "sha256": "c5e38a8c8ec7d3dad64a130d208f4877c3b054f624e0502f663094c7c864514e"
+    },
+    "ball-04.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 4,
+      "paletteMember": 91,
+      "graphicsMember": 116,
+      "sha256": "c3c9fa0428a4319b4b37eee85518eb05b643e4039a3d56fa08fbd3bf40706928"
+    },
+    "ball-05.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 5,
+      "paletteMember": 92,
+      "graphicsMember": 117,
+      "sha256": "b3ba86648adb4a60747c533812de753e2c7264d96daf1d2cdbd39493e126f94e"
+    },
+    "ball-06.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 6,
+      "paletteMember": 93,
+      "graphicsMember": 118,
+      "sha256": "29f26d69c76084ace141620bda212f05ee931146d2f6172bc92f4fa5e92b6395"
+    },
+    "ball-07.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 7,
+      "paletteMember": 94,
+      "graphicsMember": 119,
+      "sha256": "b021365602ba076a44e19ff80ab3a1fc2a5f0ae22da7eec1c51bccbbd062638e"
+    },
+    "ball-08.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 8,
+      "paletteMember": 95,
+      "graphicsMember": 120,
+      "sha256": "0d20175e697b146d14dd28a5c425edf1c84a6b3cd57bfa4a2063e513364bc9d2"
+    },
+    "ball-09.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 9,
+      "paletteMember": 96,
+      "graphicsMember": 121,
+      "sha256": "4d5ffdba8d253e9d80e892472c6377d936357d2911796486ce29644293043abe"
+    },
+    "ball-10.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 10,
+      "paletteMember": 97,
+      "graphicsMember": 122,
+      "sha256": "cce49913436bdd16b4e10b76d3e8dbcf1eeff8a4f3c48cd9ded745a67be91eab"
+    },
+    "ball-11.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 11,
+      "paletteMember": 98,
+      "graphicsMember": 123,
+      "sha256": "312952e85cf90771257b238a413acfe9dc9429d61646fb01de6ce7e2e465502c"
+    },
+    "ball-12.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 12,
+      "paletteMember": 99,
+      "graphicsMember": 124,
+      "sha256": "67bf4e9c1d245d8fc326bddb1fc0d7b3bd3e997fa01c8278a3718f84f20bd3c4"
+    },
+    "ball-13.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 13,
+      "paletteMember": 100,
+      "graphicsMember": 125,
+      "sha256": "e0865d0ce1794d370a19cba89b632146ead6e719cffe7e188f2a692669e3380a"
+    },
+    "ball-14.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 14,
+      "paletteMember": 101,
+      "graphicsMember": 126,
+      "sha256": "8614e5eea3863b647dfa1ddb4924410c52ab1011aa1af39fa00037bbff304c4e"
+    },
+    "ball-15.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 15,
+      "paletteMember": 102,
+      "graphicsMember": 127,
+      "sha256": "3c5ae61d81cf4a239916018f15365295f1dbdc48115877e35ace99a5abfa4d9e"
+    },
+    "ball-16.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 16,
+      "paletteMember": 103,
+      "graphicsMember": 128,
+      "sha256": "fca6c48ba4ee6eec718357026d889fb8c9f88eee3449db1da936d3ccbb27104a"
+    },
+    "ball-17.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 17,
+      "paletteMember": 104,
+      "graphicsMember": 129,
+      "sha256": "79c587db7f9ef210d5793648f3a8b52d2061542b464003868f83feec1b1c92ba"
+    },
+    "ball-18.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 18,
+      "paletteMember": 105,
+      "graphicsMember": 130,
+      "sha256": "adbe86596276b746495f7513a086967555f315125b8fc59668b8471d40dd39fc"
+    },
+    "ball-19.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 19,
+      "paletteMember": 106,
+      "graphicsMember": 131,
+      "sha256": "8a76d16fc47b7a4a0cc9b5b439392da3fab151ba4986cee059b7905582fe405c"
+    },
+    "ball-20.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 20,
+      "paletteMember": 107,
+      "graphicsMember": 132,
+      "sha256": "b909e7737ffb400d39c70a19cb197f7945aa9fa8e7a38047e51dec83413a2bda"
+    },
+    "ball-21.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 21,
+      "paletteMember": 108,
+      "graphicsMember": 133,
+      "sha256": "b55c71592fb8d3d29f63c9943f36902f91d5af28f483f9945d55823345628875"
+    },
+    "ball-22.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 22,
+      "paletteMember": 109,
+      "graphicsMember": 134,
+      "sha256": "9ff98653913ad13ae14142caac0802a33c591e6a424abffa0c41d74c3ef08024"
+    },
+    "ball-23.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 23,
+      "paletteMember": 110,
+      "graphicsMember": 135,
+      "sha256": "22e2d16e2498a3dfe24a1e5c1e820aec705760e6d3da8f472cfeb3c4a532709e"
+    },
+    "ball-24.png": {
+      "width": 16,
+      "height": 16,
+      "archive": "/a/0/8/3",
+      "index": 24,
+      "paletteMember": 111,
+      "graphicsMember": 136,
+      "sha256": "e5c59600eaae7abf8690c8b78af937dc7402fc8818f105c5f3dc196c33b819c0"
+    }
+  }
+}
